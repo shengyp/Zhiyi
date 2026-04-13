@@ -40,7 +40,7 @@ Suicide_Risk
 ## 爬虫代码使用
 
 ### 微博爬虫
-使用https://github.com/dataabc/weiboSpider开源项目  
+使用https://github.com/dataabc/weiboSpider
 支持爬取单个用户某一时间范围内的帖文、图片，输出为txt、json、csv格式  
 1.```pip install -r requirements.txt```  
 2.weibo_spider/config.json配置微博cookie，需要爬取的用户id和时间范围  
