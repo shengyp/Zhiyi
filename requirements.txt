@@ -1,0 +1,8 @@
+pandas
+openpyxl
+tqdm
+python-dotenv
+openai
+faiss-cpu
+sentence-transformers
+numpy
