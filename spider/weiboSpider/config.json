@@ -1,0 +1,37 @@
+{
+    "user_id_list": ["7910240402"],
+    "filter": 1,
+    "since_date": "2026-01-01",
+    "end_date": "now",
+    "random_wait_pages": [1, 5],
+    "random_wait_seconds": [6, 10],
+    "global_wait": [[1000, 3600], [500, 2000]],
+    "write_mode": ["csv", "txt", "json"],
+    "pic_download": 1,
+    "video_download": 1,
+	"file_download_timeout": [5, 5, 10],
+	"result_dir_name": 0,
+    "cookie": "_T_WM=34a67c33bedd1b11ce127e97c39fc9c5; SCF=AoboFdRL5feD53FkY5YcH68Jcs74xARjYkMeNPvaWQiwUGy624v96idPTAa1dlbGKsqfiNUTAmcSubxvwh2rRPE.; SUB=_2A25ExS-4DeRhGe9O61cX8CnMyzSIHXVnuy1wrDV6PUJbktANLW_ukW1NdKifsxp3WwUhmqlrj5Mf5pwqOjS0foxe; SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9WW4pcM.wR_Q.RvGWLIsuyb85NHD95Q4eh5fSo5Neh5RWs4Dqcj6i--ci-zEiKn4i--Ni-2Ri-z0i--Ni-isi-27i--4i-zRiKLsi--ciKn4iK.0i--Ni-i2iK.pi--NiK.7iKn0; SSOLoginState=1774280680; ALF=1776872680",
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "123456",
+        "charset": "utf8mb4"
+    },
+    "kafka_config": {
+        "bootstrap-server": "127.0.0.1:9092",
+        "weibo_topics": ["spider_weibo"],
+        "user_topics": ["spider_weibo"]
+    },
+    "sqlite_config": "weibo.db",
+    "mongo_config": {
+        "connection_string": "mongodb://admin:password@localhost:27017/weibo",
+        "dba_name": "",
+        "dba_password": ""
+    },
+    "post_config": {
+        "api_url": "",
+        "api_token": ""
+    }
+}

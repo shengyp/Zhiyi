@@ -1,0 +1,258 @@
+2026-02-20 16:01:29,279 - ERROR - config_util.py[:185] - Failed to obtain weibo.cn cookie from Chrome browser: This operation requires admin. Please run as admin.
+2026-02-20 16:01:29,281 - ERROR - config_util.py[:216] - Check for cookie failed: This operation requires admin. Please run as admin.
+2026-02-20 16:06:52,060 - ERROR - util.py[:75] - HTTPSConnectionPool(host='weibo.cn', port=443): Max retries exceeded with url: /mblog/picAll/Qq1Turx0s?rl=1 (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+        self, f"Failed to establish a new connection: {e}"
+    ) from e
+urllib3.exceptions.NewConnectionError: HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\util\retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='weibo.cn', port=443): Max retries exceeded with url: /mblog/picAll/Qq1Turx0s?rl=1 (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\weiboSpider\weibo_spider\parser\util.py", line 55, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\adapters.py", line 694, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='weibo.cn', port=443): Max retries exceeded with url: /mblog/picAll/Qq1Turx0s?rl=1 (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+2026-02-20 16:06:52,094 - ERROR - page_parser.py[:395] - 'NoneType' object has no attribute 'xpath'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\weiboSpider\weibo_spider\parser\page_parser.py", line 370, in extract_picture_urls
+    self.cookie, weibo_id).extract_preview_picture_list()
+                           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\21245\Desktop\data\weiboSpider\weibo_spider\parser\mblog_picAll_parser.py", line 12, in extract_preview_picture_list
+    return self.selector.xpath('//img/@src')
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'xpath'
+2026-02-20 16:06:55,219 - ERROR - util.py[:75] - HTTPSConnectionPool(host='weibo.cn', port=443): Max retries exceeded with url: /comment/Qq1RW3rRK (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connection.py", line 204, in _new_conn
+    sock = connection.create_connection(
+        (self._dns_host, self.port),
+    ...<2 lines>...
+        socket_options=self.socket_options,
+    )
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+    ~~~~~~~~~~~~^^^^
+ConnectionRefusedError: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connectionpool.py", line 773, in urlopen
+    self._prepare_proxy(conn)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _prepare_proxy
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connection.py", line 759, in connect
+    self.sock = sock = self._new_conn()
+                       ~~~~~~~~~~~~~~^^
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connection.py", line 219, in _new_conn
+    raise NewConnectionError(
+        self, f"Failed to establish a new connection: {e}"
+    ) from e
+urllib3.exceptions.NewConnectionError: HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。
+
+The above exception was the direct cause of the following exception:
+
+urllib3.exceptions.ProxyError: ('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。"))
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+        method=request.method,
+    ...<9 lines>...
+        chunked=chunked,
+    )
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+        method, url, error=new_e, _pool=self, _stacktrace=sys.exc_info()[2]
+    )
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\urllib3\util\retry.py", line 535, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='weibo.cn', port=443): Max retries exceeded with url: /comment/Qq1RW3rRK (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\weiboSpider\weibo_spider\parser\util.py", line 55, in handle_html
+    resp = requests.get(url, headers=headers)
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "C:\Users\21245\Desktop\data\data_env\Lib\site-packages\requests\adapters.py", line 694, in send
+    raise ProxyError(e, request=request)
+requests.exceptions.ProxyError: HTTPSConnectionPool(host='weibo.cn', port=443): Max retries exceeded with url: /comment/Qq1RW3rRK (Caused by ProxyError('Unable to connect to proxy', NewConnectionError("HTTPSConnection(host='127.0.0.1', port=7890): Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。")))
+2026-02-20 16:13:06,342 - ERROR - page_parser.py[:99] - 'NoneType' object has no attribute 'xpath'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\weiboSpider\weibo_spider\parser\page_parser.py", line 72, in get_one_page
+    info = self.selector.xpath("//div[@class='c']")
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'xpath'
+2026-02-20 16:13:06,344 - ERROR - spider.py[:241] - cannot unpack non-iterable NoneType object
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\data\weiboSpider\weibo_spider\spider.py", line 204, in get_weibo_info
+    weibos, self.weibo_id_list, to_continue = parser.get_one_page(self.weibo_id_list)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+2026-02-21 19:45:48,539 - ERROR - config_util.py[:185] - Failed to obtain weibo.cn cookie from Chrome browser: This operation requires admin. Please run as admin.
+2026-02-21 19:45:48,542 - ERROR - config_util.py[:216] - Check for cookie failed: This operation requires admin. Please run as admin.
+2026-02-21 19:55:24,244 - ERROR - page_parser.py[:99] - 'NoneType' object has no attribute 'xpath'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\parser\page_parser.py", line 72, in get_one_page
+    info = self.selector.xpath("//div[@class='c']")
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'xpath'
+2026-02-21 19:55:24,251 - ERROR - spider.py[:241] - cannot unpack non-iterable NoneType object
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\spider.py", line 204, in get_weibo_info
+    weibos, self.weibo_id_list, to_continue = parser.get_one_page(self.weibo_id_list)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+2026-02-21 19:59:54,728 - ERROR - config_util.py[:185] - Failed to obtain weibo.cn cookie from Chrome browser: This operation requires admin. Please run as admin.
+2026-02-21 19:59:54,729 - ERROR - config_util.py[:216] - Check for cookie failed: This operation requires admin. Please run as admin.
+2026-02-21 19:59:55,364 - ERROR - index_parser.py[:65] - 'NoneType' object has no attribute 'xpath'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\parser\index_parser.py", line 49, in get_user_async
+    user_id = self._get_user_id()
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\parser\index_parser.py", line 20, in _get_user_id
+    url_list = self.selector.xpath("//div[@class='u']//a")
+               ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'xpath'
+2026-02-21 19:59:55,422 - ERROR - spider.py[:262] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\spider.py", line 246, in _get_filepath
+    dir_name = self.user.nickname
+               ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2026-02-21 19:59:55,445 - ERROR - csv_writer.py[:30] - expected str, bytes or os.PathLike object, not NoneType
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\writer\csv_writer.py", line 25, in __init__
+    with open(self.file_path, 'a', encoding='utf-8-sig',
+         ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+              newline='') as f:
+              ^^^^^^^^^^^
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+2026-02-21 19:59:55,451 - ERROR - spider.py[:262] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\spider.py", line 246, in _get_filepath
+    dir_name = self.user.nickname
+               ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2026-02-21 19:59:55,452 - ERROR - spider.py[:262] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\spider.py", line 246, in _get_filepath
+    dir_name = self.user.nickname
+               ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2026-02-21 19:59:55,454 - ERROR - spider.py[:262] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\spider.py", line 246, in _get_filepath
+    dir_name = self.user.nickname
+               ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2026-02-21 19:59:55,455 - ERROR - spider.py[:262] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\spider.py", line 246, in _get_filepath
+    dir_name = self.user.nickname
+               ^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2026-02-21 19:59:55,462 - ERROR - spider.py[:356] - 'NoneType' object has no attribute 'nickname'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\spider.py", line 339, in get_one_user
+    self.write_user(self.user)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\spider.py", line 141, in write_user
+    writer.write_user(user)
+    ~~~~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\writer\txt_writer.py", line 29, in write_user
+    [v + '：' + str(getattr(self.user, k)) for k, v in self.user_desc])
+                    ~~~~~~~^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'nickname'
+2026-03-23 23:15:53,866 - ERROR - config_util.py[:185] - Failed to obtain weibo.cn cookie from Chrome browser: This operation requires admin. Please run as admin.
+2026-03-23 23:15:53,889 - ERROR - config_util.py[:216] - Check for cookie failed: This operation requires admin. Please run as admin.
+2026-03-23 23:16:03,659 - WARNING - info_parser.py[:24] - cookie错误或已过期,请按照README中方法重新获取
+2026-03-23 23:48:32,364 - ERROR - config_util.py[:185] - Failed to obtain weibo.cn cookie from Chrome browser: This operation requires admin. Please run as admin.
+2026-03-23 23:48:32,365 - ERROR - config_util.py[:216] - Check for cookie failed: This operation requires admin. Please run as admin.
+2026-03-24 00:04:08,744 - ERROR - page_parser.py[:99] - 'NoneType' object has no attribute 'xpath'
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\parser\page_parser.py", line 72, in get_one_page
+    info = self.selector.xpath("//div[@class='c']")
+           ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'xpath'
+2026-03-24 00:04:08,748 - ERROR - spider.py[:241] - cannot unpack non-iterable NoneType object
+Traceback (most recent call last):
+  File "C:\Users\21245\Desktop\Suicide_Risk_RAG\data\weiboSpider\weibo_spider\spider.py", line 204, in get_weibo_info
+    weibos, self.weibo_id_list, to_continue = parser.get_one_page(self.weibo_id_list)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
