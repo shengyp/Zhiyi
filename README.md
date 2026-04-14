@@ -47,8 +47,8 @@ Suicide_Risk
 3.```python3 -m weibo_spider```  
 
 ### 小红书爬虫
-apis与核心签名使用https://github.com/cv-cat/Spider_XHS
-main有修改，支持爬取图文笔记并识别图片中的文字内容
+apis与核心签名使用https://github.com/cv-cat/Spider_XHS  
+main有修改，支持爬取图文笔记并识别图片中的文字内容  
 ❗python版本需小于3.11（paddle支持问题）  
 1.```pip install -r requirements.txt```  
 2.xhsSpider/.env中配置微博cookie  
