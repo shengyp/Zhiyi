@@ -75,7 +75,7 @@ python semantic_completion_pipeline.py --mode semantic --input 筛选后_clean�
 
 ### 全流程运行
 ```
-python rag_pic_pipeline.py --mode full
+python semantic_completion_pipeline.py --mode full
 ```
 
 ## 原型-NLI双通道标注 archetype_annotation.py
