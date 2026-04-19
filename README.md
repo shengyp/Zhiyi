@@ -79,9 +79,6 @@ python semantic_completion_pipeline.py --mode full
 ```
 
 ## 原型-NLI双通道标注 archetype_annotation.py
-```
-pip install -r requirements.txt
-```
 ### 基本用法
 input为语义补全阶段输出（包含literal_meaning和pragmatic_inference字段），calibration为人工标注样本（包含 risk_level 字段（整数 0-5））
 ```
