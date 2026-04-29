@@ -13,22 +13,6 @@
   - 精确率 (Precision), 召回率 (Recall), F1-Score (per-class & macro/weighted)
   - 混淆矩阵
   - Cohen's Kappa
-
-  # 5折交叉验证 + sqrt平方根增强:
-  python model_validation.py \
-      --input output/annotated_risk_dataset.json \
-      --models tfidf_svm,tfidf_rf \
-      --augment --n_folds 5
-
-  # 单次划分（不交叉验证）:
-  python model_validation.py \
-      --input output/annotated_risk_dataset.json \
-      --models tfidf_svm,tfidf_rf,llm_zeroshot \
-      --n_folds 1 --test_ratio 0.2
-
-依赖:
-  pip install scikit-learn openai python-dotenv tqdm numpy pandas jieba
-  # 可选(BERT微调): pip install transformers torch
 """
 
 import os
