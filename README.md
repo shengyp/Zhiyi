@@ -96,13 +96,13 @@ input为语义补全阶段输出（final_semantic_completion.json，包含litera
 python llm_annotation.py --input output\20260424_202034\final_semantic_completion.json                           
 ```
 ### 参数说明
-```--input``` 输出JSON文件路径
-```--output``` 输出JSON文件路径（默认: annotated_risk_dataset.json）
-```--embedding_model``` LLM模型名称（默认: shibing624/text2vec-base-chinese）
-```--llm_model``` LLM模型名称（默认: deepseek-chat）
-```--nli_model``` NLI模型名称（默认：MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7）
-```--api_key``` 此处输入或在.env里设置
-```--base_url``` LLM API Base URL（默认: https://api.deepseek.com）
+```--input``` 输出JSON文件路径  
+```--output``` 输出JSON文件路径（默认: annotated_risk_dataset.json）  
+```--embedding_model``` LLM模型名称（默认: shibing624/text2vec-base-chinese）  
+```--llm_model``` LLM模型名称（默认: deepseek-chat）  
+```--nli_model``` NLI模型名称（默认：MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7）  
+```--api_key``` 此处输入或在.env里设置  
+```--base_url``` LLM API Base URL（默认: https://api.deepseek.com）  
 
 ## 模型验证 model_validation.py
 input为标注后数据（默认为annotated_risk_dataset.json），输出output/validation/validation_report_时间戳.json 
@@ -111,16 +111,16 @@ input为标注后数据（默认为annotated_risk_dataset.json），输出output
 python model_validation.py --input annotated_risk_dataset.json --output_dir output/validation --models tfidf_svm,tfidf_rf,bert,llm_zeroshot --n_folds 1
 ```
 ### 参数说明 
-```--input``` 数据集文件路径 
-```--output_dir``` 输出目录 
-```--models``` 要评估的模型，逗号分隔: tfidf_svm,tfidf_rf,bert,llm_zeroshot 
-```--n_folds``` 交叉验证折数（默认5）。设为1则退化为单次划分 
-```--test_ratio``` 测试集比例（仅n_folds=1时使用，默认0.2） 
-```--seed``` 随机种子，默认为42 
-```--llm_test_limit``` LLM零样本评估的最大测试样本数（控制API费用） 
-```--augment``` 对每折训练集执行数据增强（平方根平衡），需要与data_augmentation.py在同级目录下 
-```--evidence``` 暗语证据库路径（增强时使用），默认evidence/slang_emoji_dict.json
-```--backtranslation``` 启用回译增强 
-```--bert_model``` BERT模型名称或本地路径（默认: bert-base-chinese） 
-```--text_mode``` 文本构建模式（消融实验用）: content=仅原文; content_literal=原文+语重写帖文;content_literal_pragmatic=全部字段 （默认） 
-```--high_risk_boost``` 等级3/4/5的类别权重额外倍率（默认3.0, 设为1.0则不额外提升）
+```--input``` 数据集文件路径  
+```--output_dir``` 输出目录  
+```--models``` 要评估的模型，逗号分隔: tfidf_svm,tfidf_rf,bert,llm_zeroshot  
+```--n_folds``` 交叉验证折数（默认5）。设为1则退化为单次划分  
+```--test_ratio``` 测试集比例（仅n_folds=1时使用，默认0.2）  
+```--seed``` 随机种子，默认为42  
+```--llm_test_limit``` LLM零样本评估的最大测试样本数（控制API费用）  
+```--augment``` 对每折训练集执行数据增强（平方根平衡），需要与data_augmentation.py在同级目录下  
+```--evidence``` 暗语证据库路径（增强时使用），默认evidence/slang_emoji_dict.json  
+```--backtranslation``` 启用回译增强  
+```--bert_model``` BERT模型名称或本地路径（默认: bert-base-chinese）  
+```--text_mode``` 文本构建模式（消融实验用）: content=仅原文; content_literal=原文+语重写帖文;content_literal_pragmatic=全部字段 （默认）  
+```--high_risk_boost``` 等级3/4/5的类别权重额外倍率（默认3.0, 设为1.0则不额外提升）  
