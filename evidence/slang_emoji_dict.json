@@ -1,0 +1,8114 @@
+[
+  {
+    "surface": "极速版",
+    "meaning": "精神病谐音",
+    "risk_hint": "可能暗示患有精神疾病",
+    "pinyin_key": "jisuban",
+    "variants": [
+      "极速版"
+    ]
+  },
+  {
+    "surface": "🔪",
+    "meaning": "刀具符号",
+    "risk_hint": "可能指代用于自伤的工具或行为",
+    "pinyin_key": "🔪",
+    "variants": [
+      "🔪"
+    ]
+  },
+  {
+    "surface": "jsb",
+    "meaning": "精神病缩写",
+    "risk_hint": "可能暗示作者有精神疾病或心理问题",
+    "pinyin_key": "jsb",
+    "variants": [
+      "jsb"
+    ]
+  },
+  {
+    "surface": "曲提花",
+    "pinyin_key": "qutihua",
+    "variants": [
+      "曲提花",
+      "躯体化",
+      "曲蹄花",
+      "区蹄花",
+      "蛆体化",
+      "祛体话"
+    ],
+    "meaning": "'躯体化'的谐音，指心理问题转化为身体症状",
+    "risk_hint": "可能暗示患有较为严重的精神疾病，已经出现躯体化症状，反映潜在的心理健康风险或情绪困扰"
+  },
+  {
+    "surface": "娥",
+    "meaning": "第一人称代称（我）",
+    "risk_hint": "用于指代作者，无直接风险暗示",
+    "pinyin_key": "e",
+    "variants": [
+      "娥"
+    ]
+  },
+  {
+    "surface": "🍓",
+    "meaning": "厕妹谐音，指同类投稿者",
+    "risk_hint": "用于识别群体语境，不直接构成风险",
+    "pinyin_key": "🍓",
+    "variants": [
+      "🍓"
+    ]
+  },
+  {
+    "surface": "猫",
+    "meaning": "妈谐音，指妈妈",
+    "risk_hint": "用于识别人称指代，不直接构成风险",
+    "pinyin_key": "mao",
+    "variants": [
+      "猫"
+    ]
+  },
+  {
+    "surface": "歌",
+    "pinyin_key": "ge",
+    "variants": [
+      "歌",
+      "ge",
+      "割",
+      "哥",
+      "鸽",
+      "戈"
+    ],
+    "meaning": "割（谐音，指割腕等自伤行为）",
+    "risk_hint": "可能指自伤行为（如割伤），暗示自我伤害风险"
+  },
+  {
+    "surface": "特么",
+    "meaning": "粗俗用语，表示愤怒或不满",
+    "risk_hint": "可能暗示情绪激动或对现状的强烈不满",
+    "pinyin_key": "teme",
+    "variants": [
+      "特么"
+    ]
+  },
+  {
+    "surface": "buff",
+    "meaning": "游戏术语，指增益效果，此处反讽指“叠加的负面状态或debuff”。",
+    "risk_hint": "用游戏术语形容现实困境，可能反映逃避或无力感，将痛苦类比为游戏机制以减轻心理负担。",
+    "pinyin_key": "buff",
+    "variants": [
+      "buff"
+    ]
+  },
+  {
+    "surface": "叫驴",
+    "pinyin_key": "jiaolv",
+    "variants": [
+      "叫驴",
+      "焦绿",
+      "角铝",
+      "蕉绿",
+      "椒绿",
+      "角驴",
+      "角绿"
+    ],
+    "meaning": "谐音“焦虑”，指代焦虑情绪",
+    "risk_hint": "直接表达焦虑情绪，与心理压力相关"
+  },
+  {
+    "surface": "冻麦",
+    "meaning": "动脉",
+    "risk_hint": "可能指代动脉，涉及自伤风险部位",
+    "pinyin_key": "dongmai",
+    "variants": [
+      "冻麦"
+    ]
+  },
+  {
+    "surface": "紫餐",
+    "pinyin_key": "zican",
+    "variants": [
+      "紫餐",
+      "字惨",
+      "紫灿",
+      "自残",
+      "紫参",
+      "自can",
+      "紫惭",
+      "自灿",
+      "自惨"
+    ],
+    "meaning": "'自残'的谐音，指自我伤害行为",
+    "risk_hint": "暗示自我伤害，可能指向自杀倾向或严重的心理危机。"
+  },
+  {
+    "surface": "重开",
+    "pinyin_key": "zhongkai",
+    "variants": [
+      "重开",
+      "重凯"
+    ],
+    "meaning": "重新开始人生，通常指自杀后重新投胎或开始新生活，是网络隐语中对自杀的一种委婉说法。",
+    "risk_hint": "暗示自杀意图或极端消极的人生态度，可能伴随自我伤害的风险。"
+  },
+  {
+    "surface": "健人",
+    "meaning": "健康人代称，与“健全逼”类似，指在心理、社会适应等方面健康正常的人，常带有讽刺意味。",
+    "risk_hint": "体现对他人的恶意与攻击性，可能指向特定对象或泛化的仇恨。",
+    "pinyin_key": "jianren",
+    "variants": [
+      "健人",
+      "建人"
+    ]
+  },
+  {
+    "surface": "金属病院",
+    "meaning": "可能指代精神病院或心理健康治疗机构，通过谐音或拆分字词的方式隐晦表达。",
+    "risk_hint": "涉及精神健康治疗场所，可能暗示住院经历或对医疗体系的负面感受。",
+    "pinyin_key": "jinshubingyuan",
+    "variants": [
+      "金属病院"
+    ]
+  },
+  {
+    "surface": "坐lao",
+    "pinyin_key": "zuolao",
+    "variants": [
+      "坐lao",
+      "坐劳"
+    ],
+    "meaning": "“坐牢”的谐音或变体，比喻封闭病房的经历如同监禁。; 坐牢",
+    "risk_hint": "隐喻封闭病房经历如同监狱，反映对精神科住院治疗的负面感受，如失去自由、痛苦或压抑"
+  },
+  {
+    "surface": "b",
+    "meaning": "脏话或侮辱性词汇的缩写，常用于网络语境中表达轻蔑或愤怒。",
+    "risk_hint": "可能暗示对特定群体的敌意或攻击性情绪，存在暴力或歧视风险。",
+    "pinyin_key": "b",
+    "variants": [
+      "b"
+    ]
+  },
+  {
+    "surface": "现生",
+    "meaning": "“现实生活”的缩写，指代线下或日常生活中的经历。",
+    "risk_hint": "可能用于对比网络与现实，表达对他人生活状态的不满或嫉妒。",
+    "pinyin_key": "xiansheng",
+    "variants": [
+      "现生"
+    ]
+  },
+  {
+    "surface": "砍s",
+    "meaning": "“砍死”的隐晦表达，通过拼音缩写规避直接暴力表述。",
+    "risk_hint": "暗示作者有暴力倾向或攻击性想法，可能指向对他人实施伤害的意图，反映了强烈的愤怒和敌意情绪，存在潜在的心理风险",
+    "pinyin_key": "kans",
+    "variants": [
+      "砍s"
+    ]
+  },
+  {
+    "surface": "跳娄",
+    "pinyin_key": "tiaolou",
+    "variants": [
+      "跳娄",
+      "跳楼"
+    ],
+    "meaning": "可能为“跳楼”的谐音或变体隐写，指从高处跳下自杀。; 跳楼",
+    "risk_hint": "暗示自杀意念或行为，可能表示作者有强烈的绝望感和自伤/自杀倾向"
+  },
+  {
+    "surface": "小腿毛",
+    "meaning": "网络用语，意指“盲目追随者”或“无脑粉丝”，带有贬义",
+    "risk_hint": "涉及对他人群体的贬低，暗示群体对立或冲突",
+    "pinyin_key": "xiaotuimao",
+    "variants": [
+      "小腿毛"
+    ]
+  },
+  {
+    "surface": "洗",
+    "meaning": "网络用语，意指“洗白”或“辩护”，试图为负面事件或人物辩解",
+    "risk_hint": "可能涉及对他人行为的辩护或争论，暗示争议性内容。",
+    "pinyin_key": "xi",
+    "variants": [
+      "洗"
+    ]
+  },
+  {
+    "surface": "鲨了",
+    "pinyin_key": "shale",
+    "variants": [
+      "鲨了",
+      "莎了",
+      "沙了",
+      "啥了",
+      "杀了"
+    ],
+    "meaning": "杀了",
+    "risk_hint": "可能暗示暴力倾向或极端情绪，存在自我伤害或伤害他人的潜在风险"
+  },
+  {
+    "surface": "⭐",
+    "meaning": "性",
+    "risk_hint": "可能指代与性相关的内容，用于规避审查或敏感词过滤",
+    "pinyin_key": "⭐",
+    "variants": [
+      "⭐"
+    ]
+  },
+  {
+    "surface": "羞chi",
+    "meaning": "羞耻",
+    "risk_hint": "表示羞耻感，可能反映自我否定、内疚或对社会评价的敏感",
+    "pinyin_key": "xiuchi",
+    "variants": [
+      "羞chi"
+    ]
+  },
+  {
+    "surface": "4️⃣掉",
+    "meaning": "“死掉”的隐语表达，用数字4和符号替代“死”字",
+    "risk_hint": "暗示作者可能表达自杀或死亡的愿望，显示负面情绪和潜在心理风险",
+    "pinyin_key": "4️⃣diao",
+    "variants": [
+      "4️⃣掉",
+      "4️⃣调"
+    ]
+  },
+  {
+    "surface": "早丝",
+    "meaning": "早死",
+    "risk_hint": "可能表达自我诅咒或强烈的负面情绪，如绝望、抑郁或自毁倾向",
+    "pinyin_key": "zaosi",
+    "variants": [
+      "早丝"
+    ]
+  },
+  {
+    "surface": "🏥",
+    "meaning": "医院",
+    "risk_hint": "emoji隐喻，指医院，暗示医疗或心理治疗相关，但非直接自伤/自杀隐语",
+    "pinyin_key": "🏥",
+    "variants": [
+      "🏥"
+    ]
+  },
+  {
+    "surface": "pyq",
+    "meaning": "朋友圈",
+    "risk_hint": "可能指代社交媒体平台上的私人社交圈，用于分享生活动态，本身无直接风险，但可能涉及隐私或社交比较引发的负面情绪。",
+    "pinyin_key": "pyq",
+    "variants": [
+      "pyq"
+    ]
+  },
+  {
+    "surface": "智障",
+    "meaning": "原指智力障碍，网络用语中常作为贬义词，用于辱骂或形容他人愚蠢、令人讨厌。",
+    "risk_hint": "可能暗示对家人的强烈不满、怨恨或攻击性情绪，存在家庭关系冲突风险。",
+    "pinyin_key": "zhizhang",
+    "variants": [
+      "智障"
+    ]
+  },
+  {
+    "surface": "惨逼",
+    "meaning": "网络流行语，“逼”同“b”为对某一群体的蔑称。“惨逼”为对常向人表达自己悲惨处境的人的蔑称。",
+    "risk_hint": "表达对特定群体的敌意或攻击性情绪",
+    "pinyin_key": "canbi",
+    "variants": [
+      "惨逼"
+    ]
+  },
+  {
+    "surface": "井力",
+    "meaning": "警力",
+    "risk_hint": "指代警力资源，暗示对执法资源分配的不满或讽刺。",
+    "pinyin_key": "jingli",
+    "variants": [
+      "井力"
+    ]
+  },
+  {
+    "surface": "上街🔪人",
+    "meaning": "上街持刀伤人",
+    "risk_hint": "暗示可能采取极端暴力行为，隐晦表达极端暴力倾向或对社会不公的愤怒",
+    "pinyin_key": "shangjie🔪ren",
+    "variants": [
+      "上街🔪人"
+    ]
+  },
+  {
+    "surface": "兜底",
+    "meaning": "指家庭提供经济或精神上的全面支持与保障，使其无后顾之忧。",
+    "risk_hint": "可能暗示原生家庭支持不足，导致个体缺乏安全感或应对困难的能力，存在心理风险。",
+    "pinyin_key": "doudi",
+    "variants": [
+      "兜底"
+    ]
+  },
+  {
+    "surface": "健全逼",
+    "meaning": "网络用语，指那些在心理、社会适应等方面看似“完美”或“无懈可击”的人，常带有讽刺或自嘲意味。",
+    "risk_hint": "表达对健康人的贬低与讽刺，可能反映自卑、抑郁或对社会标准的抗拒。",
+    "pinyin_key": "jianquanbi",
+    "variants": [
+      "健全逼"
+    ]
+  },
+  {
+    "surface": "无痛消失",
+    "meaning": "指没有痛苦地离开人世或彻底消失，常作为自杀的隐晦表达。",
+    "risk_hint": "可能暗示自杀倾向或严重的抑郁情绪，需高度关注其心理危机风险。",
+    "pinyin_key": "wutongxiaoshi",
+    "variants": [
+      "无痛消失"
+    ]
+  },
+  {
+    "surface": "4⃣️",
+    "meaning": "死",
+    "risk_hint": "可能表达对他人或自身的暴力、伤害或死亡意愿，存在潜在的心理危机风险",
+    "pinyin_key": "4⃣️",
+    "variants": [
+      "4⃣️"
+    ]
+  },
+  {
+    "surface": "zs",
+    "pinyin_key": "zs",
+    "variants": [
+      "zs",
+      "ZS"
+    ],
+    "meaning": "自杀",
+    "risk_hint": "指代自杀，暗示自我伤害或结束生命的意图"
+  },
+  {
+    "surface": "想亖",
+    "pinyin_key": "xiangsi",
+    "variants": [
+      "想亖",
+      "相似",
+      "想死",
+      "相亖"
+    ],
+    "meaning": "“想死”的谐音，用于隐晦表达自杀念头",
+    "risk_hint": "表达自杀意念或极度绝望的情绪"
+  },
+  {
+    "surface": "渡劫",
+    "meaning": "源自修仙文化，指修炼者经历天劫以提升境界，常被引申为比喻度过艰难、痛苦的时期或挑战。",
+    "risk_hint": "暗示当前经历极其困难、煎熬，可能带有对生活压力、心理痛苦的隐喻，甚至隐含消极逃避或极端应对风险。",
+    "pinyin_key": "dujie",
+    "variants": [
+      "渡劫"
+    ]
+  },
+  {
+    "surface": "鼠",
+    "pinyin_key": "shu",
+    "variants": [
+      "鼠",
+      "暑"
+    ],
+    "meaning": "谐音“死”，指代自杀或死亡意愿。",
+    "risk_hint": "可能暗示自杀、死亡意念或极端负面情绪"
+  },
+  {
+    "surface": "yiyu症",
+    "meaning": "抑郁症",
+    "risk_hint": "指代抑郁症，属于心理健康问题，暗示情绪困扰或心理疾病风险。",
+    "pinyin_key": "yiyuzheng",
+    "variants": [
+      "yiyu症"
+    ]
+  },
+  {
+    "surface": "测没",
+    "meaning": "厕妹谐音，指同类投稿者",
+    "risk_hint": "用于识别群体语境，不直接构成风险",
+    "pinyin_key": "cemei",
+    "variants": [
+      "测没"
+    ]
+  },
+  {
+    "surface": "雪图",
+    "meaning": "自残后的伤口或血迹照片",
+    "risk_hint": "记录自我伤害相关图像，暗示已发生自我伤害行为或存在相关倾向",
+    "pinyin_key": "xuetu",
+    "variants": [
+      "雪图"
+    ]
+  },
+  {
+    "surface": "雪渍",
+    "meaning": "自残后留下的血迹",
+    "risk_hint": "自伤相关痕迹，暗示已发生自我伤害行为或存在相关倾向",
+    "pinyin_key": "xuezi",
+    "variants": [
+      "雪渍"
+    ]
+  },
+  {
+    "surface": "雪痂",
+    "meaning": "自残伤口结的痂",
+    "risk_hint": "自伤相关痕迹，暗示已发生自我伤害行为或存在相关倾向",
+    "pinyin_key": "xuejia",
+    "variants": [
+      "雪痂"
+    ]
+  },
+  {
+    "surface": "冲开",
+    "pinyin_key": "chongkai",
+    "variants": [
+      "冲开",
+      "虫凯",
+      "虫开",
+      "冲恺"
+    ],
+    "meaning": "重新开始人生，通常指自杀后重新投胎或开始新生活，是网络隐语中对自杀的一种委婉说法。",
+    "risk_hint": "直接暗示自我伤害或自杀意图，表明用户可能正在考虑结束生命"
+  },
+  {
+    "surface": "趋势",
+    "meaning": "去世谐音，即自我伤害或自杀的隐喻。",
+    "risk_hint": "直接暗示自我伤害或自杀意图，表明用户可能正在考虑结束生命",
+    "pinyin_key": "qushi",
+    "variants": [
+      "趋势"
+    ]
+  },
+  {
+    "surface": "s",
+    "pinyin_key": "s",
+    "variants": [
+      "s",
+      "S"
+    ],
+    "meaning": "网络用语中常作为‘死’的缩写",
+    "risk_hint": "暗示作者可能正在考虑自杀或表达对死亡的渴望，属极端负面情绪表达"
+  },
+  {
+    "surface": "无痛重开",
+    "meaning": "指无痛苦地重新开始，常被用作自杀或结束生命的委婉说法。",
+    "risk_hint": "暗示可能存在自残或自杀倾向，属于高风险心理危机信号。",
+    "pinyin_key": "wutongzhongkai",
+    "variants": [
+      "无痛重开"
+    ]
+  },
+  {
+    "surface": "社会飞舞",
+    "meaning": "谐音“社会废物”，指在社会中无所作为、被认为没有价值的人。",
+    "risk_hint": "表达强烈的自我否定、自卑或绝望感，可能伴随抑郁、自我贬低等心理风险。",
+    "pinyin_key": "shehuifeiwu",
+    "variants": [
+      "社会飞舞"
+    ]
+  },
+  {
+    "surface": "铜丝",
+    "pinyin_key": "tongsi",
+    "variants": [
+      "铜丝",
+      "桶丝",
+      "捅四",
+      "同思"
+    ],
+    "meaning": "谐音“捅死”，指用刀等利器杀害他人'",
+    "risk_hint": "表达对特定对象的强烈仇恨和暴力倾向，可能涉及人身伤害或谋杀意图"
+  },
+  {
+    "surface": "紫砂",
+    "pinyin_key": "zisha",
+    "variants": [
+      "紫砂",
+      "紫纱",
+      "自莎",
+      "自砂",
+      "自杀"
+    ],
+    "meaning": "谐音“自杀”，指结束自己的生命",
+    "risk_hint": "形容自杀相关行为或意念"
+  },
+  {
+    "surface": "scl-90",
+    "meaning": "指症状自评量表-90，一种心理健康评估工具，用于筛查心理症状。",
+    "risk_hint": "可能暗示用户正在经历心理困扰，或对心理健康问题有认知，存在潜在的自伤或情绪崩溃风险。",
+    "pinyin_key": "scl-90",
+    "variants": [
+      "scl-90"
+    ]
+  },
+  {
+    "surface": "思",
+    "pinyin_key": "si",
+    "variants": [
+      "思",
+      "亖",
+      "si",
+      "斯",
+      "私",
+      "死",
+      "丝",
+      "撕",
+      "寺",
+      "四",
+      "嘶",
+      "巳",
+      "絲"
+    ],
+    "meaning": "可能为“死”的谐音或委婉表达，常用于非正式语境中表达死亡或结束的含义。",
+    "risk_hint": "可能暗示死亡或自我伤害的负面状态，反映痛苦和绝望情绪"
+  },
+  {
+    "surface": "🧊友",
+    "meaning": "可能指代“病友”，即患有相似心理或精神健康问题的人群，用冰（🧊）的谐音或隐喻来隐晦表达。",
+    "risk_hint": "暗示用户可能属于某个有心理困扰的群体，存在抑郁、焦虑或其他心理健康风险。",
+    "pinyin_key": "🧊you",
+    "variants": [
+      "🧊友"
+    ]
+  },
+  {
+    "surface": "pua",
+    "meaning": "通常指“情感操控”或“精神虐待”，源于“Pick-up Artist”（搭讪艺术家）的缩写，但已泛化为心理压迫行为。",
+    "risk_hint": "直接暗示用户遭受长期精神暴力，可能伴随低自尊、创伤或抑郁风险。",
+    "pinyin_key": "pua",
+    "variants": [
+      "pua"
+    ]
+  },
+  {
+    "surface": "4",
+    "meaning": "死",
+    "risk_hint": "，暗示自杀意念或死亡愿望，可能表达消极、绝望或自毁倾向",
+    "pinyin_key": "4",
+    "variants": [
+      "4"
+    ]
+  },
+  {
+    "surface": "高孝",
+    "pinyin_key": "gaoxiao",
+    "variants": [
+      "高孝",
+      "膏孝"
+    ],
+    "meaning": "可能为“高考”的谐音，指中国的高等教育入学考试; 高考",
+    "risk_hint": "暗示对重要考试（如高考）的焦虑、压力或逃避情绪，可能涉及学业压力、自我否定或抑郁倾向"
+  },
+  {
+    "surface": "碱厨",
+    "meaning": "可能为“贱畜”的谐音或变体，用于贬低、侮辱他人，表达强烈的厌恶或愤怒情绪。",
+    "risk_hint": "该词可能暗示用户存在攻击性倾向、人际冲突或极端负面认知，需警惕情绪失控或对他人产生敌意。",
+    "pinyin_key": "jianchu",
+    "variants": [
+      "碱厨"
+    ]
+  },
+  {
+    "surface": "蛆",
+    "meaning": "昆虫幼虫，常与腐烂、肮脏或死亡关联",
+    "risk_hint": "用作比喻时可能反映极度的自我厌恶、贬低或对身体的病态联想",
+    "pinyin_key": "qu",
+    "variants": [
+      "蛆"
+    ]
+  },
+  {
+    "surface": "去死",
+    "pinyin_key": "qusi",
+    "variants": [
+      "去死",
+      "去si",
+      "去私"
+    ],
+    "meaning": "表达强烈的诅咒或希望对方死亡的情绪; 去死",
+    "risk_hint": "可能暗示对他人的极端愤怒、憎恨或心理创伤，存在潜在的自伤或伤人风险; 表明极端负面情绪和潜在自杀风险直接表达自杀意念"
+  },
+  {
+    "surface": "逼亖娥吗",
+    "meaning": "谐音隐语，原词为“逼死我吗”，通过字形替换（亖=死）和语气词变形（娥吗=我吗）来规避直接表达",
+    "risk_hint": "强烈情绪宣泄，可能暗示自我伤害倾向或极端无助感",
+    "pinyin_key": "bisiema",
+    "variants": [
+      "逼亖娥吗"
+    ]
+  },
+  {
+    "surface": "jsb💊",
+    "meaning": "jsb为精神病的缩写，💊指药物，指精神类药物",
+    "risk_hint": "暗示药物滥用或自我伤害的风险",
+    "pinyin_key": "jsb💊",
+    "variants": [
+      "jsb💊"
+    ]
+  },
+  {
+    "surface": "咔了",
+    "meaning": "删除、屏蔽或处理掉（评论或内容）",
+    "risk_hint": "可能指代内容管理行为，暗示对负面内容的处理",
+    "pinyin_key": "kale",
+    "variants": [
+      "咔了"
+    ]
+  },
+  {
+    "surface": "一点也不苦也不累",
+    "meaning": "为反讽表达，实际含义是“非常痛苦和疲惫”。",
+    "risk_hint": "暗示情绪压抑、否认真实感受或潜在抑郁倾向。",
+    "pinyin_key": "yidianyebukuyebulei",
+    "variants": [
+      "一点也不苦也不累"
+    ]
+  },
+  {
+    "surface": "走马灯",
+    "meaning": "比喻人生或记忆快速、连续地回放，常与临终前的回忆或总结性回顾相关。",
+    "risk_hint": "可能暗示对生命终结的思考、对过去的反复回忆，或存在抑郁、绝望情绪，需关注其心理健康状态。; 暗示对死亡的联想、生命终结的消极想象或存在虚无感",
+    "pinyin_key": "zoumadeng",
+    "variants": [
+      "走马灯"
+    ]
+  },
+  {
+    "surface": "劝＿我活着",
+    "meaning": "劝阻我继续生存",
+    "risk_hint": "可能暗示对劝阻其生存的他人或外界干预的抵触情绪，反映强烈的自我否定与绝望感",
+    "pinyin_key": "quan＿wohuozhe",
+    "variants": [
+      "劝＿我活着"
+    ]
+  },
+  {
+    "surface": "321",
+    "meaning": "由常用语“321跳”衍生，跳楼自杀的隐晦表达",
+    "risk_hint": "暗示跳楼自杀的意图，表明用户可能正在考虑结束生命或已经采取过相关行为",
+    "pinyin_key": "321",
+    "variants": [
+      "321"
+    ]
+  },
+  {
+    "surface": "💊",
+    "meaning": "药物，可能指精神类药物或处方药",
+    "risk_hint": "药物相关行为，可能涉及复用药物进行治疗或药物滥用问题，可能涉及自伤行为",
+    "pinyin_key": "💊",
+    "variants": [
+      "💊"
+    ]
+  },
+  {
+    "surface": "jsjb",
+    "meaning": "“精神疾病”的拼音缩写，用于指代精神疾病或相关群体。",
+    "risk_hint": "可能涉及对精神疾病群体的歧视或污名化言论，暗示对特定群体的负面情绪或攻击。",
+    "pinyin_key": "jsjb",
+    "variants": [
+      "jsjb"
+    ]
+  },
+  {
+    "surface": "销号跑路",
+    "meaning": "删除账号并彻底离开平台，常用来形容因压力或冲突而逃避网络环境",
+    "risk_hint": "表明用户可能经历严重的网络心理压力，有社交退缩或自我隔离倾向，需关注其现实中的心理状态",
+    "pinyin_key": "xiaohaopaolu",
+    "variants": [
+      "销号跑路"
+    ]
+  },
+  {
+    "surface": "ed",
+    "meaning": "指代进食障碍（Eating Disorder）的缩写，是一种心理或精神健康问题的隐晦表达。",
+    "risk_hint": "暗示用户可能正在经历与饮食失调相关的心理困扰或痛苦，涉及自我伤害风险",
+    "pinyin_key": "ed",
+    "variants": [
+      "ed"
+    ]
+  },
+  {
+    "surface": "似",
+    "pinyin_key": "shi",
+    "variants": [
+      "似",
+      "十"
+    ],
+    "meaning": "可能为“死”的谐音或简写，表达自我伤害或绝望情绪",
+    "risk_hint": "可能表达自伤或轻生意图; 可能表达自毁或攻击性倾向; 可能指死亡或自杀; 死亡/自杀; 可能暗示自杀或死亡意愿; 自杀意念; 暗示自杀意图; 可能表达自杀意愿或对死亡的恐惧; 死亡/自杀意图; 自杀/死亡; 可能暗示自杀意念; 自杀或死亡相关; 可能暗示自杀或死亡意念; 可能隐喻负面或厌恶内容; 直接表达死亡相关意念; 自杀/自伤意念; 自杀/死亡暗示; 直接表达死亡意愿，暗示自杀意图; 暗示作者可能处于心理危机状态，有自杀意念或对死亡的渴望; 暗示死亡相关意念，结合上下文'都去似'，表达希望他人死亡的极端负面情绪，可能反映作者在痛苦下的绝望或愤怒，存在心理风险; 暗示作者有自杀意念或对死亡的思考，可能表达负面情绪和绝望感; 暗示自杀倾向或死亡意愿，表达强烈的负面情绪和绝望感; 暗示自杀意念或对死亡的考虑，可能反映绝望或结束生命的倾向; 暗示作者可能考虑自杀作为逃避现实的方式，表达绝望和自毁倾向; 暗示作者可能有自杀倾向或强烈负面情绪，表达对生活的绝望感; 暗示作者可能有自杀倾向或强烈的负面情绪，表达对生命的否定和绝望; 暗示作者有自杀意念，但存在矛盾心理（“想似”与“劝回来”交替），可能处于心理危机状态，有自伤/自杀风险; 暗示作者可能有自杀或同归于尽的倾向，表达极端负面情绪和绝望感; 暗示作者可能有自杀意念或极端负面情绪，结合“一头撞”可能指向自伤行为; 暗示作者可能考虑自杀作为逃避未来压力的方式，表达绝望和无助情绪; 暗示作者可能有自杀或自伤倾向，表达了对即将到来的学校报道的极度恐惧或绝望情绪，风险较高; 暗示作者在痛苦时产生死亡或自杀的念头，表达强烈的负面情绪和可能的自伤/自杀倾向; 暗示作者可能对生活感到极度疲惫或绝望，有轻生念头或消极态度; 暗示作者有自杀意念，表达对死亡的渴望或考虑，但可能因恐惧疼痛而犹豫，属于高风险心理危机信号"
+  },
+  {
+    "surface": "自嬷",
+    "meaning": "网络用语，指代将自己塑造为脆弱美丽的形象，以寻求自我安慰和他人同情。",
+    "risk_hint": "暗示用户可能存在因缺乏关心而试图博取关注; 也可能暗示对自我美化这一自我意识过剩的行为的抨击",
+    "pinyin_key": "zima",
+    "variants": [
+      "自嬷"
+    ]
+  },
+  {
+    "surface": "🗡️入",
+    "meaning": "“贱人”的谐音变体，对他人的极端贬低和侮辱。",
+    "risk_hint": "暗示对特定对象的极端暴力倾向或仇恨情绪",
+    "pinyin_key": "🗡️ru",
+    "variants": [
+      "🗡️入"
+    ]
+  },
+  {
+    "surface": "坎成血🌫️",
+    "meaning": "“砍成血雾”的隐晦表达，指攻击他人并造成血腥暴力的场景",
+    "risk_hint": "暗示对特定群体的极端仇恨以及强烈的伤害他人的意图，反映极端情绪或心理状态",
+    "pinyin_key": "kanchengxue🌫️",
+    "variants": [
+      "坎成血🌫️"
+    ]
+  },
+  {
+    "surface": "高功能金属板",
+    "meaning": "指代“高功能精神病”，形容表面功能正常但内心僵化、痛苦的状态。",
+    "risk_hint": "暗示可能存在心理健康问题，如抑郁、焦虑或自我认同障碍，风险较高。",
+    "pinyin_key": "gaogongnengjinshuban",
+    "variants": [
+      "高功能金属板"
+    ]
+  },
+  {
+    "surface": "4亡",
+    "meaning": "死亡",
+    "risk_hint": "可能表达自杀倾向或强烈的绝望情绪",
+    "pinyin_key": "4wang",
+    "variants": [
+      "4亡"
+    ]
+  },
+  {
+    "surface": "🪣丝",
+    "meaning": "谐音“捅死”，可能指代暴力行为或极端情绪表达",
+    "risk_hint": "可能暗示自伤或伤害他人的意图，需关注情绪危机",
+    "pinyin_key": "🪣si",
+    "variants": [
+      "🪣丝"
+    ]
+  },
+  {
+    "surface": "创丝",
+    "pinyin_key": "chuangsi",
+    "variants": [
+      "创丝",
+      "创亖",
+      "创死"
+    ],
+    "meaning": "谐音“创死”，指被车撞死; 撞死",
+    "risk_hint": "暗示对他人的极端负面情绪或自杀倾向与自毁冲动"
+  },
+  {
+    "surface": "自我了结",
+    "meaning": "自杀",
+    "risk_hint": "暗示自杀意图或行为",
+    "pinyin_key": "ziwoliaojie",
+    "variants": [
+      "自我了结"
+    ]
+  },
+  {
+    "surface": "双相",
+    "pinyin_key": "shuangxiang",
+    "variants": [
+      "双相",
+      "双向",
+      "双响",
+      "霜响",
+      "霜乡",
+      "霜相",
+      "双想"
+    ],
+    "meaning": "双相情感障碍的简称，是一种既有躁狂发作又有抑郁发作的精神疾病",
+    "risk_hint": "可能暗示用户正在经历或曾经经历严重的情绪困扰或精神健康问题"
+  },
+  {
+    "surface": "走了",
+    "meaning": "委婉地表示死亡",
+    "risk_hint": "暗示作者可能考虑结束生命，表达绝望和放弃的负面情绪，有自杀倾向风险",
+    "pinyin_key": "zoule",
+    "variants": [
+      "走了"
+    ]
+  },
+  {
+    "surface": "s体",
+    "meaning": "尸体",
+    "risk_hint": "可能指代尸体，暗示死亡或心理创伤",
+    "pinyin_key": "sti",
+    "variants": [
+      "s体"
+    ]
+  },
+  {
+    "surface": "dy",
+    "meaning": "抖音的缩写，指代该社交媒体平台",
+    "risk_hint": "可能涉及该平台上发布或浏览到的内容，无明显情绪倾向",
+    "pinyin_key": "dy",
+    "variants": [
+      "dy"
+    ]
+  },
+  {
+    "surface": "口嗨",
+    "meaning": "口头宣泄情绪而不采取实际行动",
+    "risk_hint": "可能暗示网络暴力或非理性情绪发泄",
+    "pinyin_key": "kouhai",
+    "variants": [
+      "口嗨"
+    ]
+  },
+  {
+    "surface": "s掉",
+    "meaning": "死掉",
+    "risk_hint": "可能指死亡或结束生命，暗示对生命价值的消极态度或自我伤害风险",
+    "pinyin_key": "sdiao",
+    "variants": [
+      "s掉"
+    ]
+  },
+  {
+    "surface": "zc",
+    "meaning": "自残",
+    "risk_hint": "指代自我伤害行为，可能表示用户有自伤相关意愿或已经发生过具体行为，暗示存在心理健康风险或情绪困扰",
+    "pinyin_key": "zc",
+    "variants": [
+      "zc",
+      "zC"
+    ]
+  },
+  {
+    "surface": "🐴",
+    "meaning": "骂",
+    "risk_hint": "可能涉及网络暴力或辱骂行为",
+    "pinyin_key": "🐴",
+    "variants": [
+      "🐴"
+    ]
+  },
+  {
+    "surface": "qj",
+    "meaning": "强奸的拼音缩写",
+    "risk_hint": "暗示用户可能遭受的强奸经历，涉及严重暴力犯罪，具有高度敏感性和风险",
+    "pinyin_key": "qj",
+    "variants": [
+      "qj"
+    ]
+  },
+  {
+    "surface": "休学",
+    "pinyin_key": "xiuxue",
+    "variants": [
+      "休学",
+      "修学",
+      "休薛",
+      "修雪",
+      "休雪"
+    ],
+    "meaning": "学生因健康、心理或其他原因暂时停止学业; 休学",
+    "risk_hint": "暗示作者曾中断学业，可能与负面情绪或心理危机有关"
+  },
+  {
+    "surface": "自伤",
+    "pinyin_key": "zishang",
+    "variants": [
+      "自伤",
+      "自shang",
+      "紫商"
+    ],
+    "meaning": "故意伤害自己身体的行为; 自伤",
+    "risk_hint": "直接描述自我伤害行为，通常与抑郁、焦虑或其他心理困扰相关"
+  },
+  {
+    "surface": "抑郁",
+    "pinyin_key": "yiyu",
+    "variants": [
+      "抑郁",
+      "异域"
+    ],
+    "meaning": "情绪低落、兴趣丧失、精力减退等心理状态，可能指临床抑郁症",
+    "risk_hint": "指抑郁症，直接表明心理健康风险"
+  },
+  {
+    "surface": "佐匹克隆",
+    "meaning": "一种用于治疗失眠的处方药，属于非苯二氮䓬类镇静催眠药。",
+    "risk_hint": "暗示用户可能因严重睡眠障碍而依赖药物，存在心理健康风险。",
+    "pinyin_key": "zuopikelong",
+    "variants": [
+      "佐匹克隆"
+    ]
+  },
+  {
+    "surface": "噶了",
+    "meaning": "死了",
+    "risk_hint": "网络用语，指死亡，可能暗示对死亡的轻描淡写或回避直接表达",
+    "pinyin_key": "gale",
+    "variants": [
+      "噶了"
+    ]
+  },
+  {
+    "surface": "划拉几下",
+    "meaning": "用刀划伤自己",
+    "risk_hint": "指代用刀等利器划伤自己，暗示存在自我伤害倾向或行为",
+    "pinyin_key": "hualajixia",
+    "variants": [
+      "划拉几下"
+    ]
+  },
+  {
+    "surface": "4️⃣",
+    "meaning": "用数字和符号替代“死”字",
+    "risk_hint": "隐晦表达自杀念头或死亡意愿，可能表达绝望或自伤倾向",
+    "pinyin_key": "4️⃣",
+    "variants": [
+      "4️⃣"
+    ]
+  },
+  {
+    "surface": "废物",
+    "pinyin_key": "feiwu",
+    "variants": [
+      "废物",
+      "飞舞",
+      "肺悟"
+    ],
+    "meaning": "'废物'的谐音，形容自己无用、没有价值 ",
+    "risk_hint": "自我贬低，可能暗示低自尊或抑郁情绪，但未直接指向自伤或自杀行为"
+  },
+  {
+    "surface": "qth",
+    "meaning": "“躯体化”的拼音缩写，常见于心理/医疗社群隐语",
+    "risk_hint": "可能暗示患有较为严重的精神疾病，已经出现躯体化症状，反映潜在的心理健康风险或情绪困扰",
+    "pinyin_key": "qth",
+    "variants": [
+      "qth"
+    ]
+  },
+  {
+    "surface": "吐黑泥",
+    "meaning": "倾诉负面情绪或抱怨",
+    "risk_hint": "暗示作者在表达负面情绪，'黑泥'比喻负面内容，可能暗示心理压力或情绪困扰",
+    "pinyin_key": "tuheini",
+    "variants": [
+      "吐黑泥"
+    ]
+  },
+  {
+    "surface": "npy",
+    "meaning": "男朋友或女朋友的拼音缩写，指代伴侣",
+    "risk_hint": "可能暗示亲密关系破裂带来的情绪困扰，本身无直接心理风险",
+    "pinyin_key": "npy",
+    "variants": [
+      "npy"
+    ]
+  },
+  {
+    "surface": "健全人",
+    "pinyin_key": "jianquanren",
+    "variants": [
+      "健全人",
+      "健全仁"
+    ],
+    "meaning": "字面指身体健康的人，此处可能暗指“心理或情感上‘正常’的人”，与叙述者自身状态形成对比",
+    "risk_hint": "可能反映自我贬低、社会疏离感或对他人信任的崩塌"
+  },
+  {
+    "surface": "断交消息",
+    "meaning": "指断绝关系的通知，通常用于亲密关系或友谊的终结",
+    "risk_hint": "直接指向关系破裂事件，是引发心理危机的重要压力源",
+    "pinyin_key": "duanjiaoxiaoxi",
+    "variants": [
+      "断交消息"
+    ]
+  },
+  {
+    "surface": "恨s",
+    "meaning": "恨死",
+    "risk_hint": "表达强烈的憎恨或愤怒情绪，可能指向极端负面情绪或潜在攻击性",
+    "pinyin_key": "hens",
+    "variants": [
+      "恨s"
+    ]
+  },
+  {
+    "surface": "藏🚬",
+    "meaning": "藏匿香烟",
+    "risk_hint": "可能暗示违反医院禁烟规定或存在成瘾行为",
+    "pinyin_key": "cang🚬",
+    "variants": [
+      "藏🚬"
+    ]
+  },
+  {
+    "surface": "幸福b",
+    "meaning": "幸福的人（带有贬义或讽刺）",
+    "risk_hint": "可能表示对他人幸福生活的嫉妒或不满，隐含负面情绪和攻击性",
+    "pinyin_key": "xingfub",
+    "variants": [
+      "幸福b"
+    ]
+  },
+  {
+    "surface": "吸🚬",
+    "meaning": "吸烟或吸入某种物质，🚬是香烟的通用符号",
+    "risk_hint": "可能暗示吸烟",
+    "pinyin_key": "xi🚬",
+    "variants": [
+      "吸🚬"
+    ]
+  },
+  {
+    "surface": "豹猫",
+    "meaning": "爸妈",
+    "risk_hint": "谐音指父母，可能表达对家庭经济支持不平衡的抱怨",
+    "pinyin_key": "baomao",
+    "variants": [
+      "豹猫"
+    ]
+  },
+  {
+    "surface": "春捷",
+    "meaning": "为“春节”的变形，指春节期间",
+    "risk_hint": "可能暗示春节期间的情绪波动和变化",
+    "pinyin_key": "chunjie",
+    "variants": [
+      "春捷"
+    ]
+  },
+  {
+    "surface": "泗荃架",
+    "meaning": "“死全家”的谐音或变体，表达极端负面情绪或自我诅咒",
+    "risk_hint": "暗示可能存在自我伤害或家庭冲突相关的极端想法，风险较高",
+    "pinyin_key": "siquanjia",
+    "variants": [
+      "泗荃架"
+    ]
+  },
+  {
+    "surface": "拧巴",
+    "meaning": "形容心理或处境纠结、矛盾、不顺畅，感到内心冲突或无法释怀。",
+    "risk_hint": "反映情绪困扰、内心矛盾，可能伴随焦虑或抑郁情绪，需注意长期心理压力。",
+    "pinyin_key": "ningba",
+    "variants": [
+      "拧巴"
+    ]
+  },
+  {
+    "surface": "四万",
+    "meaning": "“死完”的谐音隐语，表达对亲戚的诅咒或恶意",
+    "risk_hint": "表达希望亲戚全部死亡的极端负面情绪，可能暗示自杀或暴力倾向",
+    "pinyin_key": "siwan",
+    "variants": [
+      "四万"
+    ]
+  },
+  {
+    "surface": "异域蕉绿",
+    "meaning": "谐音“抑郁焦虑”，指抑郁状态与焦虑情绪",
+    "risk_hint": "暗示正面对抑郁状态和焦虑情绪，表达当前正处于心理危机状态",
+    "pinyin_key": "yiyujiaolv",
+    "variants": [
+      "异域蕉绿"
+    ]
+  },
+  {
+    "surface": "最见的",
+    "meaning": "“最贱的”的谐音或变体，表达自我贬低，认为自己是最差劲、最可鄙的",
+    "risk_hint": "强烈的自我厌恶和攻击性，可能伴随抑郁或极端情绪",
+    "pinyin_key": "zuijiande",
+    "variants": [
+      "最见的"
+    ]
+  },
+  {
+    "surface": "季度",
+    "meaning": "“嫉妒”的谐音，表达对他人的羡慕和嫉恨",
+    "risk_hint": "负面情绪积累，可能引发人际关系问题或自我价值感低落",
+    "pinyin_key": "jidu",
+    "variants": [
+      "季度"
+    ]
+  },
+  {
+    "surface": "吞💊",
+    "meaning": "服用药物（可能指过量或不当服药）",
+    "risk_hint": "可能指吞食药物以尝试自伤或自杀，暗示可能存在的自伤和自杀意愿",
+    "pinyin_key": "tun💊",
+    "variants": [
+      "吞💊"
+    ]
+  },
+  {
+    "surface": "plq",
+    "meaning": "评论区（拼音缩写）",
+    "risk_hint": "指代评论区，本身无直接心理风险，但可能涉及评论区的负面内容或情绪发泄",
+    "pinyin_key": "plq",
+    "variants": [
+      "plq"
+    ]
+  },
+  {
+    "surface": "应激",
+    "meaning": "应激反应，指因外界刺激产生的生理或心理反应",
+    "risk_hint": "可能涉及焦虑、恐慌等情绪问题",
+    "pinyin_key": "yingji",
+    "variants": [
+      "应激"
+    ]
+  },
+  {
+    "surface": "8",
+    "meaning": "可能指代“伤疤”或“伤痕”，通过数字谐音（疤）隐晦表达",
+    "risk_hint": "可能暗示自伤行为、身体伤害或家庭暴力，需要关注潜在的自残或虐待风险",
+    "pinyin_key": "8",
+    "variants": [
+      "8"
+    ]
+  },
+  {
+    "surface": "tm",
+    "meaning": "他妈的，脏话，表示愤怒、沮丧或强调",
+    "risk_hint": "情绪强烈，可能暗示自我厌恶或无助感",
+    "pinyin_key": "tm",
+    "variants": [
+      "tm"
+    ]
+  },
+  {
+    "surface": "沙仁",
+    "pinyin_key": "sharen",
+    "variants": [
+      "沙仁",
+      "沙人",
+      "鲨人",
+      "莎人",
+      "砂人",
+      "纱人",
+      "砂仁",
+      "啥人"
+    ],
+    "meaning": "“杀人”的谐音或替代写法，表达暴力倾向或愤怒情绪",
+    "risk_hint": " 暗示作者可能有暴力或伤害他人的倾向表达绝望或无助感，可能暗示心理危机或极端情绪"
+  },
+  {
+    "surface": "白色药片",
+    "meaning": "可能指代药物，特别是精神类药物或毒品",
+    "risk_hint": "暗示可能存在药物滥用、自伤或自杀倾向",
+    "pinyin_key": "baiseyaopian",
+    "variants": [
+      "白色药片"
+    ]
+  },
+  {
+    "surface": "🔪人",
+    "meaning": "使用刀具符号暗示“杀人”或暴力行为",
+    "risk_hint": "涉及暴力或伤害他人的倾向",
+    "pinyin_key": "🔪ren",
+    "variants": [
+      "🔪人"
+    ]
+  },
+  {
+    "surface": "浮木",
+    "pinyin_key": "fumu",
+    "variants": [
+      "浮木",
+      "扶木",
+      "腐木"
+    ],
+    "meaning": "“父母”的谐音",
+    "risk_hint": "指代父母，但非直接心理风险隐语，可能表达对父母的负面情绪或家庭冲突"
+  },
+  {
+    "surface": "④",
+    "meaning": "死",
+    "risk_hint": "暗示自杀意念或行为，表达绝望和结束生命的意图",
+    "pinyin_key": "④",
+    "variants": [
+      "④"
+    ]
+  },
+  {
+    "surface": "阴人",
+    "meaning": "讨厌或阴险的人",
+    "risk_hint": "可能指代被厌恶的个体，带有负面情绪",
+    "pinyin_key": "yinren",
+    "variants": [
+      "阴人"
+    ]
+  },
+  {
+    "surface": "他妈的",
+    "meaning": "脏话，用于加强语气，表达愤怒、沮丧或不满",
+    "risk_hint": "情绪强烈，可能暗示自我贬低、绝望或攻击性倾向",
+    "pinyin_key": "tamade",
+    "variants": [
+      "他妈的"
+    ]
+  },
+  {
+    "surface": "鼻雪",
+    "meaning": "鼻血",
+    "risk_hint": "可能指代自伤或情绪崩溃时的生理反应; 自伤/身体伤害",
+    "pinyin_key": "bixue",
+    "variants": [
+      "鼻雪"
+    ]
+  },
+  {
+    "surface": "地球online",
+    "pinyin_key": "diqiuonline",
+    "variants": [
+      "地球online"
+    ],
+    "meaning": "将现实生活比喻为一款在线游戏，暗示人生如同游戏般可以操作、重启或退出; 常指代人生、生命",
+    "risk_hint": "可能隐含对现实生活的疏离感、逃避倾向或对人生意义的消极认知"
+  },
+  {
+    "surface": "一键重开",
+    "meaning": "指通过简单操作重新开始人生，常暗指自杀或彻底改变现状的极端愿望",
+    "risk_hint": "可能反映绝望情绪、逃避现实压力或存在自我伤害的潜在风险",
+    "pinyin_key": "yijianzhongkai",
+    "variants": [
+      "一键重开"
+    ]
+  },
+  {
+    "surface": "跑路",
+    "meaning": "逃离当前环境或状态，通常指放弃学业或工作",
+    "risk_hint": "可能暗示对当前学业或职业的强烈不满和逃避倾向",
+    "pinyin_key": "paolu",
+    "variants": [
+      "跑路"
+    ]
+  },
+  {
+    "surface": "ADHD",
+    "pinyin_key": "adhd",
+    "variants": [
+      "ADHD",
+      "adhd"
+    ],
+    "meaning": "注意力缺陷多动障碍",
+    "risk_hint": "暗示作者可能面临注意力相关心理问题，增加整体心理风险，但非直接自伤/自杀暗示"
+  },
+  {
+    "surface": "ASD",
+    "meaning": "自闭症谱系障碍",
+    "risk_hint": "可能涉及社交障碍、重复行为等心理健康问题",
+    "pinyin_key": "asd",
+    "variants": [
+      "ASD"
+    ]
+  },
+  {
+    "surface": "CPTSD",
+    "pinyin_key": "cptsd",
+    "variants": [
+      "CPTSD",
+      "cptsd"
+    ],
+    "meaning": "复杂性创伤后应激障碍",
+    "risk_hint": "暗示作者可能经历过长期或严重的创伤事件，导致心理障碍，与负面情绪和心理健康问题相关，但非直接自伤/自杀暗示"
+  },
+  {
+    "surface": "解离",
+    "meaning": "指个体在经历创伤或压力时，意识、记忆、身份或感知出现分离的心理状态，常见于解离性障碍。",
+    "risk_hint": "可能暗示用户正在经历或探讨与心理创伤、压力相关的精神健康问题，存在潜在的心理风险。",
+    "pinyin_key": "jieli",
+    "variants": [
+      "解离"
+    ]
+  },
+  {
+    "surface": "跳楼",
+    "pinyin_key": "tiaolou",
+    "variants": [
+      "跳楼",
+      "tiaolou",
+      "跳喽",
+      "跳漏"
+    ],
+    "meaning": "谐音词，可能指'跳楼'，用于隐晦表达自杀行为",
+    "risk_hint": "自杀行为（跳楼）的隐晦表达，直接暗示自杀意念或行为，可能反映严重的心理危机和绝望情绪"
+  },
+  {
+    "surface": "精卫中心",
+    "meaning": "精神卫生中心或心理卫生中心的隐语或简称，指提供心理健康服务的医疗机构。",
+    "risk_hint": "可能暗示作者或相关人物存在心理健康问题或就诊经历，涉及抑郁、创伤等风险。",
+    "pinyin_key": "jingweizhongxin",
+    "variants": [
+      "精卫中心"
+    ]
+  },
+  {
+    "surface": "破防",
+    "meaning": "心理防线被突破，情绪崩溃",
+    "risk_hint": "暗示情绪失控或心理崩溃风险",
+    "pinyin_key": "pofang",
+    "variants": [
+      "破防"
+    ]
+  },
+  {
+    "surface": "🌟暗示",
+    "meaning": "性暗示",
+    "risk_hint": "可能表示用户遭受性方面的负面经历，如性骚扰等",
+    "pinyin_key": "🌟anshi",
+    "variants": [
+      "🌟暗示"
+    ]
+  },
+  {
+    "surface": "伪人",
+    "meaning": "伪装成人类的生物，指代具有欺骗性、表里不一的人",
+    "risk_hint": "可能暗示对特定人群的敌意或警惕，涉及人格贬低",
+    "pinyin_key": "weiren",
+    "variants": [
+      "伪人"
+    ]
+  },
+  {
+    "surface": "白骑士综合征",
+    "meaning": "指通过扮演拯救者角色来满足自我需求的行为模式",
+    "risk_hint": "可能暗示对他人动机的负面解读，涉及关系操控风险",
+    "pinyin_key": "baiqishizonghezheng",
+    "variants": [
+      "白骑士综合征"
+    ]
+  },
+  {
+    "surface": "死掉",
+    "pinyin_key": "sidiao",
+    "variants": [
+      "死掉",
+      "撕掉",
+      "丝掉",
+      "四调",
+      "司掉",
+      "私掉",
+      "四掉"
+    ],
+    "meaning": "谐音或变体，可能指'死掉'",
+    "risk_hint": "直接暗示死亡或自杀的愿望，表达强烈的负面情绪或自伤倾向"
+  },
+  {
+    "surface": "鲨",
+    "pinyin_key": "sha",
+    "variants": [
+      "鲨",
+      "沙",
+      "莎",
+      "砂"
+    ],
+    "meaning": "杀",
+    "risk_hint": " 暗示强烈的攻击性或暴力倾向，可能反映作者在极端负面情绪下产生的伤害他人或自伤意念，需警惕心理危机风险"
+  },
+  {
+    "surface": "晶恐",
+    "pinyin_key": "jingkong",
+    "variants": [
+      "晶恐",
+      "净空",
+      "惊崆"
+    ],
+    "meaning": "'惊恐'谐音，可能指惊恐发作",
+    "risk_hint": "此暗语暗示作者可能经历急性焦虑或恐慌症状，属于心理危机相关表达，但非直接自伤/自杀暗示"
+  },
+  {
+    "surface": "🈹👋",
+    "meaning": "割手",
+    "risk_hint": "指代割伤手臂进行的自伤行为，暗示用户的自伤倾向或行为，表达强烈的负面情绪和心理困扰",
+    "pinyin_key": "🈹👋",
+    "variants": [
+      "🈹👋"
+    ]
+  },
+  {
+    "surface": "标盐型入格",
+    "meaning": "谐音“表演型人格”，可能指表演型人格障碍",
+    "risk_hint": "可能暗示心理问题",
+    "pinyin_key": "biaoyanxingruge",
+    "variants": [
+      "标盐型入格"
+    ]
+  },
+  {
+    "surface": "123",
+    "meaning": "跳楼自杀",
+    "risk_hint": "可能为数字谐音或暗语，暗示跳楼自杀意念",
+    "pinyin_key": "123",
+    "variants": [
+      "123"
+    ]
+  },
+  {
+    "surface": "片袍",
+    "meaning": "骗炮",
+    "risk_hint": "可能指代性欺骗或情感操控",
+    "pinyin_key": "pianpao",
+    "variants": [
+      "片袍"
+    ]
+  },
+  {
+    "surface": "饿死",
+    "meaning": "通过饥饿导致死亡",
+    "risk_hint": "自杀意念",
+    "pinyin_key": "esi",
+    "variants": [
+      "饿死"
+    ]
+  },
+  {
+    "surface": "浅浅🈹",
+    "meaning": "浅浅割",
+    "risk_hint": "指代浅表的自伤行为，暗示用户可能有自伤倾向或行为，表达负面情绪和心理困扰",
+    "pinyin_key": "qianqian🈹",
+    "variants": [
+      "浅浅🈹"
+    ]
+  },
+  {
+    "surface": "逼溃",
+    "meaning": "崩溃",
+    "risk_hint": "情绪崩溃，暗示用户遭遇极大压力或心理危机",
+    "pinyin_key": "bikui",
+    "variants": [
+      "逼溃"
+    ]
+  },
+  {
+    "surface": "暴毙",
+    "pinyin_key": "baobi",
+    "variants": [
+      "暴毙",
+      "包庇",
+      "宝比"
+    ],
+    "meaning": "谐音词，可能指'暴毙'，用于隐晦表达死亡或自杀",
+    "risk_hint": "暗示作者可能对死亡有某种渴望或幻想，表达消极情绪或潜在的自杀意念；或表示作者对他人的极端厌恶情绪"
+  },
+  {
+    "surface": "安乐",
+    "meaning": "安乐死",
+    "risk_hint": "作者可能希望通过安乐死实现自杀，暗示存在自杀意念或倾向，表达对生命的绝望和结束痛苦的愿望",
+    "pinyin_key": "an//le",
+    "variants": [
+      "安乐"
+    ]
+  },
+  {
+    "surface": "diao了",
+    "meaning": "吊了，可能暗示上吊自杀",
+    "risk_hint": "暗示自伤/自杀行为（上吊），暗示存在自杀意念或倾向",
+    "pinyin_key": "diaole",
+    "variants": [
+      "diao了"
+    ]
+  },
+  {
+    "surface": "思了",
+    "pinyin_key": "sile",
+    "variants": [
+      "思了",
+      "斯了",
+      "丝了",
+      "撕了"
+    ],
+    "meaning": "死了",
+    "risk_hint": "暗示作者可能对现实生活感到极度痛苦或绝望，有自杀意念或倾向"
+  },
+  {
+    "surface": "sleep药",
+    "meaning": "安眠药",
+    "risk_hint": "可能指代安眠药，暗示用户可能存在睡眠问题或通过药物来应对心理困扰，或指代药物滥用或自伤自杀行为",
+    "pinyin_key": "sleepyao",
+    "variants": [
+      "sleep药"
+    ]
+  },
+  {
+    "surface": "nue待",
+    "meaning": "虐待",
+    "risk_hint": "可能指代虐待，暗示暴力或伤害行为",
+    "pinyin_key": "nuedai",
+    "variants": [
+      "nue待"
+    ]
+  },
+  {
+    "surface": "西内",
+    "meaning": "去死，常作为语气词",
+    "risk_hint": "常作为语气词使用，可能暗示强烈的负面情绪",
+    "pinyin_key": "xinei",
+    "variants": [
+      "西内"
+    ]
+  },
+  {
+    "surface": "憋私",
+    "meaning": "憋死",
+    "risk_hint": "窒息死亡，暗示自杀行为或意念，表达对生命的绝望和结束痛苦的愿望",
+    "pinyin_key": "biesi",
+    "variants": [
+      "憋私"
+    ]
+  },
+  {
+    "surface": "自c",
+    "meaning": "自残",
+    "risk_hint": "暗示作者有自伤倾向，可能表达自我伤害的意图或行为，属于心理风险信号。",
+    "pinyin_key": "zic",
+    "variants": [
+      "自c"
+    ]
+  },
+  {
+    "surface": "紫菜",
+    "meaning": "自残",
+    "risk_hint": "谐音词，可能指自残行为，暗示自残倾向或相关行为",
+    "pinyin_key": "zicai",
+    "variants": [
+      "紫菜"
+    ]
+  },
+  {
+    "surface": "s意",
+    "meaning": "死意的谐音，指自杀意念",
+    "risk_hint": "暗示自杀意念，表达对生命的绝望和结束痛苦的愿望",
+    "pinyin_key": "syi",
+    "variants": [
+      "s意"
+    ]
+  },
+  {
+    "surface": "想s",
+    "meaning": "想死",
+    "risk_hint": "表达自杀意念，暗示逃避生活等负面情绪",
+    "pinyin_key": "xiangs",
+    "variants": [
+      "想s"
+    ]
+  },
+  {
+    "surface": "一了百了",
+    "meaning": "自杀或结束生命",
+    "risk_hint": "暗示作者可能有自杀意念或倾向，表达了对生活的绝望和逃避心理",
+    "pinyin_key": "yiliaobailiao",
+    "variants": [
+      "一了百了"
+    ]
+  },
+  {
+    "surface": "阿普",
+    "meaning": "阿普唑仑",
+    "risk_hint": "可能表示用户正在经历药物治疗，或可能存在药物滥用或依赖风险",
+    "pinyin_key": "apu",
+    "variants": [
+      "阿普"
+    ]
+  },
+  {
+    "surface": "嘎",
+    "meaning": "死",
+    "risk_hint": "暗示作者可能有自杀意念或对死亡的渴望，表达极度痛苦和绝望的情绪",
+    "pinyin_key": "ga",
+    "variants": [
+      "嘎"
+    ]
+  },
+  {
+    "surface": "od",
+    "meaning": "overdose（过量服药）的缩写",
+    "risk_hint": "暗示作者可能通过药物滥用来逃避现实，表达了对现实的不满和潜在的自我伤害倾向",
+    "pinyin_key": "od",
+    "variants": [
+      "od"
+    ]
+  },
+  {
+    "surface": "精卫",
+    "meaning": "精神病医院或精神卫生中心",
+    "risk_hint": "可能指代精神科治疗机构，暗示心理危机或住院经历",
+    "pinyin_key": "jingwei",
+    "variants": [
+      "精卫"
+    ]
+  },
+  {
+    "surface": "mect",
+    "pinyin_key": "mect",
+    "variants": [
+      "mect",
+      "MECT"
+    ],
+    "meaning": "无抽搐电休克治疗（Modified Electroconvulsive Therapy）的缩写",
+    "risk_hint": "直接提及心理治疗，暗示作者可能经历严重心理问题，如抑郁或创伤，但作为标准医疗术语，无直接自伤/自杀风险暗示"
+  },
+  {
+    "surface": "重焦重抑",
+    "pinyin_key": "zhongjiaozhongyi",
+    "variants": [
+      "重焦重抑",
+      "中焦中抑"
+    ],
+    "meaning": "重度焦虑重度抑郁; 中度焦虑中度抑郁",
+    "risk_hint": "这是医学术语或诊断的缩写，暗示作者可能被诊断为严重的心理疾病，与负面情绪和心理风险相关，但属于标准术语"
+  },
+  {
+    "surface": "ptsd",
+    "meaning": "创伤后应激障碍",
+    "risk_hint": "暗示作者因霸凌经历而患有创伤后应激障碍，这是一种负面情绪状态，可能加剧心理危机，但未直接关联自伤/自杀。",
+    "pinyin_key": "ptsd",
+    "variants": [
+      "ptsd"
+    ]
+  },
+  {
+    "surface": "割腕",
+    "meaning": "自伤行为",
+    "risk_hint": "直接描述自伤行为，暗示作者有自伤行为史，可能表示过去存在心理危机或情绪调节困难",
+    "pinyin_key": "gewan",
+    "variants": [
+      "割腕"
+    ]
+  },
+  {
+    "surface": "yyz",
+    "meaning": "抑郁症",
+    "risk_hint": "心理疾病相关缩写，暗示作者可能患有抑郁症，可能伴随负面情绪和功能障碍，但本身不直接暗示自伤/自杀倾向，需结合上下文评估风险。",
+    "pinyin_key": "yyz",
+    "variants": [
+      "yyz"
+    ]
+  },
+  {
+    "surface": "室息",
+    "meaning": "窒息",
+    "risk_hint": "作者使用谐音词描述情绪压抑到无法呼吸的感觉，暗示强烈的负面情绪和可能的心理崩溃风险。",
+    "pinyin_key": "shixi",
+    "variants": [
+      "室息"
+    ]
+  },
+  {
+    "surface": "玉玉药",
+    "meaning": "抑郁药",
+    "risk_hint": "可能指抗抑郁药物，暗示作者在服用药物治疗抑郁或相关心理问题，与心理危机相关",
+    "pinyin_key": "yuyuyao",
+    "variants": [
+      "玉玉药"
+    ]
+  },
+  {
+    "surface": "中抑重焦",
+    "pinyin_key": "zhongyizhongjiao",
+    "variants": [
+      "中抑重焦",
+      "重抑重焦",
+      "中抑中焦",
+      "重抑中焦"
+    ],
+    "meaning": "中度抑郁重度焦虑; 重度抑郁重度焦虑; 中度抑郁中度焦虑",
+    "risk_hint": "心理疾病相关缩写，暗示严重心理问题，可能增加自伤或自杀风险，但文本中未直接表达自伤/自杀意图"
+  },
+  {
+    "surface": "中郁中焦",
+    "meaning": "拼音缩写或简写，指'中度抑郁'和'中度焦虑'",
+    "risk_hint": "间接暗示心理健康问题，但非直接自伤/自杀隐语",
+    "pinyin_key": "zhongyuzhongjiao",
+    "variants": [
+      "中郁中焦"
+    ]
+  },
+  {
+    "surface": "球球",
+    "meaning": "网络用语，谐音'求求'，表示恳求或请求",
+    "risk_hint": "无直接风险暗示，用于表达求助或请求",
+    "pinyin_key": "qiuqiu",
+    "variants": [
+      "球球"
+    ]
+  },
+  {
+    "surface": "bpd",
+    "meaning": "边缘型人格障碍",
+    "risk_hint": "暗示作者可能患有边缘型人格障碍，这是一种心理疾病，常伴随情绪不稳定、人际关系问题、自伤或自杀风险，表明作者面临严重的心理困扰和潜在危机。",
+    "pinyin_key": "bpd",
+    "variants": [
+      "bpd"
+    ]
+  },
+  {
+    "surface": "挂了",
+    "meaning": "死了",
+    "risk_hint": "暗示生命危险或濒死状态",
+    "pinyin_key": "guale",
+    "variants": [
+      "挂了"
+    ]
+  },
+  {
+    "surface": "跳了",
+    "meaning": "跳楼自杀",
+    "risk_hint": "可能指跳楼自杀，暗示自杀倾向，表达绝望和逃避现实的情绪",
+    "pinyin_key": "tiaole",
+    "variants": [
+      "跳了"
+    ]
+  },
+  {
+    "surface": "晴天娃娃",
+    "meaning": "自杀/上吊",
+    "risk_hint": "暗示上吊自杀的意象",
+    "pinyin_key": "qingtianwawa",
+    "variants": [
+      "晴天娃娃"
+    ]
+  },
+  {
+    "surface": "84",
+    "meaning": "消毒液（通常指次氯酸钠溶液）",
+    "risk_hint": "暗示作者有自杀倾向，通过饮用有毒物质尝试结束生命，表明严重的心理危机和绝望情绪",
+    "pinyin_key": "84",
+    "variants": [
+      "84"
+    ]
+  },
+  {
+    "surface": "了断",
+    "meaning": "结束生命",
+    "risk_hint": "暗示作者可能有自杀意念或倾向，表达了对当前痛苦状况的绝望和想结束一切的愿望。",
+    "pinyin_key": "liaoduan",
+    "variants": [
+      "了断"
+    ]
+  },
+  {
+    "surface": "去4",
+    "meaning": "去死",
+    "risk_hint": "暗示作者有自杀倾向或考虑过自杀，表达绝望和逃避现实的情绪",
+    "pinyin_key": "qu4",
+    "variants": [
+      "去4"
+    ]
+  },
+  {
+    "surface": "jlz",
+    "meaning": "焦虑症",
+    "risk_hint": "心理疾病相关缩写，无直接自伤/自杀暗示，但可能伴随负面情绪和心理困扰",
+    "pinyin_key": "jlz",
+    "variants": [
+      "jlz"
+    ]
+  },
+  {
+    "surface": "去s",
+    "meaning": "去死",
+    "risk_hint": "暗示作者有自杀倾向或考虑过自杀，表达绝望和逃避现实的情绪",
+    "pinyin_key": "qus",
+    "variants": [
+      "去s"
+    ]
+  },
+  {
+    "surface": "zhuangsi",
+    "meaning": "撞死",
+    "risk_hint": "暗示作者有自杀倾向，希望通过被车撞死来逃避，表达绝望和无助情绪",
+    "pinyin_key": "zhuangsi",
+    "variants": [
+      "zhuangsi"
+    ]
+  },
+  {
+    "surface": "80",
+    "pinyin_key": "80",
+    "variants": [
+      "80"
+    ],
+    "meaning": "霸凌",
+    "risk_hint": "暗示作者可能在学校遭受欺凌，但非直接自伤/自杀隐语，这可能加剧负面情绪和心理压力，增加心理风险。"
+  },
+  {
+    "surface": "过量服药",
+    "meaning": "过量服用药物",
+    "risk_hint": "暗示过量服用药物导致的自杀或自伤行为",
+    "pinyin_key": "guoliangfuyao",
+    "variants": [
+      "过量服药"
+    ]
+  },
+  {
+    "surface": "跳海",
+    "meaning": "跳海自杀",
+    "risk_hint": "直接描述自杀行为，暗示作者有自杀倾向或计划，表达绝望情绪",
+    "pinyin_key": "tiaohai",
+    "variants": [
+      "跳海"
+    ]
+  },
+  {
+    "surface": "自s",
+    "pinyin_key": "zis",
+    "variants": [
+      "自s",
+      "字s"
+    ],
+    "meaning": "自杀",
+    "risk_hint": "拼音缩写，直接暗示自杀行为或意念，可能反映出较为严重的心理危机"
+  },
+  {
+    "surface": "安乐死",
+    "meaning": "自杀或结束生命",
+    "risk_hint": "暗示作者可能正在考虑或渴望结束自己的生命，表达了强烈的自杀意念和绝望情绪",
+    "pinyin_key": "anlesi",
+    "variants": [
+      "安乐死"
+    ]
+  },
+  {
+    "surface": "被水带走",
+    "meaning": "隐喻溺水死亡或自杀",
+    "risk_hint": "暗示作者正在考虑自杀方式，表达了对生命的绝望和结束痛苦的愿望",
+    "pinyin_key": "beishuidaizou",
+    "variants": [
+      "被水带走"
+    ]
+  },
+  {
+    "surface": "吞药",
+    "meaning": "服用过量药物（通常指自杀行为）",
+    "risk_hint": "可能指自杀行为中的服药过量; 可能指过量服药以自伤或自杀",
+    "pinyin_key": "tunyao",
+    "variants": [
+      "吞药"
+    ]
+  },
+  {
+    "surface": "出雪",
+    "meaning": "出血",
+    "risk_hint": "暗示自伤行为，可能用于描述自伤导致的出血，反映作者对自伤的关注或倾向",
+    "pinyin_key": "chuxue",
+    "variants": [
+      "出雪"
+    ]
+  },
+  {
+    "surface": "lxfs",
+    "meaning": "联系方式",
+    "risk_hint": "非直接自伤/自杀相关暗语，但可能暗示缺乏社会支持，加剧孤立感",
+    "pinyin_key": "lxfs",
+    "variants": [
+      "lxfs"
+    ]
+  },
+  {
+    "surface": "投河",
+    "meaning": "自杀行为",
+    "risk_hint": "暗示作者的自杀意念，表示曾考虑过自杀方式及或有自杀尝试",
+    "pinyin_key": "touhe",
+    "variants": [
+      "投河"
+    ]
+  },
+  {
+    "surface": "xsr",
+    "meaning": "性骚扰",
+    "risk_hint": "暗示作者可能经历过性骚扰，这可能加剧其负面情绪和心理痛苦，增加心理风险，但本身不是直接自伤/自杀暗语。",
+    "pinyin_key": "xsr",
+    "variants": [
+      "xsr"
+    ]
+  },
+  {
+    "surface": "宛平南路600号",
+    "meaning": "上海市精神卫生中心",
+    "risk_hint": "暗示作者可能涉及心理问题或精神疾病治疗，但本身不直接表达自伤/自杀倾向，而是作为背景信息描述就医经历",
+    "pinyin_key": "wanpingnanlu600hao",
+    "variants": [
+      "宛平南路600号"
+    ]
+  },
+  {
+    "surface": "玉玉",
+    "meaning": "抑郁",
+    "risk_hint": "暗示作者可能患有抑郁症，这是一种严重的心理健康问题，可能伴随负面情绪和自杀风险，但文本中未直接表达自伤/自杀意图。",
+    "pinyin_key": "yuyu",
+    "variants": [
+      "玉玉"
+    ]
+  },
+  {
+    "surface": "跳了算了",
+    "meaning": "自杀",
+    "risk_hint": "暗示作者有自杀倾向，表达绝望和逃避现实的情绪",
+    "pinyin_key": "tiaolesuanle",
+    "variants": [
+      "跳了算了"
+    ]
+  },
+  {
+    "surface": "直接离开",
+    "meaning": "自杀",
+    "risk_hint": "暗示作者有自杀意念或倾向，表达想结束生命的意愿，属于高风险心理危机信号。",
+    "pinyin_key": "zhijielikai",
+    "variants": [
+      "直接离开"
+    ]
+  },
+  {
+    "surface": "金属板",
+    "meaning": "“精神病”的谐音",
+    "risk_hint": "可能指代正在面对精神疾病，暗示心理危机",
+    "pinyin_key": "jinshuban",
+    "variants": [
+      "金属板",
+      "金属版"
+    ]
+  },
+  {
+    "surface": "装死",
+    "pinyin_key": "zhuangsi",
+    "variants": [
+      "装死",
+      "撞丝",
+      "撞絲",
+      "撞四"
+    ],
+    "meaning": "消失的隐晦表达，可能隐喻逃避现实或社交; 撞死",
+    "risk_hint": "可能暗示社交恐惧，如通过回避回复消息来逃避人际交往; 暗示自杀倾向，表达作者在负面情绪下可能产生自伤或自杀的念头"
+  },
+  {
+    "surface": "0⃣️",
+    "meaning": "数字零，可能隐喻无人关注或空虚感",
+    "risk_hint": "可能间接表达孤独或绝望，但非直接自伤/自杀隐语",
+    "pinyin_key": "0⃣️",
+    "variants": [
+      "0⃣️"
+    ]
+  },
+  {
+    "surface": "丛凯",
+    "meaning": "“重开”的变体，暗示自杀",
+    "risk_hint": "暗示自杀意念",
+    "pinyin_key": "congkai",
+    "variants": [
+      "丛凯"
+    ]
+  },
+  {
+    "surface": "🚬",
+    "meaning": "香烟",
+    "risk_hint": "可能暗示吸烟行为或成瘾问题，但本身无直接自伤/自杀风险。",
+    "pinyin_key": "🚬",
+    "variants": [
+      "🚬"
+    ]
+  },
+  {
+    "surface": "大黏除一",
+    "meaning": "大年初一的变体",
+    "risk_hint": "可能暗示在特定时间点（新年）发生负面事件，增加情绪冲击",
+    "pinyin_key": "danianchuyi",
+    "variants": [
+      "大黏除一"
+    ]
+  },
+  {
+    "surface": "惨文化",
+    "meaning": "惨文化",
+    "risk_hint": "可能指代一种以悲惨、痛苦为常态的生活方式或心态，暗示作者深陷负面情绪中",
+    "pinyin_key": "canwenhua",
+    "variants": [
+      "惨文化"
+    ]
+  },
+  {
+    "surface": "最健的健全逼",
+    "meaning": "健康健全的人中最健康的",
+    "risk_hint": "可能暗示对自身不健全或缺陷的负面感受，间接关联心理痛苦",
+    "pinyin_key": "zuijiandejianquanbi",
+    "variants": [
+      "最健的健全逼"
+    ]
+  },
+  {
+    "surface": "扣b",
+    "meaning": "代指自慰的暗语",
+    "risk_hint": "暗示正在面对压力或负面情绪，需要通过自慰来纾解发泄",
+    "pinyin_key": "koub",
+    "variants": [
+      "扣b"
+    ]
+  },
+  {
+    "surface": "回寸",
+    "meaning": "谐音“回村”，回到村里",
+    "risk_hint": "可能暗示在特定场景（回到村里）下触发心理压力",
+    "pinyin_key": "huicun",
+    "variants": [
+      "回寸"
+    ]
+  },
+  {
+    "surface": "宝石",
+    "meaning": "谐音“暴食”，指暴食行为",
+    "risk_hint": "可能暗示自伤或心理危机",
+    "pinyin_key": "baoshi",
+    "variants": [
+      "宝石"
+    ]
+  },
+  {
+    "surface": "🗑",
+    "meaning": "指代垃圾桶",
+    "risk_hint": "可能暗示心理危机",
+    "pinyin_key": "🗑",
+    "variants": [
+      "🗑"
+    ]
+  },
+  {
+    "surface": "试减",
+    "meaning": "“视奸”的谐音，指在偷偷关注某人或某账号",
+    "risk_hint": "可能暗示正在面对社交等方面相关的焦虑情绪",
+    "pinyin_key": "shijian",
+    "variants": [
+      "试减"
+    ]
+  },
+  {
+    "surface": "梅梅",
+    "meaning": "妹妹的谐音，指代某人的妹妹",
+    "risk_hint": "可能暗示在家庭环境中受到的压力和负面情绪",
+    "pinyin_key": "meimei",
+    "variants": [
+      "梅梅"
+    ]
+  },
+  {
+    "surface": "sj",
+    "meaning": "“视奸”的谐音，指在偷偷关注某人或某账号",
+    "risk_hint": "暗示作者感到被他人监视或嘲笑，可能加剧负面情绪和孤立感，但本身不直接表示自伤/自杀倾向",
+    "pinyin_key": "sj",
+    "variants": [
+      "sj"
+    ]
+  },
+  {
+    "surface": "豹",
+    "meaning": "“爸”的谐音，指代父亲",
+    "risk_hint": "作为人称代词使用，无直接心理风险暗示",
+    "pinyin_key": "bao",
+    "variants": [
+      "豹"
+    ]
+  },
+  {
+    "surface": "测",
+    "meaning": "“测”是厕所的谐音，厕所在网络用语中指匿名投稿账号",
+    "risk_hint": "指代当前投稿的账号或其他投稿的匿名账号",
+    "pinyin_key": "ce",
+    "variants": [
+      "测"
+    ]
+  },
+  {
+    "surface": "略砂",
+    "meaning": "虐杀的谐音",
+    "risk_hint": "可能暗示自杀意念或对他人的强烈攻击性意愿; 谐音替代",
+    "pinyin_key": "lvesha",
+    "variants": [
+      "略砂"
+    ]
+  },
+  {
+    "surface": "阴得的",
+    "meaning": "应得的",
+    "risk_hint": "为谐音，表达自责或负面情绪",
+    "pinyin_key": "yindede",
+    "variants": [
+      "阴得的"
+    ]
+  },
+  {
+    "surface": "测宝",
+    "pinyin_key": "cebao",
+    "variants": [
+      "测宝",
+      "测报"
+    ],
+    "meaning": "谐音'厕宝'，指厕所（网络用语中'厕所'常指匿名投稿平台）",
+    "risk_hint": "指代投稿的匿名账号，非直接自伤/自杀隐语"
+  },
+  {
+    "surface": "褒姒",
+    "meaning": "暴死谐音",
+    "risk_hint": "常用于对他人的诅咒辱骂，表达强烈的攻击性意愿；也可能表达强烈的自杀意愿",
+    "pinyin_key": "baosi",
+    "variants": [
+      "褒姒"
+    ]
+  },
+  {
+    "surface": "咖喱人",
+    "meaning": "“家里人”的谐音",
+    "risk_hint": "指代家人，可能表达对家人的极端不满情绪",
+    "pinyin_key": "galiren",
+    "variants": [
+      "咖喱人"
+    ]
+  },
+  {
+    "surface": "jqr",
+    "meaning": "“机器人”的缩写，可能指微博的AI评论机器人",
+    "risk_hint": "可能表达对AI评论机器人不满，该机器人有时会曲解用户的发言，对用户进行讽刺批评等",
+    "pinyin_key": "jqr",
+    "variants": [
+      "jqr"
+    ]
+  },
+  {
+    "surface": "膏溅",
+    "meaning": "“稿件”的谐音，指在匿名投稿账号上发布的帖子",
+    "risk_hint": "可能暗示与匿名投稿账号上发布的内容相关的情绪",
+    "pinyin_key": "gaojian",
+    "variants": [
+      "膏溅"
+    ]
+  },
+  {
+    "surface": "销号",
+    "meaning": "自杀、离开世界的暗语",
+    "risk_hint": "暗示自杀意念或行为",
+    "pinyin_key": "xiaohao",
+    "variants": [
+      "销号"
+    ]
+  },
+  {
+    "surface": "鼠去",
+    "meaning": "“死去”的谐音",
+    "risk_hint": "暗示自杀意念或行为",
+    "pinyin_key": "shuqu",
+    "variants": [
+      "鼠去"
+    ]
+  },
+  {
+    "surface": "疟🐱",
+    "meaning": "虐猫",
+    "risk_hint": "可能暗示伤害行为或负面情绪",
+    "pinyin_key": "nve🐱",
+    "variants": [
+      "疟🐱"
+    ]
+  },
+  {
+    "surface": "脚绿的",
+    "meaning": "“焦虑”的谐音",
+    "risk_hint": "暗示正处于焦虑状态，处于心理危机中",
+    "pinyin_key": "jiaolvde",
+    "variants": [
+      "脚绿的"
+    ]
+  },
+  {
+    "surface": "🚗货纱人",
+    "meaning": "车祸杀人",
+    "risk_hint": "可能隐喻暴力、死亡或创伤事件",
+    "pinyin_key": "🚗huosharen",
+    "variants": [
+      "🚗货纱人"
+    ]
+  },
+  {
+    "surface": "💴",
+    "meaning": "金钱符号emoji",
+    "risk_hint": "可能隐喻经济压力或生活困境，间接关联心理危机",
+    "pinyin_key": "💴",
+    "variants": [
+      "💴"
+    ]
+  },
+  {
+    "surface": "哦",
+    "pinyin_key": "o",
+    "variants": [
+      "哦",
+      "o"
+    ],
+    "meaning": "“od”的谐音变体词，暗示过量服药行为; 'od'的变体，指滥用药物",
+    "risk_hint": "暗示自残与过量服药行为，可能暗示自伤或自杀行为"
+  },
+  {
+    "surface": "建⭕b",
+    "meaning": "“健全b”的变体，对身心健康人的蔑称",
+    "risk_hint": "可能暗示对特定人群的不满和攻击性",
+    "pinyin_key": "jian⭕b",
+    "variants": [
+      "建⭕b"
+    ]
+  },
+  {
+    "surface": "咯割咯",
+    "meaning": "自伤/自残",
+    "risk_hint": "指代自残行为，可能表示作者有严重的自残习惯或心理痛苦",
+    "pinyin_key": "gegege",
+    "variants": [
+      "咯割咯",
+      "歌歌歌"
+    ]
+  },
+  {
+    "surface": "香薯",
+    "meaning": "想死",
+    "risk_hint": "可能暗示自杀意念",
+    "pinyin_key": "xiangshu",
+    "variants": [
+      "香薯",
+      "想鼠"
+    ]
+  },
+  {
+    "surface": "叫驴症",
+    "pinyin_key": "jiaolvzheng",
+    "variants": [
+      "叫驴症",
+      "较绿证"
+    ],
+    "meaning": "焦虑症",
+    "risk_hint": "暗示作者可能患有焦虑症，这是一种常见的心理障碍，可能导致情绪困扰和功能障碍，但未直接指向自伤或自杀风险。"
+  },
+  {
+    "surface": "🕊️",
+    "meaning": "鸽子emoji谐音“割”，暗示自伤行为",
+    "risk_hint": "指代自残行为，暗示自我伤害",
+    "pinyin_key": "🕊️",
+    "variants": [
+      "🕊️"
+    ]
+  },
+  {
+    "surface": "重新启动地球online",
+    "meaning": "自杀意念的暗语，“地球online”代指人生，暗示通过自杀来“重新启动”人生",
+    "risk_hint": "暗示自杀意念",
+    "pinyin_key": "chongxinqidongdiqiuonline",
+    "variants": [
+      "重新启动地球online"
+    ]
+  },
+  {
+    "surface": "黑泥",
+    "meaning": "负面情绪或黑暗想法",
+    "risk_hint": "可能暗示极端负面情绪或正在遭受痛苦",
+    "pinyin_key": "heini",
+    "variants": [
+      "黑泥"
+    ]
+  },
+  {
+    "surface": "bot",
+    "meaning": "指代匿名投稿账号或平台，一般指投稿所在的该投稿账号",
+    "risk_hint": "可能暗示作者在匿名或半匿名环境下表达负面情绪，增加隐私保护，但本身不直接暗示心理风险，仅作无风险用途",
+    "pinyin_key": "bot",
+    "variants": [
+      "bot"
+    ]
+  },
+  {
+    "surface": "摆烂",
+    "meaning": "放弃努力、自暴自弃",
+    "risk_hint": "可能暗示心理危机或自我放弃行为",
+    "pinyin_key": "bailan",
+    "variants": [
+      "摆烂"
+    ]
+  },
+  {
+    "surface": "成yin",
+    "meaning": "成瘾",
+    "risk_hint": "暗示药物滥用或药物依赖风险",
+    "pinyin_key": "chengyin",
+    "variants": [
+      "成yin"
+    ]
+  },
+  {
+    "surface": "tvt",
+    "meaning": "哭泣或悲伤的颜文字",
+    "risk_hint": "可能暗示情绪低落或痛苦",
+    "pinyin_key": "tvt",
+    "variants": [
+      "tvt"
+    ]
+  },
+  {
+    "surface": "匿投",
+    "meaning": "匿名投稿",
+    "risk_hint": "可能暗示作者在匿名表达负面情绪，但非直接自伤/自杀隐语",
+    "pinyin_key": "nitou",
+    "variants": [
+      "匿投"
+    ]
+  },
+  {
+    "surface": "py",
+    "meaning": "炮友",
+    "risk_hint": "可能指代非正式关系，暗示情感依赖或自我贬低",
+    "pinyin_key": "py",
+    "variants": [
+      "py"
+    ]
+  },
+  {
+    "surface": "TT",
+    "meaning": "哭泣或悲伤的表情符号",
+    "risk_hint": "可能暗示情绪低落或痛苦; 表达悲伤情绪，但非直接自伤/自杀隐语",
+    "pinyin_key": "tt",
+    "variants": [
+      "TT"
+    ]
+  },
+  {
+    "surface": "tg",
+    "meaning": "“tg”是投稿的缩写",
+    "risk_hint": "表示作者正在匿名投稿账号投稿，非直接自伤/自杀隐语",
+    "pinyin_key": "tg",
+    "variants": [
+      "tg"
+    ]
+  },
+  {
+    "surface": "创了",
+    "meaning": "撞了",
+    "risk_hint": "谐音词，可能暗示自伤或意外伤害意图",
+    "pinyin_key": "chuangle",
+    "variants": [
+      "创了"
+    ]
+  },
+  {
+    "surface": "DID",
+    "meaning": "解离性身份障碍",
+    "risk_hint": "暗示作者可能经历身份混乱、记忆问题或心理困扰，与负面情绪或心理危机相关，但非直接自伤/自杀暗语",
+    "pinyin_key": "did",
+    "variants": [
+      "DID"
+    ]
+  },
+  {
+    "surface": "煮啵",
+    "meaning": "谐音或变体，指代'主播'或'博主'，用于自称",
+    "risk_hint": "无直接风险暗示，可能用于网络身份表达",
+    "pinyin_key": "zhubo",
+    "variants": [
+      "煮啵"
+    ]
+  },
+  {
+    "surface": "plxt",
+    "meaning": "帕罗西汀",
+    "risk_hint": "暗示作者正在服用精神类药物，可能用于治疗焦虑症，反映了作者的心理健康问题和医疗干预情况，但本身不直接暗示自伤/自杀倾向。",
+    "pinyin_key": "plxt",
+    "variants": [
+      "plxt"
+    ]
+  },
+  {
+    "surface": "玻珠",
+    "meaning": "博主",
+    "risk_hint": "网络用语，指作者本人，无直接风险暗示",
+    "pinyin_key": "bozhu",
+    "variants": [
+      "玻珠"
+    ]
+  },
+  {
+    "surface": "聊s",
+    "meaning": "“聊骚”的暗语表达，指和他人聊色情内容",
+    "risk_hint": "暗示作者可能通过聊色情内容来缓解负面情绪或寻求刺激，这可能与心理困扰或行为问题相关，但未直接指向自伤/自杀风险。",
+    "pinyin_key": "liaos",
+    "variants": [
+      "聊s"
+    ]
+  },
+  {
+    "surface": "躺尸",
+    "meaning": "指躺平或卧床状态",
+    "risk_hint": "可能暗示抑郁或逃避行为",
+    "pinyin_key": "tangshi",
+    "variants": [
+      "躺尸"
+    ]
+  },
+  {
+    "surface": "脑雾",
+    "meaning": "精神疾病带来的认知功能下降或思维模糊",
+    "risk_hint": "可能暗示心理困扰或抑郁症状",
+    "pinyin_key": "naowu",
+    "variants": [
+      "脑雾"
+    ]
+  },
+  {
+    "surface": "puq",
+    "meaning": "'朋友圈'的缩写",
+    "risk_hint": "社交媒体发布，可能暗示社交相关的焦虑以及负面情绪",
+    "pinyin_key": "puq",
+    "variants": [
+      "puq"
+    ]
+  },
+  {
+    "surface": "黄y。o",
+    "meaning": "黄谣",
+    "risk_hint": "可能指被造黄色谣言，涉及心理伤害",
+    "pinyin_key": "huangy。o",
+    "variants": [
+      "黄y。o"
+    ]
+  },
+  {
+    "surface": "趋势",
+    "pinyin_key": "qushi",
+    "variants": [
+      "趋势",
+      "区似",
+      "去似",
+      "去世"
+    ],
+    "meaning": "去死",
+    "risk_hint": "暗示作者可能持有消极或绝望的态度，甚至可能涉及自杀意念，因为'去死'直接关联到死亡或自我毁灭的倾向。"
+  },
+  {
+    "surface": "似了",
+    "meaning": "死了",
+    "risk_hint": "暗示作者有死亡相关的幻想或意念，可能反映出自杀倾向或对死亡的消极态度",
+    "pinyin_key": "shile",
+    "variants": [
+      "似了"
+    ]
+  },
+  {
+    "surface": "歌手",
+    "pinyin_key": "geshou",
+    "variants": [
+      "歌手",
+      "鸽手",
+      "割手",
+      "歌首"
+    ],
+    "meaning": "割手（谐音，指割腕等自伤行为）",
+    "risk_hint": "直接暗示自伤行为，表明作者可能正在计划或实施自伤"
+  },
+  {
+    "surface": "戒歌",
+    "pinyin_key": "jiege",
+    "variants": [
+      "戒歌",
+      "戒割"
+    ],
+    "meaning": "戒割; 停止自伤行为的隐晦表达",
+    "risk_hint": "暗示作者过去有过自伤行为，正在尝试戒除"
+  },
+  {
+    "surface": "划拉手",
+    "meaning": "自残/割腕",
+    "risk_hint": "可能指代自我伤害行为; 暗示作者有自伤倾向，表达负面情绪和痛苦",
+    "pinyin_key": "hualashou",
+    "variants": [
+      "划拉手"
+    ]
+  },
+  {
+    "surface": "yy",
+    "meaning": "抑郁",
+    "risk_hint": "暗示作者可能患有抑郁症，这是一种常见的心理疾病，可能伴随负面情绪和自伤/自杀风险，但缩写本身不直接表示自伤/自杀行为。",
+    "pinyin_key": "yy",
+    "variants": [
+      "yy"
+    ]
+  },
+  {
+    "surface": "🉑",
+    "meaning": "嗑药“嗑”的谐音，通常指滥用药物",
+    "risk_hint": "可能指代药物滥用行为",
+    "pinyin_key": "🉑",
+    "variants": [
+      "🉑"
+    ]
+  },
+  {
+    "surface": "飞升",
+    "meaning": "自杀",
+    "risk_hint": "暗示作者可能将自杀或结束生命视为一种解脱或逃避现实的方式，表达了强烈的负面情绪和自伤/自杀倾向",
+    "pinyin_key": "feisheng",
+    "variants": [
+      "飞升"
+    ]
+  },
+  {
+    "surface": "放血",
+    "meaning": "字面意思，可能指自伤行为中的放血",
+    "risk_hint": "直接暗示自伤行为，可能表示作者有自残意图或相关行为",
+    "pinyin_key": "fangxie",
+    "variants": [
+      "放血"
+    ]
+  },
+  {
+    "surface": "捅4",
+    "meaning": "捅死",
+    "risk_hint": "暗示暴力伤害他人的倾向，可能指向家庭冲突或极端负面情绪，存在潜在心理风险",
+    "pinyin_key": "tong4",
+    "variants": [
+      "捅4"
+    ]
+  },
+  {
+    "surface": "⬆️吊",
+    "pinyin_key": "⬆️diao",
+    "variants": [
+      "⬆️吊",
+      "⬆️掉"
+    ],
+    "meaning": "上吊",
+    "risk_hint": "直接描述自杀行为，表明作者曾尝试或考虑上吊自杀"
+  },
+  {
+    "surface": "叨",
+    "meaning": "刀",
+    "risk_hint": "可能指刀具，与自伤行为或暴力行为相关",
+    "pinyin_key": "dao",
+    "variants": [
+      "叨",
+      "刀"
+    ]
+  },
+  {
+    "surface": "薛晓",
+    "pinyin_key": "xuexiao",
+    "variants": [
+      "薛晓",
+      "雪鸮",
+      "学孝"
+    ],
+    "meaning": "学校",
+    "risk_hint": "; 谐音词，可能指'学校'的隐晦表达，用于描述地点，可能暗示学校环境引发的心理压力或创伤"
+  },
+  {
+    "surface": "🍠",
+    "meaning": "小红书",
+    "risk_hint": "此暗语本身不直接暗示心理风险，仅作为平台代称，但结合上下文可能暗示作者在特定平台（小红书）上经历负面事件，加剧了情绪困扰",
+    "pinyin_key": "🍠",
+    "variants": [
+      "🍠"
+    ]
+  },
+  {
+    "surface": "桉棉要",
+    "meaning": "安眠药",
+    "risk_hint": "过量服用安眠药可能导致危险; 过量服用安眠药可能导致生命危险",
+    "pinyin_key": "anmianyao",
+    "variants": [
+      "桉棉要"
+    ]
+  },
+  {
+    "surface": "享福去了",
+    "meaning": "死亡/解脱",
+    "risk_hint": "自杀意念; 暗示自杀或寻求死亡解脱; 暗示作者可能持有自杀意念或对死亡抱有消极幻想，表达了对现实痛苦的逃避或绝望情绪，风险较高",
+    "pinyin_key": "xiangfuqule",
+    "variants": [
+      "享福去了"
+    ]
+  },
+  {
+    "surface": "角铝蒸犯了",
+    "meaning": "焦虑症犯了",
+    "risk_hint": "心理危机",
+    "pinyin_key": "jiaolvzhengfanle",
+    "variants": [
+      "角铝蒸犯了"
+    ]
+  },
+  {
+    "surface": "老辣西泮",
+    "pinyin_key": "laolaxipan",
+    "variants": [
+      "老辣西泮",
+      "老蜡吸盘"
+    ],
+    "meaning": "劳拉西泮; '劳拉西泮'的谐音，指镇定药物",
+    "risk_hint": "药物滥用/自伤相关; 可能暗示用户正在经历心理困扰，服用药物以缓解症状，可能存在药物依赖风险"
+  },
+  {
+    "surface": "想啥人",
+    "meaning": "想杀人",
+    "risk_hint": "暴力/伤害他人倾向",
+    "pinyin_key": "xiangsharen",
+    "variants": [
+      "想啥人",
+      "想杀人"
+    ]
+  },
+  {
+    "surface": "4️⃣wang",
+    "meaning": "死亡",
+    "risk_hint": "自杀意念; 暗示作者在生日时考虑死亡或意外死亡，可能表达自杀意念或对生命的消极态度，风险较高; 暗示作者可能将死亡视为解脱方式，表达绝望和自杀意念",
+    "pinyin_key": "4️⃣wang",
+    "variants": [
+      "4️⃣wang",
+      "4️⃣亡"
+    ]
+  },
+  {
+    "surface": "薛",
+    "pinyin_key": "xue",
+    "variants": [
+      "薛",
+      "雪"
+    ],
+    "meaning": "学; 血",
+    "risk_hint": "可能指学习或学校相关压力; 自伤行为; 自残导致的出血; 可能暗示学习困难或逃避行为，但无直接自伤/自杀倾向; 暗示自伤行为导致流血，与心理危机相关"
+  },
+  {
+    "surface": "豆沙了",
+    "pinyin_key": "doushale",
+    "variants": [
+      "豆沙了"
+    ],
+    "meaning": "谐音'都杀了'; 谐音'都杀了'，可能暗示暴力或伤害意图",
+    "risk_hint": "暴力/伤害意图; 暴力伤害他人的想法; 谐音表达暴力或伤害意图，可能暗示愤怒或绝望情绪; 可能隐晦表达伤害他人或自伤倾向; 谐音表达暴力或伤害意图，可能反映作者愤怒或绝望情绪; 暗示暴力倾向或极端负面情绪，可能指向伤害他人的想法，结合上下文'好痛苦'，反映作者在痛苦情绪下产生的攻击性念头，存在心理风险; 暗示作者有强烈的攻击性或暴力想法，可能反映失控情绪或潜在的自伤/自杀风险，但更偏向于对外的愤怒表达; 可能暗示作者有愤怒、暴力倾向或自伤/自杀相关的负面情绪，表达了对他人或自身处境的强烈不满和绝望感"
+  },
+  {
+    "surface": "小鸡想法",
+    "meaning": "消极想法",
+    "risk_hint": "暗示有消极想法; 谐音替代",
+    "pinyin_key": "xiaojixiangfa",
+    "variants": [
+      "小鸡想法"
+    ]
+  },
+  {
+    "surface": "🧱注达",
+    "meaning": "专注达",
+    "risk_hint": "ADHD治疗药物，可能暗示作者正在受注意力不集中等ADHD相关症状困扰，或正在接受相关治疗; 暗示作者因治疗ADHD的药物费用高昂而感到经济压力，结合上下文可能加剧负面情绪，但本身不直接暗示自伤/自杀倾向。",
+    "pinyin_key": "🧱zhuda",
+    "variants": [
+      "🧱注达"
+    ]
+  },
+  {
+    "surface": "似掉",
+    "meaning": "死掉",
+    "risk_hint": "可能隐晦表达死亡或自杀意愿; 暗示自杀意念或自伤倾向，表达作者在负面情绪下希望结束生命的想法，风险较高。; 暗示作者可能有自杀意念或对生命感到绝望，表达负面情绪和潜在的自杀倾向",
+    "pinyin_key": "shidiao",
+    "variants": [
+      "似掉"
+    ]
+  },
+  {
+    "surface": "悦考",
+    "meaning": "月考",
+    "risk_hint": "可能指考试压力，间接关联心理风险",
+    "pinyin_key": "yuekao",
+    "variants": [
+      "悦考"
+    ]
+  },
+  {
+    "surface": "筒靴",
+    "pinyin_key": "tongxue",
+    "variants": [
+      "筒靴",
+      "童靴"
+    ],
+    "meaning": "同学",
+    "risk_hint": "可能指社交压力，间接关联心理风险; 可能用于隐晦表达社交焦虑或羞耻感; 可能指社交关系; 无直接风险暗示; 无风险，仅作日常交流用途。"
+  },
+  {
+    "surface": "捧悠",
+    "meaning": "朋友",
+    "risk_hint": "可能指社交支持缺失，间接关联心理风险",
+    "pinyin_key": "pengyou",
+    "variants": [
+      "捧悠",
+      "彭油"
+    ]
+  },
+  {
+    "surface": "老湿",
+    "meaning": "老师",
+    "risk_hint": "可能指学业压力，间接关联心理风险; 可能指教育环境",
+    "pinyin_key": "laoshi",
+    "variants": [
+      "老湿"
+    ]
+  },
+  {
+    "surface": "歌歌",
+    "meaning": "谐音替代“割割”，暗指自残/割伤行为",
+    "risk_hint": "自伤行为",
+    "pinyin_key": "gege",
+    "variants": [
+      "歌歌"
+    ]
+  },
+  {
+    "surface": "衮",
+    "meaning": "谐音词，指'滚'",
+    "risk_hint": "表达被逼迫或排斥感，可能加剧负面情绪; 表达作者被家庭逼迫的负面情绪，可能加剧绝望感; 暗示作者感到被家庭压力逼迫，可能增加焦虑或无助感，但无直接自伤/自杀倾向; 暗示作者对他人或外部世界有强烈的负面情绪和排斥态度，可能反映心理上的孤立或绝望感，但未直接指向自伤/自杀行为",
+    "pinyin_key": "gun",
+    "variants": [
+      "衮"
+    ]
+  },
+  {
+    "surface": "紫色砂壶",
+    "meaning": "自杀",
+    "risk_hint": "谐音替代; 暗示作者可能对自杀行为有认知或联想，结合上下文表达了对被救回的绝望感，可能反映潜在的自杀意念或对生命价值的负面态度",
+    "pinyin_key": "ziseshahu",
+    "variants": [
+      "紫色砂壶"
+    ]
+  },
+  {
+    "surface": "马内",
+    "meaning": "money（钱的谐音）",
+    "risk_hint": "暗示可能正面临经济压力，可能导致心理危机; 经济压力可能导致心理危机; 该暗语本身不直接暗示心理风险，但结合上下文，作者表达了对缺乏金钱的无奈和现实困境，可能加剧负面情绪。",
+    "pinyin_key": "manei",
+    "variants": [
+      "马内"
+    ]
+  },
+  {
+    "surface": "跳木娄",
+    "meaning": "跳楼",
+    "risk_hint": "自杀意念; 暗示作者可能有自杀倾向或极端负面情绪，风险较高",
+    "pinyin_key": "tiaomulou",
+    "variants": [
+      "跳木娄"
+    ]
+  },
+  {
+    "surface": "掐s",
+    "meaning": "掐死",
+    "risk_hint": "对他人的攻击性意图或自杀想法; 自杀意念; 暗示自伤/自杀倾向，表达作者想结束自己生命的负面情绪",
+    "pinyin_key": "qias",
+    "variants": [
+      "掐s"
+    ]
+  },
+  {
+    "surface": "吊4",
+    "meaning": "上吊自杀",
+    "risk_hint": "自杀意念; 暗示作者可能有自杀倾向或极端负面情绪，表达绝望和痛苦",
+    "pinyin_key": "diao4",
+    "variants": [
+      "吊4"
+    ]
+  },
+  {
+    "surface": "不想伙了",
+    "meaning": "不想活了",
+    "risk_hint": "自杀意念; 暗示作者可能有自杀倾向或强烈的负面情绪，表达对生活的绝望和痛苦",
+    "pinyin_key": "buxianghuole",
+    "variants": [
+      "不想伙了",
+      "不想活了"
+    ]
+  },
+  {
+    "surface": "坎死",
+    "pinyin_key": "kansi",
+    "variants": [
+      "坎死",
+      "砍死"
+    ],
+    "meaning": "砍死; 杀死",
+    "risk_hint": "暴力/伤害他人倾向; 暴力伤害/杀人意念; 暴力伤害他人; 暗示作者可能有暴力倾向或极端负面情绪，可能指向自伤或伤害他人的风险，需关注其心理状态"
+  },
+  {
+    "surface": "簇亖",
+    "pinyin_key": "cusi",
+    "variants": [
+      "簇亖",
+      "cusi"
+    ],
+    "meaning": "猝死",
+    "risk_hint": "可能暗示死亡或自杀意念; 可能暗示自杀或意外死亡愿望; 暗示对死亡或生命终结的消极态度，可能反映作者对生活感到疲惫或绝望，有潜在的自杀意念风险"
+  },
+  {
+    "surface": "燥期",
+    "pinyin_key": "zaoqi",
+    "variants": [
+      "燥期",
+      "澡期",
+      "躁期"
+    ],
+    "meaning": "躁狂期; 躁期",
+    "risk_hint": "双相情感障碍的躁狂阶段，与心理危机相关; 可能指躁狂期，暗示情绪波动或心理状态不稳定; 双相情感障碍的躁狂阶段，可能涉及情绪极端波动或行为风险; 暗示作者经历躁狂期，这可能带来情绪不稳定和痛苦，增加心理危机风险。; 指双相情感障碍中的躁狂发作阶段，可能伴随冲动行为、情绪高涨或易怒，在心理危机中可能增加风险行为"
+  },
+  {
+    "surface": "伤害自己",
+    "meaning": "自伤",
+    "risk_hint": "自我伤害行为",
+    "pinyin_key": "shanghaiziji",
+    "variants": [
+      "伤害自己"
+    ]
+  },
+  {
+    "surface": "拷世",
+    "meaning": "考试",
+    "risk_hint": "学业压力相关心理危机",
+    "pinyin_key": "kaoshi",
+    "variants": [
+      "拷世"
+    ]
+  },
+  {
+    "surface": "yao",
+    "pinyin_key": "yao",
+    "variants": [
+      "yao",
+      "爻",
+      "要",
+      "耀",
+      "窑",
+      "姚"
+    ],
+    "meaning": "药; 字形变体或隐喻，可能指'药'",
+    "risk_hint": "可能指药物，暗示药物滥用或治疗无效，与心理危机相关; 可能暗示药物滥用或依赖，与心理危机相关; 可能指药物，暗示药物过量或滥用; 药物滥用或治疗药物; 暗示作者在服用药物，可能涉及精神类药物或处方药，结合上下文可能表示治疗心理问题的药物，暗示负面情绪或心理困扰"
+  },
+  {
+    "surface": "割腿",
+    "meaning": "自残行为的隐晦表达，指割伤腿部",
+    "risk_hint": "直接指向自我伤害意图; 暗示作者有自伤倾向，可能通过伤害身体来缓解心理痛苦或表达绝望情绪",
+    "pinyin_key": "getui",
+    "variants": [
+      "割腿"
+    ]
+  },
+  {
+    "surface": "4了",
+    "meaning": "死了",
+    "risk_hint": "自杀或死亡相关; 可能暗示死亡或极端负面情绪; 暗示作者有自杀意念或倾向，表达对当前状况的绝望和后悔情绪，可能指向心理危机",
+    "pinyin_key": "4le",
+    "variants": [
+      "4了"
+    ]
+  },
+  {
+    "surface": "saorao",
+    "meaning": "骚扰的拼音拼写，指代“骚扰”",
+    "risk_hint": "可能涉及性骚扰或心理创伤; 性骚扰/暴力暗示; 暗示作者遭受骚扰，可能导致焦虑、绝望等负面情绪，但无直接自伤/自杀暗示",
+    "pinyin_key": "saorao",
+    "variants": [
+      "saorao"
+    ]
+  },
+  {
+    "surface": "寄了",
+    "meaning": "死了",
+    "risk_hint": "自杀或死亡相关; 暗示作者可能考虑自杀或对死亡有强烈恐惧，表达了对自杀后负面后果的担忧，如被他人误解或利用，这反映了潜在的自杀意念和绝望情绪。",
+    "pinyin_key": "jile",
+    "variants": [
+      "寄了"
+    ]
+  },
+  {
+    "surface": "肯老",
+    "meaning": "啃老",
+    "risk_hint": "依赖父母生活，可能暗示逃避现实或生存压力; 暗示逃避社会、依赖他人，可能反映消极生活态度或缺乏动力，但本身不直接暗示自伤/自杀风险",
+    "pinyin_key": "kenlao",
+    "variants": [
+      "肯老"
+    ]
+  },
+  {
+    "surface": "yi生",
+    "pinyin_key": "yisheng",
+    "variants": [
+      "yi生",
+      "一生",
+      "益生"
+    ],
+    "meaning": "医生",
+    "risk_hint": "可能指寻求专业帮助或治疗; 可能指代医生，涉及医疗隐私泄露和信任问题; 可能指医疗人员; 可能暗示作者对医疗系统或治疗过程感到不满或失望，但无直接自伤/自杀风险"
+  },
+  {
+    "surface": "jsby",
+    "meaning": "精神病院",
+    "risk_hint": "暗示被强制或非自愿住院治疗，可能涉及心理危机; 可能指被强制或非自愿地关在精神病院，暗示心理危机或精神痛苦; 暗示作者可能因精神健康问题住院，结合上下文表达负面情绪和自伤意念，风险较高",
+    "pinyin_key": "jsby",
+    "variants": [
+      "jsby"
+    ]
+  },
+  {
+    "surface": "强健",
+    "meaning": "强奸的谐音或变体",
+    "risk_hint": "可能指代性暴力经历; 暗示性暴力经历，可能导致严重心理创伤和负面情绪",
+    "pinyin_key": "qiangjian",
+    "variants": [
+      "强健"
+    ]
+  },
+  {
+    "surface": "按摩💊",
+    "meaning": "安眠药",
+    "risk_hint": "谐音'安眠药'，结合上下文可能指药物; 可能指安眠药或镇静类药物，用于自杀意图; 暗示作者藏有安眠药，并计划在坚持不下去时服用，直接关联自杀意念和行为风险",
+    "pinyin_key": "anmo💊",
+    "variants": [
+      "按摩💊"
+    ]
+  },
+  {
+    "surface": "坎4",
+    "meaning": "砍死",
+    "risk_hint": "暴力伤害他人; 暴力伤害/自伤; 暴力伤害或自伤相关; 暗示暴力倾向和攻击性意图，可能反映作者强烈的愤怒、绝望或对社会的不满情绪，存在潜在的心理风险",
+    "pinyin_key": "kan4",
+    "variants": [
+      "坎4"
+    ]
+  },
+  {
+    "surface": "sb",
+    "meaning": "傻逼",
+    "risk_hint": "自我贬低、自我厌恶; 暗示作者对自己的行为感到强烈负面情绪，可能反映自责或自我厌恶，但未直接指向自伤/自杀风险，主要用于情绪表达",
+    "pinyin_key": "sb",
+    "variants": [
+      "sb"
+    ]
+  },
+  {
+    "surface": "四一四",
+    "meaning": "死一死",
+    "risk_hint": "自杀意念; 暗示作者可能有自杀意念或倾向，表达了结束生命的想法",
+    "pinyin_key": "siyisi",
+    "variants": [
+      "四一四"
+    ]
+  },
+  {
+    "surface": "申请退出生物圈",
+    "meaning": "自杀",
+    "risk_hint": "隐晦表达结束生命/自杀意愿; 暗示作者可能正在考虑自杀或极端逃避现实，表达了强烈的负面情绪和绝望感，风险较高",
+    "pinyin_key": "shenqingtuichushengwuquan",
+    "variants": [
+      "申请退出生物圈"
+    ]
+  },
+  {
+    "surface": "🐭",
+    "meaning": "死",
+    "risk_hint": "自杀意念; 暗示作者有自杀意念，通过幻想自杀来获得心理宽慰，表明存在严重的心理危机和绝望情绪",
+    "pinyin_key": "🐭",
+    "variants": [
+      "🐭"
+    ]
+  },
+  {
+    "surface": "玉玉症",
+    "meaning": "抑郁症",
+    "risk_hint": "可能指代抑郁症，暗示心理问题",
+    "pinyin_key": "yuyuzheng",
+    "variants": [
+      "玉玉症"
+    ]
+  },
+  {
+    "surface": "很想死",
+    "meaning": "自杀意念",
+    "risk_hint": "直接表达自杀想法; 暗示作者可能正在经历严重的心理痛苦，有自杀意念或强烈的负面情绪，需要关注其心理健康状况",
+    "pinyin_key": "henxiangsi",
+    "variants": [
+      "很想死"
+    ]
+  },
+  {
+    "surface": "修雪莓",
+    "meaning": "谐音'休学妹'，指休学的女生",
+    "risk_hint": "指休学的女学生，非直接自伤/自杀隐语",
+    "pinyin_key": "xiuxuemei",
+    "variants": [
+      "修雪莓"
+    ]
+  },
+  {
+    "surface": "赏雪",
+    "pinyin_key": "shangxue",
+    "variants": [
+      "赏雪",
+      "殇雪",
+      "上薛",
+      "尚学",
+      "上穴"
+    ],
+    "meaning": "'上学'的谐音，指代上学; 谐音“伤血”，可能暗指自伤/放血行为; 上学",
+    "risk_hint": "可能指代学业压力或来自校园的精神压力; 自伤/自残; 可能暗示对日常学习/生活任务的极度疲惫和无力感，但非直接自伤/自杀隐语; 可能隐喻结束生命"
+  },
+  {
+    "surface": "走",
+    "meaning": "自杀",
+    "risk_hint": "暗示结束生命; 暗示作者可能考虑自杀作为解脱方式，表达绝望和逃避现实的情绪，风险较高",
+    "pinyin_key": "zou",
+    "variants": [
+      "走"
+    ]
+  },
+  {
+    "surface": "割凉席",
+    "meaning": "自伤/自残的隐晦表达，伤口像凉席竹条一样平行密集排列，比喻为凉席",
+    "risk_hint": "指用刀片等工具割伤皮肤的行为; 用'割凉席'隐喻自伤行为，暗示作者有自伤习惯; 暗示作者可能有自伤倾向，通过谐音隐晦表达自我伤害行为",
+    "pinyin_key": "geliangxi",
+    "variants": [
+      "割凉席"
+    ]
+  },
+  {
+    "surface": "🈹",
+    "meaning": "割",
+    "risk_hint": "自伤/自残; 自伤行为; 暗示作者可能有自伤行为或倾向，结合上下文表达恐惧和负面情绪，风险较高; 暗示作者可能计划或已经进行自伤行为，结合上下文'出院第一刀'和'左手臂'，指向具体的自残意图和行动; 暗示作者可能正在经历自伤相关的心理危机或负面情绪，结合上下文'住院不能'，可能表示无法进行自伤行为而感到崩溃",
+    "pinyin_key": "🈹",
+    "variants": [
+      "🈹"
+    ]
+  },
+  {
+    "surface": "浓💊",
+    "meaning": "'浓药'谐音'农药'，💊为药丸emoji，指服用农药自杀",
+    "risk_hint": "直接暗示自杀行为; 暗示服毒自杀; 暗示通过服药方式自杀，表明作者有具体的自杀计划或行为倾向，心理风险极高",
+    "pinyin_key": "nong💊",
+    "variants": [
+      "浓💊"
+    ]
+  },
+  {
+    "surface": "美美跟世界说再也不见",
+    "meaning": "自杀/结束生命",
+    "risk_hint": "暗示计划中的自杀行为; 暗示作者有自杀计划或结束生命的意图，表达了一种对死亡的向往或解脱感，心理风险较高",
+    "pinyin_key": "meimeigenshijieshuozaiyebujian",
+    "variants": [
+      "美美跟世界说再也不见"
+    ]
+  },
+  {
+    "surface": "仁",
+    "meaning": "人",
+    "risk_hint": "谐音替代'人'，可能指杀人",
+    "pinyin_key": "ren",
+    "variants": [
+      "仁"
+    ]
+  },
+  {
+    "surface": "4000+",
+    "meaning": "死全家",
+    "risk_hint": "一般用于诅咒他人，表达对某些群体的强烈怨恨; 自杀或死亡相关",
+    "pinyin_key": "4000+",
+    "variants": [
+      "4000+"
+    ]
+  },
+  {
+    "surface": "先走",
+    "meaning": "先离开人世",
+    "risk_hint": "自杀意念; 暗示作者可能希望自己先于他人死亡，表达消极的生存意愿或自杀倾向",
+    "pinyin_key": "xianzou",
+    "variants": [
+      "先走"
+    ]
+  },
+  {
+    "surface": "安眠💊",
+    "meaning": "安眠药",
+    "risk_hint": "可能指用于自杀或自伤的药物; 可能指代药物滥用或自杀相关行为",
+    "pinyin_key": "anmian💊",
+    "variants": [
+      "安眠💊"
+    ]
+  },
+  {
+    "surface": "死4️⃣",
+    "meaning": "死",
+    "risk_hint": "指死亡，使用数字4替代汉字",
+    "pinyin_key": "si4️⃣",
+    "variants": [
+      "死4️⃣"
+    ]
+  },
+  {
+    "surface": "奔溃",
+    "meaning": "谐音替代'崩溃'",
+    "risk_hint": "表达负面情绪，但属于常规词汇变体，风险较低; 表达作者的真实崩溃情绪，属于负面情绪表达，但无直接自伤/自杀暗示",
+    "pinyin_key": "benkui",
+    "variants": [
+      "奔溃"
+    ]
+  },
+  {
+    "surface": "撞似",
+    "meaning": "撞死",
+    "risk_hint": "自杀/自伤行为",
+    "pinyin_key": "zhuangshi",
+    "variants": [
+      "撞似"
+    ]
+  },
+  {
+    "surface": "嘶的",
+    "meaning": "死的",
+    "risk_hint": "自杀或死亡相关; 可能指自杀行为，通过谐音或变形暗示; 暗示作者可能考虑自杀或表达结束生命的意愿，反映了强烈的绝望和自伤倾向",
+    "pinyin_key": "side",
+    "variants": [
+      "嘶的"
+    ]
+  },
+  {
+    "surface": "啥比",
+    "meaning": "傻逼",
+    "risk_hint": "可能暗示愤怒或攻击性情绪; 侮辱性词汇，可能反映愤怒或敌意情绪; 表达愤怒和敌意，但本身不直接暗示自伤/自杀风险，更多是情绪宣泄",
+    "pinyin_key": "shabi",
+    "variants": [
+      "啥比"
+    ]
+  },
+  {
+    "surface": "帽子叔叔",
+    "meaning": "谐音'警察'（帽子→警帽）",
+    "risk_hint": "可能指担心被警方介入或强制干预",
+    "pinyin_key": "maozishushu",
+    "variants": [
+      "帽子叔叔"
+    ]
+  },
+  {
+    "surface": "s法",
+    "meaning": "死法",
+    "risk_hint": "指自杀方法; 直接讨论自杀方法，表明作者在思考自杀选项，风险较高",
+    "pinyin_key": "sfa",
+    "variants": [
+      "s法"
+    ]
+  },
+  {
+    "surface": "桂霞",
+    "meaning": "'跪下'的谐音",
+    "risk_hint": "可能暗示正与他人发生激烈的冲突，发生下跪行为; 死亡/自杀",
+    "pinyin_key": "guixia",
+    "variants": [
+      "桂霞"
+    ]
+  },
+  {
+    "surface": "桶似",
+    "meaning": "捅死",
+    "risk_hint": "暴力伤害/杀人意图; 暴力伤害他人; 暗示对他人或自己的暴力倾向，结合上下文'好想'和'恨的人'，可能表达强烈的负面情绪和攻击性想法，存在心理风险",
+    "pinyin_key": "tongshi",
+    "variants": [
+      "桶似"
+    ]
+  },
+  {
+    "surface": "歌手手",
+    "pinyin_key": "geshoushou",
+    "variants": [
+      "歌手手",
+      "割瘦瘦",
+      "硌手手"
+    ],
+    "meaning": "割手手; '割手手'的谐音，自残/割腕",
+    "risk_hint": "自伤/自残; 自伤行为; 暗示作者可能有自伤倾向，通过谐音方式隐晦表达对自残行为的期待或兴趣; 暗示自伤倾向，表达负面情绪和可能的自我伤害意图"
+  },
+  {
+    "surface": "跳核冲开",
+    "meaning": "跳河冲开",
+    "risk_hint": "自杀行为（跳河）; 暗示作者有自杀意念，可能计划通过跳河等方式结束生命，表达绝望和逃避情绪",
+    "pinyin_key": "tiaohechongkai",
+    "variants": [
+      "跳核冲开"
+    ]
+  },
+  {
+    "surface": "囤耀冲开",
+    "meaning": "吞药冲开",
+    "risk_hint": "自杀行为（吞药）; 暗示作者有自杀意念，可能计划通过吞药等方式结束生命，表达强烈的负面情绪和冲动",
+    "pinyin_key": "dunyaochongkai",
+    "variants": [
+      "囤耀冲开"
+    ]
+  },
+  {
+    "surface": "似去",
+    "meaning": "死去",
+    "risk_hint": "自杀意念; 暗示作者可能有自杀意念或对死亡的渴望，表达逃避现实或结束痛苦的倾向",
+    "pinyin_key": "shiqu",
+    "variants": [
+      "似去"
+    ]
+  },
+  {
+    "surface": "想似",
+    "meaning": "想死",
+    "risk_hint": "自杀意念; 直接表达自杀意念，表明作者有强烈的自伤或自杀倾向，情绪极度痛苦",
+    "pinyin_key": "xiangshi",
+    "variants": [
+      "想似"
+    ]
+  },
+  {
+    "surface": "哦滴",
+    "meaning": "'od'的谐音，指滥用药物",
+    "risk_hint": "暗示药物滥用/成瘾相关的自伤行为",
+    "pinyin_key": "odi",
+    "variants": [
+      "哦滴",
+      "喔滴"
+    ]
+  },
+  {
+    "surface": "楚生",
+    "pinyin_key": "chusheng",
+    "variants": [
+      "楚生",
+      "出生"
+    ],
+    "meaning": "畜生; '畜生'谐音",
+    "risk_hint": "贬低/侮辱性称呼，可能暗示对家人的负面情绪; 可能暗示对某种群体或自己的恶意贬低"
+  },
+  {
+    "surface": "割凉席印",
+    "meaning": "自伤行为，指在皮肤上割出类似凉席印痕的浅表伤口",
+    "risk_hint": "自伤; 暗示作者有长期自伤行为，从较浅伤口发展到更深的伤害，显示自伤倾向加重",
+    "pinyin_key": "geliangxiyin",
+    "variants": [
+      "割凉席印"
+    ]
+  },
+  {
+    "surface": "吞💊💊",
+    "meaning": "吞药/服药过量",
+    "risk_hint": "自杀行为; 暗示自杀或自伤风险，表达绝望或逃避情绪",
+    "pinyin_key": "tun💊💊",
+    "variants": [
+      "吞💊💊"
+    ]
+  },
+  {
+    "surface": "逼4了",
+    "meaning": "逼死了",
+    "risk_hint": "暗示正在遭受极强的精神压力，可能导致自杀的结果; 自杀/死亡暗示; 自杀意念; 暗示作者可能因原生家庭问题感到极度痛苦或绝望，有潜在的自杀意念或心理危机风险; 暗示作者可能因母亲的压力而感到极度痛苦或绝望，有潜在的心理风险，可能关联负面情绪或极端想法",
+    "pinyin_key": "bi4le",
+    "variants": [
+      "逼4了"
+    ]
+  },
+  {
+    "surface": "🚗创死",
+    "meaning": "被车撞死",
+    "risk_hint": "自杀/自伤意念; 暗示自杀或意外死亡倾向，表达强烈的负面情绪和绝望感",
+    "pinyin_key": "🚗chuangsi",
+    "variants": [
+      "🚗创死"
+    ]
+  },
+  {
+    "surface": "死前",
+    "meaning": "死亡之前",
+    "risk_hint": "暗示自杀意念或对死亡的预期; 暗示作者可能正在考虑死亡或自杀，表达了对未来的绝望和放弃，心理风险较高",
+    "pinyin_key": "siqian",
+    "variants": [
+      "死前"
+    ]
+  },
+  {
+    "surface": "霍",
+    "meaning": "活",
+    "risk_hint": "谐音替代，可能暗示放弃生命或自伤; 谐音替代，可能隐晦表达生存或寿命相关想法，结合上下文暗示对未来的消极预期; 谐音替代，可能暗示放弃生命或继续生存的挣扎",
+    "pinyin_key": "huo",
+    "variants": [
+      "霍"
+    ]
+  },
+  {
+    "surface": "断生",
+    "meaning": "断送生命/结束生命",
+    "risk_hint": "自杀意念",
+    "pinyin_key": "duansheng",
+    "variants": [
+      "断生"
+    ]
+  },
+  {
+    "surface": "咖喱蹲",
+    "pinyin_key": "galidun",
+    "variants": [
+      "咖喱蹲",
+      "嘎里蹲",
+      "咖喱顿",
+      "咖喱炖"
+    ],
+    "meaning": "家里蹲",
+    "risk_hint": "可能指代长期居家不出、社会退缩行为; 可能暗示逃避现实或社交退缩，与心理压力相关; 暗示作者可能长期处于消极、逃避现实的状态，与自我价值感低落、社会功能受损相关，可能加剧负面情绪或心理危机风险"
+  },
+  {
+    "surface": "糕三生",
+    "meaning": "高三生",
+    "risk_hint": "可能指代高三学生面临的压力; 可能指代高三学生面临的压力和困境",
+    "pinyin_key": "gaosansheng",
+    "variants": [
+      "糕三生"
+    ]
+  },
+  {
+    "surface": "睡梦中无痛，不再醒来",
+    "meaning": "自杀或安乐死",
+    "risk_hint": "表达结束生命的愿望; 表达希望以无痛方式在睡眠中死亡，不再苏醒; 可能暗示自杀意念或对死亡的渴望，表达逃避现实痛苦的情绪",
+    "pinyin_key": "shuimengzhongwutong，buzaixinglai",
+    "variants": [
+      "睡梦中无痛，不再醒来"
+    ]
+  },
+  {
+    "surface": "斯不了",
+    "meaning": "死不了",
+    "risk_hint": "自杀意念",
+    "pinyin_key": "sibuliao",
+    "variants": [
+      "斯不了"
+    ]
+  },
+  {
+    "surface": "🟣纱",
+    "meaning": "自杀，使用紫色方块emoji替代'紫'字，与'纱'组合形成'紫纱'谐音'自杀'",
+    "risk_hint": "表达自杀意念; 使用紫色方块emoji替代'紫'字，与'纱'组合谐音'自杀'; 暗示作者可能正在考虑或幻想自杀行为，表达了与自杀相关的负面情绪和潜在风险",
+    "pinyin_key": "🟣sha",
+    "variants": [
+      "🟣纱"
+    ]
+  },
+  {
+    "surface": "🪣4",
+    "meaning": "捅死，水桶emoji谐音'捅'",
+    "risk_hint": "表达对他人强烈的怨恨以及伤害他人的意图; 表达死亡或自杀意念; 暗示强烈的自伤或自杀倾向，表达极端负面情绪和绝望感",
+    "pinyin_key": "🪣4",
+    "variants": [
+      "🪣4"
+    ]
+  },
+  {
+    "surface": "殉了",
+    "meaning": "死了",
+    "risk_hint": "可能指自杀或死亡",
+    "pinyin_key": "xunle",
+    "variants": [
+      "殉了"
+    ]
+  },
+  {
+    "surface": "丝路",
+    "meaning": "死路",
+    "risk_hint": "自杀/死亡; 暗示在绝望情境下考虑自杀作为最后选择，表达强烈的负面情绪和自伤/自杀倾向",
+    "pinyin_key": "silu",
+    "variants": [
+      "丝路"
+    ]
+  },
+  {
+    "surface": "玉米",
+    "meaning": "抑郁",
+    "risk_hint": "暗示患有抑郁症或处于抑郁状态; 心理疾病; 暗示作者可能患有抑郁症，这是一种严重的心理健康问题，常伴随负面情绪和自杀风险",
+    "pinyin_key": "yumi",
+    "variants": [
+      "玉米"
+    ]
+  },
+  {
+    "surface": "深井冰",
+    "meaning": "神经病",
+    "risk_hint": "自我贬低或心理问题暗示; 可能暗示心理问题或精神疾病; 暗示作者可能认为自己有心理问题或精神异常，反映了负面自我认知和潜在的心理痛苦，但未直接指向自伤/自杀行为",
+    "pinyin_key": "shenjingbing",
+    "variants": [
+      "深井冰"
+    ]
+  },
+  {
+    "surface": "踏马",
+    "meaning": "谐音，指'他妈'，为粗口",
+    "risk_hint": "表达愤怒或沮丧，间接关联负面情绪",
+    "pinyin_key": "tama",
+    "variants": [
+      "踏马"
+    ]
+  },
+  {
+    "surface": "wcn",
+    "meaning": "未成年",
+    "risk_hint": "可能暗示年龄相关风险因素",
+    "pinyin_key": "wcn",
+    "variants": [
+      "wcn"
+    ]
+  },
+  {
+    "surface": "商调",
+    "pinyin_key": "shangdiao",
+    "variants": [
+      "商调",
+      "商掉"
+    ],
+    "meaning": "上吊; 上吊（谐音）",
+    "risk_hint": "自杀方法; 自杀行为; 暗示自伤/自杀行为（上吊），描述尝试过自杀方法"
+  },
+  {
+    "surface": "高娄321",
+    "meaning": "高楼跳下",
+    "risk_hint": "自杀方法; 暗示自杀计划（从高楼跳下），表达具体的自杀意念",
+    "pinyin_key": "gaolou321",
+    "variants": [
+      "高娄321"
+    ]
+  },
+  {
+    "surface": "wdf",
+    "meaning": "网络常用感叹词，无实际意义",
+    "risk_hint": "表达感叹，与自杀/自伤意念无直接相关性",
+    "pinyin_key": "wdf",
+    "variants": [
+      "wdf"
+    ]
+  },
+  {
+    "surface": "全吃了",
+    "meaning": "可能暗示过量服药行为",
+    "risk_hint": "可能暗示过量服药形式的自伤或自杀行为",
+    "pinyin_key": "quanchile",
+    "variants": [
+      "全吃了"
+    ]
+  },
+  {
+    "surface": "👨🏻🎤",
+    "meaning": "自伤/自杀相关隐喻",
+    "risk_hint": "可能暗示自伤或自杀意念",
+    "pinyin_key": "👨🏻🎤",
+    "variants": [
+      "👨🏻🎤"
+    ]
+  },
+  {
+    "surface": "jl",
+    "meaning": "焦虑",
+    "risk_hint": "焦虑症",
+    "pinyin_key": "jl",
+    "variants": [
+      "jl"
+    ]
+  },
+  {
+    "surface": "撕掉了",
+    "meaning": "'死掉了'谐音，暗示自杀行为",
+    "risk_hint": "可能指结束生命或自我伤害行为",
+    "pinyin_key": "sidiaole",
+    "variants": [
+      "撕掉了",
+      "死掉了",
+      "四掉了"
+    ]
+  },
+  {
+    "surface": "阿美莉卡",
+    "meaning": "美国",
+    "risk_hint": "谐音词，可能暗示逃离现实或寻求解脱的愿望",
+    "pinyin_key": "ameilika",
+    "variants": [
+      "阿美莉卡"
+    ]
+  },
+  {
+    "surface": "健全b",
+    "meaning": "健全逼",
+    "risk_hint": "可能指代对健全人的贬称，隐含对自身心理状态的负面情绪",
+    "pinyin_key": "jianquanb",
+    "variants": [
+      "健全b"
+    ]
+  },
+  {
+    "surface": "糕中",
+    "meaning": "高中",
+    "risk_hint": "可能指高中时期，但非标准表达，需注意上下文",
+    "pinyin_key": "gaozhong",
+    "variants": [
+      "糕中"
+    ]
+  },
+  {
+    "surface": "大雪",
+    "meaning": "大学",
+    "risk_hint": "可能指大学时期，但非标准表达，需注意上下文",
+    "pinyin_key": "daxue",
+    "variants": [
+      "大雪"
+    ]
+  },
+  {
+    "surface": "nana",
+    "meaning": "结合上下文可能暗指'安眠药'或'药物'的隐语",
+    "risk_hint": "暗示药物过量或自伤行为",
+    "pinyin_key": "nana",
+    "variants": [
+      "nana"
+    ]
+  },
+  {
+    "surface": "冰友",
+    "meaning": "病友",
+    "risk_hint": "心理疾病相关谐音",
+    "pinyin_key": "bingyou",
+    "variants": [
+      "冰友"
+    ]
+  },
+  {
+    "surface": "豹豹",
+    "meaning": "爸爸",
+    "risk_hint": "可能指代父亲，但非直接心理风险隐语",
+    "pinyin_key": "baobao",
+    "variants": [
+      "豹豹"
+    ]
+  },
+  {
+    "surface": "wrzy",
+    "meaning": "我弱智呀",
+    "risk_hint": "可能暗示自我贬低或心理困扰",
+    "pinyin_key": "wrzy",
+    "variants": [
+      "wrzy"
+    ]
+  },
+  {
+    "surface": "撕成",
+    "meaning": "'死成'的谐音，",
+    "risk_hint": "可能指自杀行为; 暗示作者在考虑自杀的后果，表达了对自杀成功的渴望或担忧，风险较高",
+    "pinyin_key": "sicheng",
+    "variants": [
+      "撕成",
+      "丝成",
+      "死成"
+    ]
+  },
+  {
+    "surface": "粉饰",
+    "meaning": "'分尸'的谐音，可能暗指对他人进行暴力伤害行为",
+    "risk_hint": "暗示对他人的极端不满，以及希望伤害他人的意图; 暗示作者对'耀祖'有极端的暴力幻想，可能反映严重的心理危机、失控情绪或自伤/自杀相关的攻击性意念",
+    "pinyin_key": "fenshi",
+    "variants": [
+      "粉饰"
+    ]
+  },
+  {
+    "surface": "诗体",
+    "meaning": "'尸体'的谐音",
+    "risk_hint": "可能隐喻死亡或自我贬低，暗示作者感到自己像尸体一样无价值或失去活力",
+    "pinyin_key": "shiti",
+    "variants": [
+      "诗体"
+    ]
+  },
+  {
+    "surface": "调和",
+    "meaning": "'跳河'的谐音，指跳河自杀",
+    "risk_hint": "指跳河自杀，明确指向自杀行为; 暗示作者曾有自杀意念或尝试，表达负面情绪和绝望感",
+    "pinyin_key": "tiaohe",
+    "variants": [
+      "调和"
+    ]
+  },
+  {
+    "surface": "报j",
+    "pinyin_key": "baoj",
+    "variants": [
+      "报j",
+      "包j"
+    ],
+    "meaning": "报警; '报警'的谐音",
+    "risk_hint": "可能暗示作者感到极度恐惧或无助，寻求外部干预，但未直接表达自伤/自杀意图"
+  },
+  {
+    "surface": "竹园",
+    "meaning": "住院",
+    "risk_hint": "可能指住院治疗，暗示心理或身体健康问题",
+    "pinyin_key": "zhuyuan",
+    "variants": [
+      "竹园"
+    ]
+  },
+  {
+    "surface": "调漏",
+    "meaning": "'跳楼'的谐音，指跳楼自杀",
+    "risk_hint": "指跳楼自杀，明确指向自杀行为; 暗示作者在与母亲交流时产生自杀意念，表达强烈的负面情绪和潜在心理危机",
+    "pinyin_key": "diaolou",
+    "variants": [
+      "调漏"
+    ]
+  },
+  {
+    "surface": "mxxg",
+    "meaning": "可能为'毛细血管'的拼音缩写或变体",
+    "risk_hint": "可能暗示哭泣导致的身体反应或痛苦表现",
+    "pinyin_key": "mxxg",
+    "variants": [
+      "mxxg"
+    ]
+  },
+  {
+    "surface": "低雪梨极速版",
+    "meaning": "谐音“低学历精神病”，可能指代低学历同时患有精神疾病的人",
+    "risk_hint": "暗示对未来绝望、无望，可能关联心理危机",
+    "pinyin_key": "dixuelijisuban",
+    "variants": [
+      "低雪梨极速版"
+    ]
+  },
+  {
+    "surface": "复鸽",
+    "meaning": "'复割'，可能指再次进行自伤行为",
+    "risk_hint": "指进行自伤自残行为",
+    "pinyin_key": "fuge",
+    "variants": [
+      "复鸽"
+    ]
+  },
+  {
+    "surface": "贝海王翔",
+    "meaning": "'被害妄想'的谐音",
+    "risk_hint": "指开始不断担心身边的人或事物伤害自己，可能关联心理危机",
+    "pinyin_key": "beihaiwangxiang",
+    "variants": [
+      "贝海王翔"
+    ]
+  },
+  {
+    "surface": "一氧化碳众独",
+    "meaning": "一氧化碳中毒",
+    "risk_hint": "可能指发生过的中毒事件，或表达自杀念头; 暗示自杀或自伤行为，涉及致命风险",
+    "pinyin_key": "yiyanghuatanzhongdu",
+    "variants": [
+      "一氧化碳众独"
+    ]
+  },
+  {
+    "surface": "抢舅",
+    "meaning": "抢救过来",
+    "risk_hint": "可能暗示自杀未遂或紧急医疗干预",
+    "pinyin_key": "qiangjiu",
+    "variants": [
+      "抢舅"
+    ]
+  },
+  {
+    "surface": "sb",
+    "meaning": "傻逼",
+    "risk_hint": "可能表达自我贬低或痛苦情绪，但非直接自伤/自杀隐语; 辱骂他人",
+    "pinyin_key": "sb",
+    "variants": [
+      "sb"
+    ]
+  },
+  {
+    "surface": "种流",
+    "meaning": "谐音词，可能指'肿瘤'",
+    "risk_hint": "可能暗示身体不适或心理痛苦，但非直接自伤/自杀隐语",
+    "pinyin_key": "zhongliu",
+    "variants": [
+      "种流"
+    ]
+  },
+  {
+    "surface": "紫薇",
+    "meaning": "自慰",
+    "risk_hint": "可能指代自慰行为，但非直接自伤/自杀隐语; 此暗语本身不直接暗示心理风险，但结合上下文可能涉及负面情绪或自我厌恶，需谨慎评估整体内容。",
+    "pinyin_key": "ziwei",
+    "variants": [
+      "紫薇"
+    ]
+  },
+  {
+    "surface": "一跳生路",
+    "meaning": "一条生路",
+    "risk_hint": "表达求生意志",
+    "pinyin_key": "yitiaoshenglu",
+    "variants": [
+      "一跳生路"
+    ]
+  },
+  {
+    "surface": "郁齐",
+    "meaning": "郁期",
+    "risk_hint": "可能指抑郁情绪或双向情感障碍的抑郁期",
+    "pinyin_key": "yuqi",
+    "variants": [
+      "郁齐"
+    ]
+  },
+  {
+    "surface": "效房站",
+    "meaning": "'消防站'谐音",
+    "risk_hint": "可能指有消防站或救援设施",
+    "pinyin_key": "xiaofangzhan",
+    "variants": [
+      "效房站"
+    ]
+  },
+  {
+    "surface": "发🧊",
+    "meaning": "发病",
+    "risk_hint": "可能指心理或情绪问题发作; 暗示作者可能经历反复的心理或情绪困扰，表达负面情绪和痛苦，但未直接指向自伤或自杀行为",
+    "pinyin_key": "fa🧊",
+    "variants": [
+      "发🧊"
+    ]
+  },
+  {
+    "surface": "笑陵道",
+    "meaning": "'校领导'谐音，指学校的管理老师",
+    "risk_hint": "指代学校管理老师，无明确心理风险，但可能暗示对学校管理的负面情绪",
+    "pinyin_key": "xiaolingdao",
+    "variants": [
+      "笑陵道"
+    ]
+  },
+  {
+    "surface": "乐坛",
+    "meaning": "'约谈'的谐音",
+    "risk_hint": "可能隐晦表达被强制心理干预",
+    "pinyin_key": "yuetan",
+    "variants": [
+      "乐坛"
+    ]
+  },
+  {
+    "surface": "一劳永逸",
+    "meaning": "自杀或结束生命",
+    "risk_hint": "暗示自杀意念; 暗示作者可能考虑自杀作为解脱方式，表达绝望和结束生命的意图",
+    "pinyin_key": "yilaoyongyi",
+    "variants": [
+      "一劳永逸"
+    ]
+  },
+  {
+    "surface": "安目民",
+    "meaning": "安眠",
+    "risk_hint": "暗示患有睡眠障碍或可能有药物依赖",
+    "pinyin_key": "anmumin",
+    "variants": [
+      "安目民"
+    ]
+  },
+  {
+    "surface": "老己",
+    "meaning": "自己",
+    "risk_hint": "可能暗示自我贬低或自我对话，但非直接自伤/自杀隐语",
+    "pinyin_key": "laoji",
+    "variants": [
+      "老己"
+    ]
+  },
+  {
+    "surface": "荔枝",
+    "meaning": "离职",
+    "risk_hint": "可能暗示工作压力或生活变动带来的心理困扰",
+    "pinyin_key": "lizhi",
+    "variants": [
+      "荔枝"
+    ]
+  },
+  {
+    "surface": "b溃",
+    "meaning": "崩溃",
+    "risk_hint": "可能表示情绪崩溃或心理压力",
+    "pinyin_key": "bkui",
+    "variants": [
+      "b溃"
+    ]
+  },
+  {
+    "surface": "y",
+    "meaning": "药",
+    "risk_hint": "可能指药物，暗示医疗或心理治疗相关，但非直接自伤/自杀隐语",
+    "pinyin_key": "y",
+    "variants": [
+      "y"
+    ]
+  },
+  {
+    "surface": "农",
+    "meaning": "农药",
+    "risk_hint": "可能指农药，暗示自杀或自伤行为; 谐音词，结合上下文“一瓶9.9的农解决所有”，可能隐喻自杀或自伤行为，暗示作者有绝望或逃避现实的倾向，风险较高。; 暗示可能通过农药进行自我伤害或自杀，表达了绝望和逃避痛苦的情绪",
+    "pinyin_key": "nong",
+    "variants": [
+      "农"
+    ]
+  },
+  {
+    "surface": "建飞",
+    "meaning": "减肥",
+    "risk_hint": "可能暗示对体重或身体形象的负面情绪，但非直接自伤/自杀隐语; 该暗语本身无直接心理风险，但结合上下文'从好几年前想建飞一直到现在都没成功'，暗示作者长期减肥失败，可能伴随挫败感、无力感等负面情绪，间接反映心理压力或自我否定倾向。",
+    "pinyin_key": "jianfei",
+    "variants": [
+      "建飞"
+    ]
+  },
+  {
+    "surface": "净身幺五",
+    "meaning": "谐音'精神药物'",
+    "risk_hint": "可能指服用精神类药物或药物滥用",
+    "pinyin_key": "jingshenyaowu",
+    "variants": [
+      "净身幺五"
+    ]
+  },
+  {
+    "surface": "筒茁",
+    "meaning": "'同桌'的谐音或变体",
+    "risk_hint": "指代学校的同桌，但未直接关联自伤/自杀意愿",
+    "pinyin_key": "tongzhuo",
+    "variants": [
+      "筒茁"
+    ]
+  },
+  {
+    "surface": "润国",
+    "meaning": "代指出国",
+    "risk_hint": "指代出国读书，但未直接关联自伤/自杀意愿",
+    "pinyin_key": "runguo",
+    "variants": [
+      "润国"
+    ]
+  },
+  {
+    "surface": "🦶驴",
+    "meaning": "焦虑",
+    "risk_hint": "可能指焦虑情绪，需注意潜在心理风险",
+    "pinyin_key": "🦶lv",
+    "variants": [
+      "🦶驴"
+    ]
+  },
+  {
+    "surface": "swqs",
+    "meaning": "死无全尸",
+    "risk_hint": "可能暗示死亡或极端负面情绪",
+    "pinyin_key": "swqs",
+    "variants": [
+      "swqs"
+    ]
+  },
+  {
+    "surface": "红贝印",
+    "meaning": "红色的贝印牌修眉刀，因为其锋利常被用于自伤",
+    "risk_hint": "暗示使用刀具进行自伤行为",
+    "pinyin_key": "hongbeiyin",
+    "variants": [
+      "红贝印"
+    ]
+  },
+  {
+    "surface": "新梨鸡冰",
+    "meaning": "心理疾病",
+    "risk_hint": "谐音或变形表达心理疾病; 谐音'心理疾病'，暗示作者认为自己继承了家庭的心理健康问题",
+    "pinyin_key": "xinlijibing",
+    "variants": [
+      "新梨鸡冰"
+    ]
+  },
+  {
+    "surface": "挑江",
+    "meaning": "跳江（谐音）",
+    "risk_hint": "自杀行为",
+    "pinyin_key": "tiaojiang",
+    "variants": [
+      "挑江",
+      "跳江"
+    ]
+  },
+  {
+    "surface": "m",
+    "meaning": "命",
+    "risk_hint": "可能指生命，结合上下文暗示自杀尝试失败",
+    "pinyin_key": "m",
+    "variants": [
+      "m"
+    ]
+  },
+  {
+    "surface": "雪星",
+    "meaning": "谐音或隐喻，可能指'血腥'或'血腥画面'",
+    "risk_hint": "暗示暴力、伤害或死亡相关意象",
+    "pinyin_key": "xuexing",
+    "variants": [
+      "雪星"
+    ]
+  },
+  {
+    "surface": "薛晓孝雪方案",
+    "meaning": "谐音或拼音缩写，可能指'学校教学方案'",
+    "risk_hint": "可能涉及学业压力或课程安排，间接与心理压力相关",
+    "pinyin_key": "xuexiaoxiaoxuefangan",
+    "variants": [
+      "薛晓孝雪方案"
+    ]
+  },
+  {
+    "surface": "缟纻",
+    "pinyin_key": "gaozhu",
+    "variants": [
+      "缟纻",
+      "高烛",
+      "高柱",
+      "高珠",
+      "高洙"
+    ],
+    "meaning": "'稿主'的变体，代指发帖投稿的人，一般指自己; '高柱'的谐音，在匿名平台上投稿者的自称",
+    "risk_hint": "常指代自己，非直接自伤/自杀隐语; 通常指代投稿者自己，非直接自伤/自杀隐语"
+  },
+  {
+    "surface": "法饼",
+    "meaning": "谐音词，指'发病'，暗示心理或情绪问题",
+    "risk_hint": "可能隐晦表达心理危机或情绪崩溃; 暗示作者可能患有心理或精神疾病，且频繁发作，表达持续的负面情绪和痛苦状态",
+    "pinyin_key": "fabing",
+    "variants": [
+      "法饼",
+      "發病",
+      "发病"
+    ]
+  },
+  {
+    "surface": "jqb",
+    "meaning": "'健全逼'的缩写，可能指代对健全人的贬称",
+    "risk_hint": "对身心健全的人的贬称，隐含对自身心理状态的负面情绪",
+    "pinyin_key": "jqb",
+    "variants": [
+      "jqb"
+    ]
+  },
+  {
+    "surface": "🏫",
+    "meaning": "学校emoji",
+    "risk_hint": "可能暗示学校环境中的心理压力或创伤",
+    "pinyin_key": "🏫",
+    "variants": [
+      "🏫"
+    ]
+  },
+  {
+    "surface": "霍不好",
+    "meaning": "活不好",
+    "risk_hint": "生活困难或心理疾病带来生活困扰",
+    "pinyin_key": "huobuhao",
+    "variants": [
+      "霍不好"
+    ]
+  },
+  {
+    "surface": "欠宅",
+    "meaning": "欠债",
+    "risk_hint": "指债务，暗示财务压力",
+    "pinyin_key": "qianzhai",
+    "variants": [
+      "欠宅"
+    ]
+  },
+  {
+    "surface": "扣老逼",
+    "meaning": "自慰/手淫",
+    "risk_hint": "可能暗示通过性行为缓解情绪痛苦，但未直接指向自伤/自杀",
+    "pinyin_key": "koulaobi",
+    "variants": [
+      "扣老逼"
+    ]
+  },
+  {
+    "surface": "膏叁",
+    "meaning": "高三",
+    "risk_hint": "可能指代学业压力或心理负担，暗示作者处于高三阶段; 该暗语本身无直接心理风险暗示，但结合上下文'复学后糕三了'，可能暗示作者处于高三阶段，面临学业压力，间接关联负面情绪。",
+    "pinyin_key": "gaosan",
+    "variants": [
+      "膏叁",
+      "糕三"
+    ]
+  },
+  {
+    "surface": "jd",
+    "meaning": "极端",
+    "risk_hint": "可能指极端想法或行为，如自杀意念",
+    "pinyin_key": "jd",
+    "variants": [
+      "jd"
+    ]
+  },
+  {
+    "surface": "想哥",
+    "meaning": "可能为'想割'的谐音或变体，暗示自伤/自杀意念",
+    "risk_hint": "自伤/自杀相关隐语",
+    "pinyin_key": "xiangge",
+    "variants": [
+      "想哥"
+    ]
+  },
+  {
+    "surface": "奏人砸",
+    "meaning": "揍人砸（谐音：奏人砸→揍人砸，可能为'揍人砸'的变体，意指打人或破坏行为）",
+    "risk_hint": "暗示暴力倾向或情绪失控，可能关联攻击行为",
+    "pinyin_key": "zourenza",
+    "variants": [
+      "奏人砸"
+    ]
+  },
+  {
+    "surface": "生物母",
+    "meaning": "谐音或变体，可能指'生母'或'生物母亲'，可能带有贬义或疏离感，暗示对母亲的不满或怨恨",
+    "risk_hint": "可能暗示家庭冲突或亲子关系紧张，与负面情绪相关",
+    "pinyin_key": "shengwumu",
+    "variants": [
+      "生物母"
+    ]
+  },
+  {
+    "surface": "去提货",
+    "meaning": "'躯体化'的谐音，指心理问题转化为身体症状",
+    "risk_hint": "可能暗示患有较为严重的精神疾病，已经出现躯体化症状",
+    "pinyin_key": "qutihuo",
+    "variants": [
+      "去提货"
+    ]
+  },
+  {
+    "surface": "孝式",
+    "meaning": "考试",
+    "risk_hint": "可能指考试压力或学业相关心理困扰",
+    "pinyin_key": "xiaoshi",
+    "variants": [
+      "孝式"
+    ]
+  },
+  {
+    "surface": "七台河",
+    "meaning": "'躯体化'的谐音，指心理问题转化为身体症状",
+    "risk_hint": "可能暗示患有较为严重的精神疾病，已经出现躯体化症状",
+    "pinyin_key": "qitaihe",
+    "variants": [
+      "七台河"
+    ]
+  },
+  {
+    "surface": "sr",
+    "meaning": "骚扰",
+    "risk_hint": "可能指网络骚扰或性骚扰，暗示心理压力或伤害风险",
+    "pinyin_key": "sr",
+    "variants": [
+      "sr"
+    ]
+  },
+  {
+    "surface": "岛圆",
+    "meaning": "'导员'谐音，指大学中的辅导员",
+    "risk_hint": "指代大学中担任学生辅导工作的老师，无明确心理风险，但可能暗示辅导员施加的负面情绪或压力",
+    "pinyin_key": "daoyuan",
+    "variants": [
+      "岛圆"
+    ]
+  },
+  {
+    "surface": "门槛妹",
+    "meaning": "指代从事擦边性工作的女性",
+    "risk_hint": "可能涉及自我贬低意念和极端生存手段",
+    "pinyin_key": "men/kan/mei",
+    "variants": [
+      "门槛妹"
+    ]
+  },
+  {
+    "surface": "ruma",
+    "meaning": "'辱骂'的拼音缩写",
+    "risk_hint": "可能暗示被虐待或心理压力",
+    "pinyin_key": "ruma",
+    "variants": [
+      "ruma"
+    ]
+  },
+  {
+    "surface": "叨克特",
+    "meaning": "医生",
+    "risk_hint": "指代医生，无明确心理风险，但可能暗示医疗相关的压力或经历; 暗示作者可能背着医生藏药，涉及隐瞒医疗行为，可能反映对治疗的不信任或负面情绪",
+    "pinyin_key": "daokete",
+    "variants": [
+      "叨克特"
+    ]
+  },
+  {
+    "surface": "jprw",
+    "meaning": "'家破人亡'的拼音缩写，常用于诅咒他人",
+    "risk_hint": "表达对某人或某群体的极端仇恨",
+    "pinyin_key": "jprw",
+    "variants": [
+      "jprw"
+    ]
+  },
+  {
+    "surface": "羌破症",
+    "pinyin_key": "qiangpozheng",
+    "variants": [
+      "羌破症",
+      "强坡症"
+    ],
+    "meaning": "'强迫症'的谐音",
+    "risk_hint": "可能指强迫症，暗示心理问题; 可能指强迫症带来的心理困扰或痛苦"
+  },
+  {
+    "surface": "袅频",
+    "meaning": "尿频",
+    "risk_hint": "可能暗示生理症状伴随心理压力",
+    "pinyin_key": "niaopin",
+    "variants": [
+      "袅频"
+    ]
+  },
+  {
+    "surface": "云",
+    "meaning": "可能为'晕'的谐音或变体",
+    "risk_hint": "可能暗示服药后的不良反应或自伤后果",
+    "pinyin_key": "yun",
+    "variants": [
+      "云"
+    ]
+  },
+  {
+    "surface": "🎩",
+    "meaning": "帽子emoji代指警察(谐音：帽子→警帽)",
+    "risk_hint": "指代警察，可能暗示担心被警方介入或强制干预",
+    "pinyin_key": "🎩",
+    "variants": [
+      "🎩"
+    ]
+  },
+  {
+    "surface": "椿烤",
+    "meaning": "谐音'春考'，可能指代春季考试，暗示学业压力",
+    "risk_hint": "可能暗示学业压力相关心理压力",
+    "pinyin_key": "chunkao",
+    "variants": [
+      "椿烤"
+    ]
+  },
+  {
+    "surface": "报雪鸮",
+    "meaning": "谐音'报学校'，可能指填报志愿报考学校",
+    "risk_hint": "可能暗示学业压力相关心理压力",
+    "pinyin_key": "baoxuexiao",
+    "variants": [
+      "报雪鸮"
+    ]
+  },
+  {
+    "surface": "戳雪",
+    "meaning": "'辍学'的谐音",
+    "risk_hint": "可能暗示学业压力或对学校环境的逃避倾向",
+    "pinyin_key": "chuoxue",
+    "variants": [
+      "戳雪"
+    ]
+  },
+  {
+    "surface": "界王异薛晓",
+    "meaning": "'戒网瘾学校'的谐音",
+    "risk_hint": "指代严格管理用于戒除学生网瘾的专门学校，无明确心理风险，但可能暗示对学校环境的负面情绪",
+    "pinyin_key": "jiewangyixuexiao",
+    "variants": [
+      "界王异薛晓"
+    ]
+  },
+  {
+    "surface": "chpd",
+    "meaning": "'吃喝嫖赌'的拼音缩写",
+    "risk_hint": "描述他人行为，可能加剧作者负面情绪",
+    "pinyin_key": "chpd",
+    "variants": [
+      "chpd"
+    ]
+  },
+  {
+    "surface": "nue鲨",
+    "meaning": "虐杀",
+    "risk_hint": "暴力伤害或自伤倾向",
+    "pinyin_key": "nuesha",
+    "variants": [
+      "nue鲨"
+    ]
+  },
+  {
+    "surface": "耳八",
+    "meaning": "耳光",
+    "risk_hint": "可能暗示暴力行为或自伤倾向",
+    "pinyin_key": "erba",
+    "variants": [
+      "耳八"
+    ]
+  },
+  {
+    "surface": "jq",
+    "meaning": "'健全'的缩写，指代身心健康的人",
+    "risk_hint": "指代心理健康状态，无明确心理风险",
+    "pinyin_key": "jq",
+    "variants": [
+      "jq"
+    ]
+  },
+  {
+    "surface": "坤巴",
+    "meaning": "脏话或粗俗表达",
+    "risk_hint": "可能用于强调负面情绪，但本身不直接关联自伤/自杀",
+    "pinyin_key": "kunba",
+    "variants": [
+      "坤巴"
+    ]
+  },
+  {
+    "surface": "复薛",
+    "meaning": "复学",
+    "risk_hint": "可能暗示作者在经历学业中断后尝试回归，与心理压力相关",
+    "pinyin_key": "fuxue",
+    "variants": [
+      "复薛",
+      "复雪"
+    ]
+  },
+  {
+    "surface": "颠",
+    "meaning": "疯癫/精神失常",
+    "risk_hint": "可能暗示心理不稳定或自伤风险",
+    "pinyin_key": "dian",
+    "variants": [
+      "颠"
+    ]
+  },
+  {
+    "surface": "剑",
+    "meaning": "贱",
+    "risk_hint": "可能暗示自我贬低或心理痛苦",
+    "pinyin_key": "jian",
+    "variants": [
+      "剑"
+    ]
+  },
+  {
+    "surface": "庆华贝大",
+    "meaning": "谐音或隐喻，可能指代'清华北大'（中国顶尖大学）",
+    "risk_hint": "学业压力，可能涉及家庭期望过高; 暗示学业压力或家庭期望过高，可能加剧作者的焦虑和绝望情绪，但本身不直接暗示自伤/自杀行为。",
+    "pinyin_key": "qinghuabeida",
+    "variants": [
+      "庆华贝大"
+    ]
+  },
+  {
+    "surface": "ex",
+    "meaning": "恶心",
+    "risk_hint": "表达强烈负面情绪，可能暗示心理不适或厌恶感; 暗示作者因药物副作用感到极度不适和厌恶，可能加剧负面情绪和绝望感",
+    "pinyin_key": "ex",
+    "variants": [
+      "ex"
+    ]
+  },
+  {
+    "surface": "餐券",
+    "meaning": "谐音词，可能指'惨圈'，用于描述悲惨或负面情绪相关的群体或内容",
+    "risk_hint": "可能暗示作者对负面情绪或自伤/自杀相关内容的关注或认同",
+    "pinyin_key": "canquan",
+    "variants": [
+      "餐券"
+    ]
+  },
+  {
+    "surface": "雪🐰",
+    "meaning": "'血图'的谐音，自残后流血的照片",
+    "risk_hint": "指代自残后流血的照片，表示存在自伤行为",
+    "pinyin_key": "xue🐰",
+    "variants": [
+      "雪🐰"
+    ]
+  },
+  {
+    "surface": "草莓",
+    "meaning": "网友们/同伴",
+    "risk_hint": "寻求支持",
+    "pinyin_key": "caomei",
+    "variants": [
+      "草莓"
+    ]
+  },
+  {
+    "surface": "首充",
+    "meaning": "谐音'手冲'，指自慰行为",
+    "risk_hint": "可能暗示正在面临压力，通过自慰来缓解情绪，但非直接自伤/自杀隐语",
+    "pinyin_key": "shouchong",
+    "variants": [
+      "首充"
+    ]
+  },
+  {
+    "surface": "凰啬废料",
+    "meaning": "谐音'黄涩废料'，可能指色情内容",
+    "risk_hint": "可能暗示用户正在经历心理困扰，通过色情内容寻求逃避或慰藉",
+    "pinyin_key": "huangsefeiliao",
+    "variants": [
+      "凰啬废料"
+    ]
+  },
+  {
+    "surface": "耀族",
+    "meaning": "对弟弟的贬称，暗示对家人的负面情绪",
+    "risk_hint": "暗示家庭可能存在重男轻女的压力，家庭关系紧张; 暗示作者可能有自杀意念或对生活感到极度绝望，风险较高",
+    "pinyin_key": "yaozu",
+    "variants": [
+      "耀族"
+    ]
+  },
+  {
+    "surface": "晚安",
+    "meaning": "安眠药或镇静类药物",
+    "risk_hint": "过量服用药物可能导致危险",
+    "pinyin_key": "wanan",
+    "variants": [
+      "晚安"
+    ]
+  },
+  {
+    "surface": "∠绿",
+    "meaning": "谐音“焦虑”",
+    "risk_hint": "可能暗示心理压力或负面情绪",
+    "pinyin_key": "∠lv",
+    "variants": [
+      "∠绿"
+    ]
+  },
+  {
+    "surface": "抽🩸",
+    "meaning": "抽血/放血",
+    "risk_hint": "自伤行为; 暗示自伤倾向，可能表达痛苦或自我惩罚意图",
+    "pinyin_key": "chou🩸",
+    "variants": [
+      "抽🩸"
+    ]
+  },
+  {
+    "surface": "🚾",
+    "meaning": "厕所emoji，指代匿名投稿账号",
+    "risk_hint": "指代作者投稿的该匿名投稿账号，无明确心理风险",
+    "pinyin_key": "🚾",
+    "variants": [
+      "🚾"
+    ]
+  },
+  {
+    "surface": "打tai",
+    "meaning": "打胎",
+    "risk_hint": "可能暗示对出生或存在的否定，与自杀意念相关; 暗语暗示作者可能希望自己从未出生，表达强烈的自我否定、绝望或自杀意念，因为作者将当前生活描述为希望是母亲堕胎前的一场梦，这通常与心理危机相关。",
+    "pinyin_key": "datai",
+    "variants": [
+      "打tai",
+      "打胎"
+    ]
+  },
+  {
+    "surface": "几把",
+    "meaning": "谐音词，指'鸡巴'，但也可能作为语气词",
+    "risk_hint": "可能暗示作者感到生活无望或自我贬低，但非直接自伤/自杀隐语",
+    "pinyin_key": "jiba",
+    "variants": [
+      "几把"
+    ]
+  },
+  {
+    "surface": "尚班",
+    "meaning": "上班",
+    "risk_hint": "可能指上班，暗示对工作的逃避或压力",
+    "pinyin_key": "shangban",
+    "variants": [
+      "尚班"
+    ]
+  },
+  {
+    "surface": "³²¹",
+    "meaning": "由常用语“321跳”衍生，跳楼自杀的隐晦表达",
+    "risk_hint": "暗示跳楼自杀的意图",
+    "pinyin_key": "³²¹",
+    "variants": [
+      "³²¹"
+    ]
+  },
+  {
+    "surface": "漕",
+    "meaning": "操",
+    "risk_hint": "语气词，表达强烈负面情绪，可能暗示绝望或失控感; 强化了作者的负面情绪，如愤怒和绝望，可能暗示心理压力或情绪失控，但未直接关联自伤/自杀",
+    "pinyin_key": "cao",
+    "variants": [
+      "漕",
+      "cao"
+    ]
+  },
+  {
+    "surface": "三二一",
+    "meaning": "由常用语“321跳”衍生，跳楼自杀的隐晦表达",
+    "risk_hint": "暗示跳楼自杀的意图",
+    "pinyin_key": "saneryi",
+    "variants": [
+      "三二一"
+    ]
+  },
+  {
+    "surface": "低位商调",
+    "meaning": "上吊谐音，可能暗指上吊自杀",
+    "risk_hint": "自杀意念",
+    "pinyin_key": "diweishangdiao",
+    "variants": [
+      "低位商调"
+    ]
+  },
+  {
+    "surface": "金属柄",
+    "meaning": "'精神病'的谐音，指精神疾病",
+    "risk_hint": "暗示遭受精神疾病的折磨，可能伴随自伤或自杀风险",
+    "pinyin_key": "jinshubing",
+    "variants": [
+      "金属柄"
+    ]
+  },
+  {
+    "surface": "紫菜测",
+    "meaning": "'自残测'的谐音，指可以匿名投稿自残相关内容的账号",
+    "risk_hint": "可能指有自残相关想法或行为; 可能指自杀行为或意念; 暗示作者可能有自杀相关的意念或倾向，表达负面情绪和绝望感",
+    "pinyin_key": "zicaice",
+    "variants": [
+      "紫菜测"
+    ]
+  },
+  {
+    "surface": "益院",
+    "meaning": "医院",
+    "risk_hint": "可能指精神卫生机构或医院",
+    "pinyin_key": "yiyuan",
+    "variants": [
+      "益院",
+      "意愿"
+    ]
+  },
+  {
+    "surface": "菩提花",
+    "meaning": "'躯体化'的变体，指心理问题转化为身体症状",
+    "risk_hint": "可能暗示情绪崩溃或身体失控",
+    "pinyin_key": "putihua",
+    "variants": [
+      "菩提花"
+    ]
+  },
+  {
+    "surface": "创4⃣️",
+    "meaning": "'撞死'的谐音，结合上下文暗示伤害或死亡",
+    "risk_hint": "可能隐晦表达自伤或自杀意念; 暗示作者可能表达自杀意念或对死亡的渴望，风险较高",
+    "pinyin_key": "chuang4⃣️",
+    "variants": [
+      "创4⃣️"
+    ]
+  },
+  {
+    "surface": "残即",
+    "meaning": "'残疾'的谐音词，结合上下文暗示伤害或死亡",
+    "risk_hint": "可能隐晦表达自伤或自杀意念",
+    "pinyin_key": "canji",
+    "variants": [
+      "残即"
+    ]
+  },
+  {
+    "surface": "🐔",
+    "meaning": "鸡，对性工作者的贬称",
+    "risk_hint": "隐喻自轻自贱、自我贬低或性交易相关，可能暗示心理危机中的自我价值感丧失; 作者用此暗语自比，暗示自我贬低、绝望和自暴自弃的情绪，可能反映心理危机或自我价值感极低，有潜在自伤或自杀风险倾向",
+    "pinyin_key": "🐔",
+    "variants": [
+      "🐔"
+    ]
+  },
+  {
+    "surface": "老负老亩",
+    "meaning": "谐音或变体，可能指'老父老母'",
+    "risk_hint": "可能暗示家庭冲突或压力，间接关联心理风险",
+    "pinyin_key": "laofulaomu",
+    "variants": [
+      "老负老亩"
+    ]
+  },
+  {
+    "surface": "好几把",
+    "pinyin_key": "haojiba",
+    "variants": [
+      "好几把"
+    ],
+    "meaning": "非常/极其",
+    "risk_hint": "强调负面情绪强度"
+  },
+  {
+    "surface": "s后",
+    "pinyin_key": "shou",
+    "variants": [
+      "s后"
+    ],
+    "meaning": "死后",
+    "risk_hint": "死亡后状态"
+  },
+  {
+    "surface": "开割",
+    "pinyin_key": "kaige",
+    "variants": [
+      "开割"
+    ],
+    "meaning": "开始切割（皮肤）",
+    "risk_hint": "自残行为的起始动作; 暗示自伤行为的起始，可能关联自残倾向"
+  },
+  {
+    "surface": "致饲量",
+    "pinyin_key": "zhisiliang",
+    "variants": [
+      "致饲量"
+    ],
+    "meaning": "谐音“致死量”",
+    "risk_hint": "可能指致死剂量; 直接关联到自杀或自伤意图，表明作者在考虑达到致命剂量的行为，风险较高"
+  },
+  {
+    "surface": "结束苟活",
+    "pinyin_key": "jieshugouhuo",
+    "variants": [
+      "结束苟活"
+    ],
+    "meaning": "隐喻结束生命",
+    "risk_hint": "暗示自杀意图"
+  },
+  {
+    "surface": "jing神颗",
+    "pinyin_key": "jingshenke",
+    "variants": [
+      "jing神颗"
+    ],
+    "meaning": "精神科",
+    "risk_hint": "可能指精神科医生或精神科医疗资源; 暗示作者可能因精神健康问题寻求专业帮助，但无法获得，增加了心理风险，如焦虑或绝望感"
+  },
+  {
+    "surface": "1️⃣生",
+    "pinyin_key": "1️⃣sheng",
+    "variants": [
+      "1️⃣生"
+    ],
+    "meaning": "医生",
+    "risk_hint": "可能指医生或医疗资源"
+  },
+  {
+    "surface": "4掉",
+    "pinyin_key": "4diao",
+    "variants": [
+      "4掉"
+    ],
+    "meaning": "死掉",
+    "risk_hint": "死亡愿望; 暗示作者希望自己死亡，可能通过意外方式实现，属于高风险自杀倾向表达"
+  },
+  {
+    "surface": "🚗",
+    "pinyin_key": "🚗",
+    "variants": [
+      "🚗"
+    ],
+    "meaning": "车",
+    "risk_hint": "车祸/被车撞"
+  },
+  {
+    "surface": "砍似",
+    "pinyin_key": "kanshi",
+    "variants": [
+      "砍似"
+    ],
+    "meaning": "砍死",
+    "risk_hint": "暴力伤害他人; 暗示暴力倾向和潜在的自伤或伤害他人的意图，可能反映作者在梦境中的愤怒和绝望情绪，有心理风险"
+  },
+  {
+    "surface": "安乐4",
+    "pinyin_key": "anle4",
+    "variants": [
+      "安乐4"
+    ],
+    "meaning": "安乐死",
+    "risk_hint": "自杀意念; 暗示作者可能考虑或渴望通过安乐死结束生命，表达强烈的负面情绪和自杀倾向"
+  },
+  {
+    "surface": "歌喉",
+    "pinyin_key": "gehou",
+    "variants": [
+      "歌喉",
+      "割喉"
+    ],
+    "meaning": "割喉",
+    "risk_hint": "可能指割喉的自伤/自杀行为; 暗示尝试割喉的自伤或自杀行为，显示严重的自伤/自杀倾向"
+  },
+  {
+    "surface": "稍炭",
+    "pinyin_key": "shaotan",
+    "variants": [
+      "稍炭"
+    ],
+    "meaning": "烧炭",
+    "risk_hint": "可能指烧炭自杀的行为; 暗示尝试烧炭自杀的行为，显示严重的自伤/自杀倾向"
+  },
+  {
+    "surface": "喵星",
+    "pinyin_key": "miaoxing",
+    "variants": [
+      "喵星"
+    ],
+    "meaning": "猫去世的委婉说法",
+    "risk_hint": "死亡隐喻; 此暗语本身不直接暗示作者的自伤/自杀倾向，而是表达对宠物去世的悲伤和怀念，可能间接反映作者的负面情绪和孤独感，但无直接心理风险暗示。"
+  },
+  {
+    "surface": "gw",
+    "pinyin_key": "gw",
+    "variants": [
+      "gw"
+    ],
+    "meaning": "割腕",
+    "risk_hint": "自伤行为"
+  },
+  {
+    "surface": "想三又怕三",
+    "pinyin_key": "xiangsanyoupasan",
+    "variants": [
+      "想三又怕三"
+    ],
+    "meaning": "想死又怕死",
+    "risk_hint": "自杀意念"
+  },
+  {
+    "surface": "精分",
+    "pinyin_key": "jingfen",
+    "variants": [
+      "精分"
+    ],
+    "meaning": "精神分裂症",
+    "risk_hint": "可能暗示严重心理疾病或幻觉; 暗示作者担心自己的心理状况恶化，可能涉及对严重精神疾病的恐惧和负面情绪，但未直接表达自伤/自杀倾向"
+  },
+  {
+    "surface": "麻木的軀殼",
+    "pinyin_key": "mamudequke",
+    "variants": [
+      "麻木的軀殼"
+    ],
+    "meaning": "形容身体像没有灵魂的躯壳一样麻木",
+    "risk_hint": "暗示作者可能感到与自己的身体和情感脱节，这是严重心理危机的表现，可能增加自伤或自杀风险"
+  },
+  {
+    "surface": "桉棉",
+    "pinyin_key": "anmian",
+    "variants": [
+      "桉棉"
+    ],
+    "meaning": "安眠药的谐音或变体",
+    "risk_hint": "暗示作者可能通过过量服用安眠药来逃避现实或实现自杀意图，表明严重的心理危机和自伤风险"
+  },
+  {
+    "surface": "生物爹",
+    "pinyin_key": "shengwudie",
+    "variants": [
+      "生物爹"
+    ],
+    "meaning": "网络用语，指生物学上的父亲，常带有负面或讽刺意味",
+    "risk_hint": "暗示作者对父亲的负面情绪或关系问题，可能加剧心理痛苦，但本身不直接暗示自伤/自杀倾向。"
+  },
+  {
+    "surface": "好怕被救回来",
+    "pinyin_key": "haopabeijiuhuilai",
+    "variants": [
+      "好怕被救回来"
+    ],
+    "meaning": "直接表达害怕被救回，暗示自杀意图",
+    "risk_hint": "明确表达自杀意愿和恐惧被干预，有高自杀风险"
+  },
+  {
+    "surface": "沃德法克",
+    "pinyin_key": "wodefake",
+    "variants": [
+      "沃德法克"
+    ],
+    "meaning": "谐音词，源自英文'what the fuck'，表达惊讶、愤怒或沮丧情绪",
+    "risk_hint": "暗示作者对即将搬出和年龄增长的负面情绪，可能反映焦虑或压力，但无直接自伤/自杀暗示"
+  },
+  {
+    "surface": "坎人",
+    "pinyin_key": "kanren",
+    "variants": [
+      "坎人"
+    ],
+    "meaning": "谐音词，指'砍人'",
+    "risk_hint": "暗示暴力倾向或伤害他人的想法，可能反映愤怒、失控的情绪状态"
+  },
+  {
+    "surface": "啥人灭口",
+    "pinyin_key": "sharenmiekou",
+    "variants": [
+      "啥人灭口"
+    ],
+    "meaning": "谐音词，可能指'杀人灭口'，描述一种暴力行为",
+    "risk_hint": "暗示作者感受到威胁或迫害，可能加剧绝望感，但未明确表达自伤/自杀意图"
+  },
+  {
+    "surface": "wb",
+    "pinyin_key": "wb",
+    "variants": [
+      "wb"
+    ],
+    "meaning": "微博的拼音缩写，指社交媒体平台微博",
+    "risk_hint": "此暗语本身无直接心理风险，但结合上下文，它暗示作者在微博上匿名表达负面情绪，可能用于隐藏真实身份或逃避社交压力，间接反映心理困扰。"
+  },
+  {
+    "surface": "豆沙",
+    "pinyin_key": "dousha",
+    "variants": [
+      "豆沙"
+    ],
+    "meaning": "谐音词，指'都杀'，即杀死所有人",
+    "risk_hint": "暗示作者有暴力或伤害他人的想法，可能反映极端负面情绪或心理危机，但未明确指向自伤/自杀"
+  },
+  {
+    "surface": "加里敦",
+    "pinyin_key": "jialidun",
+    "variants": [
+      "加里敦"
+    ],
+    "meaning": "谐音词，指代'家里蹲'，表示长期待在家里不工作或学习，常与抑郁、逃避现实相关",
+    "risk_hint": "暗示作者可能处于消极、逃避状态，与心理危机如抑郁或社会退缩相关，但非直接自伤/自杀暗示"
+  },
+  {
+    "surface": "光滑充水的肉条",
+    "pinyin_key": "guanghuachongshuideroutiao",
+    "variants": [
+      "光滑充水的肉条"
+    ],
+    "meaning": "比喻性描述，可能指没有伤疤的身体，但用负面词汇'恶心'修饰，暗示对身体的厌恶",
+    "risk_hint": "表达了对自身身体的强烈厌恶和恶心感，可能反映出自伤倾向或身体形象问题，有较高的心理风险"
+  },
+  {
+    "surface": "弄死我",
+    "pinyin_key": "nongsiwo",
+    "variants": [
+      "弄死我"
+    ],
+    "meaning": "字面意思是“杀死我”，在中文语境中常作为夸张表达或隐喻，暗示作者可能感到极度痛苦、绝望或无助，希望结束当前状态或生命。",
+    "risk_hint": "此暗语暗示作者可能处于心理危机状态，有自伤或自杀倾向，表达了强烈的负面情绪和绝望感。"
+  },
+  {
+    "surface": "掐死",
+    "pinyin_key": "qiasi",
+    "variants": [
+      "掐死",
+      "掐丝"
+    ],
+    "meaning": "指掐死自己，暗示自杀或自伤倾向",
+    "risk_hint": "暗示作者有自杀或自伤的想法，表达了对过去发病状态的极度厌恶和绝望情绪"
+  },
+  {
+    "surface": "8⃣️",
+    "pinyin_key": "8⃣️",
+    "variants": [
+      "8⃣️"
+    ],
+    "meaning": "谐音词，表示'爸'，可能指代父亲",
+    "risk_hint": "结合上下文'打我'和'出血了'，暗示家庭暴力或虐待，可能加剧作者的负面情绪和心理风险，如创伤或绝望感"
+  },
+  {
+    "surface": "异域和椒绿",
+    "pinyin_key": "yiyuhejiaolv",
+    "variants": [
+      "异域和椒绿"
+    ],
+    "meaning": "谐音词，可能指'抑郁'和'焦虑'，是心理障碍的隐晦表达",
+    "risk_hint": "暗示作者可能患有抑郁和焦虑，这些是常见的心理问题，与文本中描述的负面情绪、学习困难、情绪不稳定和自述'确诊'相符，可能增加自伤或自杀风险。"
+  },
+  {
+    "surface": "雀食",
+    "pinyin_key": "queshi",
+    "variants": [
+      "雀食"
+    ],
+    "meaning": "谐音词，意为'确实'",
+    "risk_hint": "该暗语本身不直接暗示心理风险，仅作为日常口语表达，但结合上下文可能反映作者对自身状况的确认和矛盾心理，间接暗示负面情绪。"
+  },
+  {
+    "surface": "调酱",
+    "pinyin_key": "diaojiang",
+    "variants": [
+      "调酱"
+    ],
+    "meaning": "谐音词，可能指'跳江'，暗示自杀行为",
+    "risk_hint": "暗示作者有自杀意念，表达了对自杀的考虑和恐惧被发现的担忧，风险较高"
+  },
+  {
+    "surface": "挑和冲开了",
+    "pinyin_key": "tiaohechongkaile",
+    "variants": [
+      "挑和冲开了"
+    ],
+    "meaning": "谐音或变形表达，可能指'跳河冲开了'，暗示自杀行为",
+    "risk_hint": "暗示作者计划自杀，表达结束生命的意图，风险极高"
+  },
+  {
+    "surface": "巳不掉",
+    "pinyin_key": "sibudiao",
+    "variants": [
+      "巳不掉",
+      "嘶不掉",
+      "四不掉"
+    ],
+    "meaning": "谐音'死不掉'，意指无法死亡或自杀未遂",
+    "risk_hint": "直接表达自杀未遂的挫败感，暗示强烈的负面情绪和自伤/自杀意念"
+  },
+  {
+    "surface": "debuff",
+    "pinyin_key": "debuff",
+    "variants": [
+      "debuff"
+    ],
+    "meaning": "游戏术语，原指负面状态或削弱效果，此处隐喻为哭泣带来的额外负面影响或痛苦加剧",
+    "risk_hint": "用游戏化语言描述哭泣的负面体验，可能暗示作者感到无助或痛苦被放大，反映情绪困扰"
+  },
+  {
+    "surface": "眉刀",
+    "pinyin_key": "meidao",
+    "variants": [
+      "眉刀"
+    ],
+    "meaning": "谐音词，指'美工刀'，但可能暗指用于自伤的工具",
+    "risk_hint": "暗示作者可能使用美工刀进行自伤行为，结合上下文'用力歌了三十几道出雪量'，指向自伤倾向"
+  },
+  {
+    "surface": "出雪量",
+    "pinyin_key": "chuxueliang",
+    "variants": [
+      "出雪量"
+    ],
+    "meaning": "谐音词，指'出血量'，描述自伤导致的出血",
+    "risk_hint": "直接描述自伤后果，暗示作者可能进行了严重的自伤行为，风险较高"
+  },
+  {
+    "surface": "烧炭4️⃣",
+    "pinyin_key": "shaotan4️⃣",
+    "variants": [
+      "烧炭4️⃣"
+    ],
+    "meaning": "谐音词组合，表示“烧炭死”",
+    "risk_hint": "明确暗示自杀方法（烧炭自杀），表明作者有具体的自杀计划或意念"
+  },
+  {
+    "surface": "半休学",
+    "pinyin_key": "banxiuxue",
+    "variants": [
+      "半休学"
+    ],
+    "meaning": "指部分时间休学，可能暗示学业困难或心理问题影响学习",
+    "risk_hint": "暗示学业中断，可能与心理压力或负面情绪相关，增加风险"
+  },
+  {
+    "surface": "阴阳两隔",
+    "pinyin_key": "yinyangliangge",
+    "variants": [
+      "阴阳两隔"
+    ],
+    "meaning": "指死亡或死后世界，暗示自杀或死亡相关意念",
+    "risk_hint": "暗示作者可能考虑通过死亡来寻求安全感或逃避现实，有自杀倾向或心理危机风险"
+  },
+  {
+    "surface": "抠嗓子",
+    "pinyin_key": "kousangzi",
+    "variants": [
+      "抠嗓子"
+    ],
+    "meaning": "用手指或其他物体刺激喉咙以引发呕吐的行为",
+    "risk_hint": "暗示可能的自伤行为或进食障碍相关风险，如暴食后催吐，可能反映负面情绪或心理困扰"
+  },
+  {
+    "surface": "猫星",
+    "pinyin_key": "maoxing",
+    "variants": [
+      "猫星"
+    ],
+    "meaning": "暗指猫去世后去的地方，隐喻死亡或天堂",
+    "risk_hint": "暗示作者对死亡的消极态度或向往，可能反映自杀倾向或绝望情绪"
+  },
+  {
+    "surface": "MC",
+    "pinyin_key": "mc",
+    "variants": [
+      "MC"
+    ],
+    "meaning": "游戏《我的世界》的缩写",
+    "risk_hint": "文本中使用游戏比喻描述心理状态，暗示作者可能通过游戏隐喻来表达内心混乱和无力感，但无直接自伤/自杀风险暗示，仅作情绪表达用途。"
+  },
+  {
+    "surface": "TNT",
+    "pinyin_key": "tnt",
+    "variants": [
+      "TNT"
+    ],
+    "meaning": "游戏《我的世界》中的爆炸物",
+    "risk_hint": "作为游戏元素，用于比喻突然爆发的负面情绪，无直接自伤/自杀风险暗示，仅作情绪表达用途。"
+  },
+  {
+    "surface": "丽溃",
+    "pinyin_key": "likui",
+    "variants": [
+      "丽溃"
+    ],
+    "meaning": "谐音词，可能指'崩溃'，暗示情绪失控或心理崩溃",
+    "risk_hint": "暗示作者因双向情感障碍（可能指双相情感障碍）导致记忆问题和情绪崩溃，反映了严重的负面情绪和心理困扰，可能增加自伤或自杀风险"
+  },
+  {
+    "surface": "吞药自杀",
+    "pinyin_key": "tunyaozisha",
+    "variants": [
+      "吞药自杀"
+    ],
+    "meaning": "通过吞食药物进行自杀行为",
+    "risk_hint": "暗示作者有自杀意念和具体行为，表明严重的心理危机和自伤/自杀倾向"
+  },
+  {
+    "surface": "倒计时",
+    "pinyin_key": "daojishi",
+    "variants": [
+      "倒计时"
+    ],
+    "meaning": "生命即将结束或面临死亡威胁的隐喻表达",
+    "risk_hint": "暗示作者可能因恐惧狂犬病而认为自己生命即将终结，表达了强烈的绝望和濒死感，可能暗示自杀意念或极端负面情绪"
+  },
+  {
+    "surface": "双a",
+    "pinyin_key": "shuanga",
+    "variants": [
+      "双a"
+    ],
+    "meaning": "ADHD和ASD（自闭症谱系障碍）的缩写组合",
+    "risk_hint": "暗示作者可能同时患有注意力缺陷多动障碍和自闭症谱系障碍，这通常与社交困难、情绪调节问题相关，可能加剧现有的抑郁和焦虑症状，增加心理风险"
+  },
+  {
+    "surface": "黑奴",
+    "pinyin_key": "heinu",
+    "variants": [
+      "黑奴"
+    ],
+    "meaning": "谐音或隐喻，指工作报酬极低、条件苛刻，类似奴隶般的待遇",
+    "risk_hint": "暗示作者感到被剥削、无助和绝望，可能反映经济压力和心理痛苦，增加负面情绪风险"
+  },
+  {
+    "surface": "WX",
+    "pinyin_key": "wx",
+    "variants": [
+      "WX"
+    ],
+    "meaning": "性侵或性骚扰的拼音缩写",
+    "risk_hint": "暗示作者童年遭受性侵或性骚扰，可能导致严重心理创伤和负面情绪，如创伤后应激障碍、抑郁等，增加自伤或自杀风险"
+  },
+  {
+    "surface": "g",
+    "pinyin_key": "g",
+    "variants": [
+      "g"
+    ],
+    "meaning": "割的拼音缩写，指自残行为",
+    "risk_hint": "暗示作者当前或计划中的自伤行为，可能反映强烈的负面情绪或自伤冲动"
+  },
+  {
+    "surface": "现实解体",
+    "pinyin_key": "xianshijieti",
+    "variants": [
+      "现实解体"
+    ],
+    "meaning": "指一种心理症状，感觉周围环境不真实或陌生，常与精神障碍相关",
+    "risk_hint": "暗示作者可能经历严重的心理困扰或精神健康问题，如抑郁症或焦虑症，可能伴随负面情绪和功能受损"
+  },
+  {
+    "surface": "吞药自尽",
+    "pinyin_key": "tunyaozijin",
+    "variants": [
+      "吞药自尽"
+    ],
+    "meaning": "通过服药方式自杀",
+    "risk_hint": "直接描述自杀行为，暗示严重的自杀倾向和心理危机"
+  },
+  {
+    "surface": "解%%离",
+    "pinyin_key": "jie%%li",
+    "variants": [
+      "解%%离"
+    ],
+    "meaning": "指个体在经历创伤或压力时，意识、记忆、身份或感知出现分离的心理状态，常见于解离性障碍",
+    "risk_hint": "暗示可能存在解离性障碍或创伤后应激反应，需关注心理健康"
+  },
+  {
+    "surface": "膏铐",
+    "pinyin_key": "gaokao",
+    "variants": [
+      "膏铐",
+      "糕烤"
+    ],
+    "meaning": "高考",
+    "risk_hint": "暗示学业压力大，可能引发焦虑、抑郁等心理问题"
+  },
+  {
+    "surface": "自薛",
+    "pinyin_key": "zixue",
+    "variants": [
+      "自薛"
+    ],
+    "meaning": "自杀",
+    "risk_hint": "暗示自杀倾向，存在严重心理危机"
+  },
+  {
+    "surface": "22楼",
+    "pinyin_key": "22lou",
+    "variants": [
+      "22楼"
+    ],
+    "meaning": "自杀倾向（从高处跳下）",
+    "risk_hint": "暗示自伤/自杀风险，可能计划从高处跳楼"
+  },
+  {
+    "surface": "有效房站",
+    "pinyin_key": "youxiaofangzhan",
+    "variants": [
+      "有效房站"
+    ],
+    "meaning": "消防站",
+    "risk_hint": "暗示担心被救援，可能计划自伤行为后被阻止"
+  },
+  {
+    "surface": "一跃而下",
+    "pinyin_key": "yiyueerxia",
+    "variants": [
+      "一跃而下"
+    ],
+    "meaning": "自杀倾向，指从高处跳下结束生命",
+    "risk_hint": "该暗语暗示严重的自杀意念和自伤风险"
+  },
+  {
+    "surface": "低雪梨",
+    "pinyin_key": "dixueli",
+    "variants": [
+      "低雪梨"
+    ],
+    "meaning": "谐音'低学历'，指代低学历状态",
+    "risk_hint": "暗示因学历低而产生的自卑、无助和绝望感，可能伴随自我否定"
+  },
+  {
+    "surface": "无痛",
+    "pinyin_key": "wutong",
+    "variants": [
+      "无痛"
+    ],
+    "meaning": "无痛苦地离开人世或结束生命",
+    "risk_hint": "暗示自杀倾向或结束生命的意愿"
+  },
+  {
+    "surface": "撒手人寰",
+    "pinyin_key": "sashourenhuan",
+    "variants": [
+      "撒手人寰"
+    ],
+    "meaning": "死亡或自杀的委婉表达",
+    "risk_hint": "暗示强烈的自杀倾向或对生命的极度厌倦"
+  },
+  {
+    "surface": "9块9的农下肚立刻重k",
+    "pinyin_key": "9kuai9denongxiadulikezhongk",
+    "variants": [
+      "9块9的农下肚立刻重k"
+    ],
+    "meaning": "服用廉价农药（如9.9元购买的农药）后立即死亡或自杀",
+    "risk_hint": "该暗语暗示强烈的自杀倾向和绝望情绪，表达通过服用农药结束生命的意图"
+  },
+  {
+    "surface": "好想死",
+    "pinyin_key": "haoxiangsi",
+    "variants": [
+      "好想死",
+      "好想撕"
+    ],
+    "meaning": "想死/想自杀",
+    "risk_hint": "该暗语暗示强烈的自杀意念或极度痛苦的情绪"
+  },
+  {
+    "surface": "无痛去世",
+    "pinyin_key": "wutongqushi",
+    "variants": [
+      "无痛去世"
+    ],
+    "meaning": "指没有痛苦地结束生命，是自杀的隐晦表达",
+    "risk_hint": "暗示强烈的自杀倾向和绝望情绪"
+  },
+  {
+    "surface": "健死了",
+    "pinyin_key": "jiansile",
+    "variants": [
+      "健死了"
+    ],
+    "meaning": "烦死了",
+    "risk_hint": "该暗语暗示强烈的情绪困扰和可能的自我厌恶，可能伴随抑郁或焦虑症状"
+  },
+  {
+    "surface": "曲蹄花了",
+    "pinyin_key": "qutihuale",
+    "variants": [
+      "曲蹄花了"
+    ],
+    "meaning": "躯体化",
+    "risk_hint": "暗示心理问题可能转化为身体症状，存在潜在的心理健康风险"
+  },
+  {
+    "surface": "拿刀划开",
+    "pinyin_key": "nadaohuakai",
+    "variants": [
+      "拿刀划开"
+    ],
+    "meaning": "表达自伤或自杀倾向，想通过伤害身体来缓解心理痛苦",
+    "risk_hint": "暗示严重的自伤/自杀风险，需要立即关注和干预"
+  },
+  {
+    "surface": "9.9的农",
+    "pinyin_key": "9.9denong",
+    "variants": [
+      "9.9的农"
+    ],
+    "meaning": "指代农药（如百草枯等除草剂），暗示通过服用农药结束生命",
+    "risk_hint": "该暗语暗示强烈的自杀倾向，特别是通过服用农药等剧毒物质结束生命的意图"
+  },
+  {
+    "surface": "gua",
+    "pinyin_key": "gua",
+    "variants": [
+      "gua",
+      "掛"
+    ],
+    "meaning": "死",
+    "risk_hint": "该暗语暗示强烈的自杀倾向和自我伤害意图"
+  },
+  {
+    "surface": "双想了",
+    "pinyin_key": "shuangxiangle",
+    "variants": [
+      "双想了"
+    ],
+    "meaning": "双相情感障碍的简称",
+    "risk_hint": "暗示可能存在双相情感障碍，涉及情绪极端波动，有自伤或自杀风险"
+  },
+  {
+    "surface": "死不下去",
+    "pinyin_key": "sibuxiaqu",
+    "variants": [
+      "死不下去"
+    ],
+    "meaning": "无法死亡或自杀未遂",
+    "risk_hint": "暗示强烈的自杀倾向或自伤意图"
+  },
+  {
+    "surface": "捅4泥",
+    "pinyin_key": "tong4ni",
+    "variants": [
+      "捅4泥"
+    ],
+    "meaning": "捅死你",
+    "risk_hint": "暗示对他人有暴力攻击倾向或威胁意图"
+  },
+  {
+    "surface": "上／调",
+    "pinyin_key": "shang／diao",
+    "variants": [
+      "上／调"
+    ],
+    "meaning": "上吊",
+    "risk_hint": "暗示自杀倾向"
+  },
+  {
+    "surface": "再也不见",
+    "pinyin_key": "zaiyebujian",
+    "variants": [
+      "再也不见"
+    ],
+    "meaning": "自杀或结束生命的委婉表达",
+    "risk_hint": "暗示强烈的自杀倾向和结束生命的意图"
+  },
+  {
+    "surface": "活不起了",
+    "pinyin_key": "huobuqile",
+    "variants": [
+      "活不起了"
+    ],
+    "meaning": "活不下去了",
+    "risk_hint": "暗示严重的生存绝望感，可能伴随自杀倾向"
+  },
+  {
+    "surface": "中烤",
+    "pinyin_key": "zhongkao",
+    "variants": [
+      "中烤"
+    ],
+    "meaning": "自杀或结束生命的隐晦表达",
+    "risk_hint": "暗示自杀倾向或结束生命的意图"
+  },
+  {
+    "surface": "解脱",
+    "pinyin_key": "jietuo",
+    "variants": [
+      "解脱"
+    ],
+    "meaning": "结束生命或摆脱痛苦（暗示自杀倾向）",
+    "risk_hint": "暗示自杀倾向，表达通过死亡来逃避无法改变的痛苦"
+  },
+  {
+    "surface": "莎仁莎思",
+    "pinyin_key": "sharenshasi",
+    "variants": [
+      "莎仁莎思"
+    ],
+    "meaning": "杀人杀己",
+    "risk_hint": "该暗语暗示强烈的暴力倾向和自毁冲动，可能指向自伤/自杀或伤害他人的风险"
+  },
+  {
+    "surface": "怎么s",
+    "pinyin_key": "zenmes",
+    "variants": [
+      "怎么s"
+    ],
+    "meaning": "怎么死",
+    "risk_hint": "表达对死亡方式的困惑和绝望，暗示强烈的自杀倾向"
+  },
+  {
+    "surface": "魂飞魄散",
+    "pinyin_key": "hunfeiposan",
+    "variants": [
+      "魂飞魄散"
+    ],
+    "meaning": "彻底消失、不复存在",
+    "risk_hint": "表达对彻底消亡的渴望，暗示逃避现实和极端绝望的心理状态"
+  },
+  {
+    "surface": "💧💧💧💧💧💧",
+    "pinyin_key": "💧💧💧💧💧💧",
+    "variants": [
+      "💧💧💧💧💧💧"
+    ],
+    "meaning": "哭泣或流泪的象征",
+    "risk_hint": "暗示极度悲伤、无助或情绪崩溃，可能伴随抑郁或焦虑症状"
+  },
+  {
+    "surface": "紫餐测",
+    "pinyin_key": "zicance",
+    "variants": [
+      "紫餐测"
+    ],
+    "meaning": "自残测",
+    "risk_hint": "暗示自伤倾向或对自残行为的关注"
+  },
+  {
+    "surface": "撞墙",
+    "pinyin_key": "zhuangqiang",
+    "variants": [
+      "撞墙"
+    ],
+    "meaning": "自伤行为（撞击头部）",
+    "risk_hint": "暗示自伤倾向和强烈情绪痛苦"
+  },
+  {
+    "surface": "tai",
+    "pinyin_key": "tai",
+    "variants": [
+      "tai"
+    ],
+    "meaning": "胎",
+    "risk_hint": "该暗语暗示对生命价值的否定和存在虚无感，可能伴随抑郁或自杀意念"
+  },
+  {
+    "surface": "嘎嘣一下",
+    "pinyin_key": "gabengyixia",
+    "variants": [
+      "嘎嘣一下"
+    ],
+    "meaning": "突然死亡或结束生命",
+    "risk_hint": "暗示自杀倾向或强烈的死亡愿望"
+  },
+  {
+    "surface": "弄死自己",
+    "pinyin_key": "nongsiziji",
+    "variants": [
+      "弄死自己"
+    ],
+    "meaning": "自杀或自伤倾向的表达",
+    "risk_hint": "暗示严重的自杀或自伤风险，可能源于极度绝望或情绪崩溃"
+  },
+  {
+    "surface": "窝",
+    "pinyin_key": "wo",
+    "variants": [
+      "窝"
+    ],
+    "meaning": "我",
+    "risk_hint": "该暗语暗示自伤行为，可能涉及自我伤害或自残倾向"
+  },
+  {
+    "surface": "杀了自己",
+    "pinyin_key": "shaleziji",
+    "variants": [
+      "杀了自己"
+    ],
+    "meaning": "自杀倾向的表达",
+    "risk_hint": "该暗语暗示强烈的自杀意念和自毁倾向"
+  },
+  {
+    "surface": "gz",
+    "pinyin_key": "gz",
+    "variants": [
+      "gz"
+    ],
+    "meaning": "割腕（自伤行为）",
+    "risk_hint": "暗示自伤/自残倾向，可能涉及自杀风险"
+  },
+  {
+    "surface": "苟活",
+    "pinyin_key": "gouhuo",
+    "variants": [
+      "苟活"
+    ],
+    "meaning": "隐喻结束生命",
+    "risk_hint": "暗示自杀倾向，表达对生活的绝望和结束生命的意图"
+  },
+  {
+    "surface": "死木",
+    "pinyin_key": "simu",
+    "variants": [
+      "死木"
+    ],
+    "meaning": "死",
+    "risk_hint": "暗示自杀倾向或极端绝望情绪"
+  },
+  {
+    "surface": "yi书",
+    "pinyin_key": "yishu",
+    "variants": [
+      "yi书",
+      "艺术",
+      "遗书"
+    ],
+    "meaning": "遗书",
+    "risk_hint": "暗示有自杀倾向或计划"
+  },
+  {
+    "surface": "逼s",
+    "pinyin_key": "bis",
+    "variants": [
+      "逼s"
+    ],
+    "meaning": "逼死",
+    "risk_hint": "该暗语暗示因外部压力导致的极端心理风险，可能涉及自杀意念"
+  },
+  {
+    "surface": "4⃣️了",
+    "pinyin_key": "4⃣️le",
+    "variants": [
+      "4⃣️了"
+    ],
+    "meaning": "死了",
+    "risk_hint": "暗示自杀倾向或死亡愿望"
+  },
+  {
+    "surface": "没4⃣️",
+    "pinyin_key": "mei4⃣️",
+    "variants": [
+      "没4⃣️"
+    ],
+    "meaning": "没死",
+    "risk_hint": "暗示自暴自弃或消极应对生活的心理状态"
+  },
+  {
+    "surface": "自灿测殉",
+    "pinyin_key": "zicancexun",
+    "variants": [
+      "自灿测殉"
+    ],
+    "meaning": "自残测（指可以匿名投稿自残相关内容的账号或测试）",
+    "risk_hint": "暗示自伤倾向或对自残行为的关注"
+  },
+  {
+    "surface": "💔",
+    "pinyin_key": "💔",
+    "variants": [
+      "💔"
+    ],
+    "meaning": "心碎、悲伤、失落",
+    "risk_hint": "暗示情绪低落或心理痛苦"
+  },
+  {
+    "surface": "扣",
+    "pinyin_key": "kou",
+    "variants": [
+      "扣"
+    ],
+    "meaning": "自慰",
+    "risk_hint": "暗示可能通过性行为缓解心理压力或逃避现实"
+  },
+  {
+    "surface": "没死成",
+    "pinyin_key": "meisicheng",
+    "variants": [
+      "没死成"
+    ],
+    "meaning": "自杀未遂",
+    "risk_hint": "暗示自杀倾向和严重的自我否定"
+  },
+  {
+    "surface": "死在春天",
+    "pinyin_key": "sizaichuntian",
+    "variants": [
+      "死在春天"
+    ],
+    "meaning": "在春天结束生命或表达对春天的绝望",
+    "risk_hint": "暗示自杀倾向或对生命的极度失望"
+  },
+  {
+    "surface": "看轻生",
+    "pinyin_key": "kanqingsheng",
+    "variants": [
+      "看轻生"
+    ],
+    "meaning": "考虑或意图自杀",
+    "risk_hint": "该暗语暗示强烈的自杀倾向和自伤风险"
+  },
+  {
+    "surface": "一根绳子吊死在房梁上",
+    "pinyin_key": "yigenshengzidiaosizaifangliangshang",
+    "variants": [
+      "一根绳子吊死在房梁上"
+    ],
+    "meaning": "自杀倾向的表达",
+    "risk_hint": "该暗语暗示强烈的自杀意念和绝望情绪"
+  },
+  {
+    "surface": "目残",
+    "pinyin_key": "mucan",
+    "variants": [
+      "目残"
+    ],
+    "meaning": "自残",
+    "risk_hint": "暗示自我伤害倾向，可能伴随抑郁或焦虑情绪"
+  },
+  {
+    "surface": "断药",
+    "pinyin_key": "duanyao",
+    "variants": [
+      "断药"
+    ],
+    "meaning": "自行停止服用抗抑郁药物",
+    "risk_hint": "暗示未经医生指导擅自停药可能导致抑郁症状加重，存在自伤或自杀风险增加"
+  },
+  {
+    "surface": "si去",
+    "pinyin_key": "siqu",
+    "variants": [
+      "si去"
+    ],
+    "meaning": "死去",
+    "risk_hint": "表达自杀倾向和死亡意愿，暗示严重的心理危机"
+  },
+  {
+    "surface": "si后",
+    "pinyin_key": "sihou",
+    "variants": [
+      "si后"
+    ],
+    "meaning": "死后",
+    "risk_hint": "表达对死亡后场景的想象，暗示自杀计划和绝望情绪"
+  },
+  {
+    "surface": "si了的消息",
+    "pinyin_key": "siledexiaoxi",
+    "variants": [
+      "si了的消息"
+    ],
+    "meaning": "死了的消息",
+    "risk_hint": "表达对自杀后他人反应的担忧，暗示自杀意念和社交孤立感"
+  },
+  {
+    "surface": "emo",
+    "pinyin_key": "emo",
+    "variants": [
+      "emo"
+    ],
+    "meaning": "情绪低落、抑郁或悲伤的状态",
+    "risk_hint": "暗示情绪困扰、抑郁倾向，可能伴随自伤或自杀风险"
+  },
+  {
+    "surface": "创",
+    "pinyin_key": "chuang",
+    "variants": [
+      "创"
+    ],
+    "meaning": "被车撞死",
+    "risk_hint": "暗示自杀或自伤倾向，表达对死亡的渴望或解脱感"
+  },
+  {
+    "surface": "压缩饼千",
+    "pinyin_key": "yasuobingqian",
+    "variants": [
+      "压缩饼千"
+    ],
+    "meaning": "压缩饼干",
+    "risk_hint": "暗示严重的进食障碍和营养不良风险，可能伴随自伤性节食行为"
+  },
+  {
+    "surface": "中抑",
+    "pinyin_key": "zhongyi",
+    "variants": [
+      "中抑",
+      "重抑"
+    ],
+    "meaning": "抑郁症",
+    "risk_hint": "暗示存在抑郁情绪或抑郁症，可能伴随自伤/自杀风险"
+  },
+  {
+    "surface": "中焦",
+    "pinyin_key": "zhongjiao",
+    "variants": [
+      "中焦",
+      "重焦"
+    ],
+    "meaning": "焦虑症",
+    "risk_hint": "暗示存在焦虑情绪或焦虑症，可能伴随心理压力或行为失控风险"
+  },
+  {
+    "surface": "tIzs",
+    "pinyin_key": "tizs",
+    "variants": [
+      "tIzs"
+    ],
+    "meaning": "自杀",
+    "risk_hint": "该暗语暗示自杀倾向，结合上下文描述的精神状态不佳、做噩梦、情绪被刺激等，表明用户可能有严重的自杀意念"
+  },
+  {
+    "surface": "闪回",
+    "pinyin_key": "shanhui",
+    "variants": [
+      "闪回"
+    ],
+    "meaning": "创伤性记忆的突然重现",
+    "risk_hint": "暗示存在创伤后应激障碍（PTSD）或严重心理创伤，可能导致情绪失控、回避行为或加重抑郁焦虑"
+  },
+  {
+    "surface": "死掉算了",
+    "pinyin_key": "sidiaosuanle",
+    "variants": [
+      "死掉算了"
+    ],
+    "meaning": "自杀或结束生命",
+    "risk_hint": "暗示自杀倾向，表达绝望和无助感"
+  },
+  {
+    "surface": "远古守卫者",
+    "pinyin_key": "yuangushouweizhe",
+    "variants": [
+      "远古守卫者"
+    ],
+    "meaning": "指代内心持续存在的、难以摆脱的负面情绪或心理障碍，象征长期困扰的心理问题",
+    "risk_hint": "暗示长期存在的心理困扰和无力感，可能伴随抑郁或焦虑症状"
+  },
+  {
+    "surface": "挖掘疲劳debuff",
+    "pinyin_key": "wajuepilaodebuff",
+    "variants": [
+      "挖掘疲劳debuff"
+    ],
+    "meaning": "比喻心理上的疲惫感和行动力下降，像游戏中的负面状态一样持续削弱人的精力和动力",
+    "risk_hint": "暗示心理疲惫和动力丧失，可能指向抑郁状态或执行功能障碍"
+  },
+  {
+    "surface": "想去死",
+    "pinyin_key": "xiangqusi",
+    "variants": [
+      "想去死"
+    ],
+    "meaning": "想死/想自杀",
+    "risk_hint": "表达强烈的自杀念头和绝望情绪，暗示存在自杀风险"
+  },
+  {
+    "surface": "跳下去",
+    "pinyin_key": "tiaoxiaqu",
+    "variants": [
+      "跳下去"
+    ],
+    "meaning": "跳楼自杀",
+    "risk_hint": "暗示具体的自杀方式（跳楼），表明自杀意念已具体化，风险较高"
+  },
+  {
+    "surface": "烧成灰",
+    "pinyin_key": "shaochenghui",
+    "variants": [
+      "烧成灰"
+    ],
+    "meaning": "通过自我毁灭或极端痛苦的方式获得解脱或自由",
+    "risk_hint": "暗示强烈的自毁倾向和绝望感，可能指向自杀意念"
+  },
+  {
+    "surface": "匿死",
+    "pinyin_key": "nisi",
+    "variants": [
+      "匿死"
+    ],
+    "meaning": "想死",
+    "risk_hint": "暗示自杀念头或极度痛苦情绪，存在自杀风险"
+  },
+  {
+    "surface": "早死早投胎",
+    "pinyin_key": "zaosizaotoutai",
+    "variants": [
+      "早死早投胎"
+    ],
+    "meaning": "表达对死亡的渴望或对当前生活的极度厌倦，希望尽快结束生命以摆脱痛苦",
+    "risk_hint": "暗示严重的自杀意念或自伤倾向，属于高风险表达"
+  },
+  {
+    "surface": "割伤自己",
+    "pinyin_key": "geshangziji",
+    "variants": [
+      "割伤自己"
+    ],
+    "meaning": "自伤行为",
+    "risk_hint": "暗示自伤倾向，可能作为应对情感麻木或痛苦的方式"
+  },
+  {
+    "surface": "匿",
+    "pinyin_key": "ni",
+    "variants": [
+      "匿"
+    ],
+    "meaning": "匿名",
+    "risk_hint": "该暗语暗示用户可能处于抑郁、焦虑状态，有自我否定和社交回避倾向"
+  },
+  {
+    "surface": "图图吞下",
+    "pinyin_key": "tututunxia",
+    "variants": [
+      "图图吞下"
+    ],
+    "meaning": "囫囵吞下（快速、不加咀嚼地吞下，比喻将复杂情感压抑或强行接受）",
+    "risk_hint": "暗示情感压抑、内心冲突和可能的自我伤害倾向"
+  },
+  {
+    "surface": "图吞下",
+    "pinyin_key": "tutunxia",
+    "variants": [
+      "图吞下"
+    ],
+    "meaning": "囫囵吞下（快速、不加咀嚼地吞下，比喻将复杂情感压抑或强行接受）",
+    "risk_hint": "暗示情感压抑、内心冲突和可能的自我伤害倾向"
+  },
+  {
+    "surface": "zc出·",
+    "pinyin_key": "zcchu·",
+    "variants": [
+      "zc出·"
+    ],
+    "meaning": "自残（自伤行为）",
+    "risk_hint": "暗示存在自伤倾向，可能通过身体伤害来缓解情绪痛苦"
+  },
+  {
+    "surface": "ke",
+    "pinyin_key": "ke",
+    "variants": [
+      "ke"
+    ],
+    "meaning": "磕（指用头撞击地面或硬物）",
+    "risk_hint": "暗示自伤行为，可能伴随情绪失控或自我惩罚倾向"
+  },
+  {
+    "surface": "da",
+    "pinyin_key": "da",
+    "variants": [
+      "da"
+    ],
+    "meaning": "打（指暴力殴打）",
+    "risk_hint": "暗示遭受家庭暴力，可能导致创伤后应激障碍或抑郁"
+  },
+  {
+    "surface": "chou",
+    "pinyin_key": "chou",
+    "variants": [
+      "chou"
+    ],
+    "meaning": "抽（指用皮带或绳子抽打）",
+    "risk_hint": "暗示遭受身体虐待，可能导致长期身心创伤"
+  },
+  {
+    "surface": "chuai",
+    "pinyin_key": "chuai",
+    "variants": [
+      "chuai"
+    ],
+    "meaning": "踹（指用脚踢踹）",
+    "risk_hint": "暗示遭受暴力攻击，可能导致身体伤害和心理恐惧"
+  },
+  {
+    "surface": "ds",
+    "pinyin_key": "ds",
+    "variants": [
+      "ds"
+    ],
+    "meaning": "导师",
+    "risk_hint": "非暗语"
+  },
+  {
+    "surface": "中y",
+    "pinyin_key": "zhongy",
+    "variants": [
+      "中y"
+    ],
+    "meaning": "抑郁症",
+    "risk_hint": "该暗语暗示用户可能患有抑郁症，存在情绪低落、兴趣减退等心理风险"
+  },
+  {
+    "surface": "黄y",
+    "pinyin_key": "huangy",
+    "variants": [
+      "黄y"
+    ],
+    "meaning": "黄谣",
+    "risk_hint": "暗示遭受恶意诽谤和性相关的谣言攻击，可能导致社交孤立、自尊受损和抑郁情绪加剧"
+  },
+  {
+    "surface": "oded",
+    "pinyin_key": "oded",
+    "variants": [
+      "oded"
+    ],
+    "meaning": "过量服药（overdose）",
+    "risk_hint": "暗示自伤/自杀倾向，可能涉及药物滥用或过量服药行为"
+  },
+  {
+    "surface": "离去",
+    "pinyin_key": "liqu",
+    "variants": [
+      "离去"
+    ],
+    "meaning": "死去",
+    "risk_hint": "暗示自杀倾向，表达结束生命的意愿"
+  },
+  {
+    "surface": "老木",
+    "pinyin_key": "laomu",
+    "variants": [
+      "老木"
+    ],
+    "meaning": "谐音'老母'，指母亲",
+    "risk_hint": "表达对家庭关系的负面情绪，可能暗示家庭冲突或压抑感，情绪程度中等"
+  },
+  {
+    "surface": "几把难",
+    "pinyin_key": "jibanan",
+    "variants": [
+      "几把难"
+    ],
+    "meaning": "非常难、极其困难",
+    "risk_hint": "表达极度沮丧、无助和绝望的情绪，暗示对生活感到极度艰难和痛苦，情绪程度很高，但没有直接暗示自伤/自杀倾向"
+  },
+  {
+    "surface": "跳家",
+    "pinyin_key": "tiaojia",
+    "variants": [
+      "跳家"
+    ],
+    "meaning": "跳江（谐音暗语，指跳江自杀）",
+    "risk_hint": "暗示强烈的自杀倾向，表达极度痛苦和绝望情绪，情绪程度高，有明确的自伤/自杀意图"
+  },
+  {
+    "surface": "桶出",
+    "pinyin_key": "tongchu",
+    "variants": [
+      "桶出"
+    ],
+    "meaning": "捅出",
+    "risk_hint": "暗示因躁郁症发作导致严重失误后的极度崩溃情绪，情绪程度高，可能伴随自我否定和绝望感"
+  },
+  {
+    "surface": "私了",
+    "pinyin_key": "siliao",
+    "variants": [
+      "私了"
+    ],
+    "meaning": "死掉",
+    "risk_hint": "暗示强烈的自杀倾向或死亡意愿，情绪极度消极绝望"
+  },
+  {
+    "surface": "无痛之后",
+    "pinyin_key": "wutongzhihou",
+    "variants": [
+      "无痛之后"
+    ],
+    "meaning": "无痛苦地离开人世或结束生命之后",
+    "risk_hint": "暗示自杀倾向，表达对生命的极度厌倦和逃避现实的情绪，情绪程度严重"
+  },
+  {
+    "surface": "家住32层最大用处",
+    "pinyin_key": "jiazhu32cengzuidayongchu",
+    "variants": [
+      "家住32层最大用处"
+    ],
+    "meaning": "暗示从高处跳下自杀",
+    "risk_hint": "表达强烈的绝望情绪和自杀倾向，暗示计划通过跳楼结束生命"
+  },
+  {
+    "surface": "不要有轮回不要有下辈子了",
+    "pinyin_key": "buyaoyoulunhuibuyaoyouxiabeizile",
+    "variants": [
+      "不要有轮回不要有下辈子了"
+    ],
+    "meaning": "表达对生命彻底厌倦，希望完全终结存在",
+    "risk_hint": "暗示深度抑郁和绝望，情绪程度极高，有明确的自杀意图"
+  },
+  {
+    "surface": "私相似",
+    "pinyin_key": "sixiangsi",
+    "variants": [
+      "私相似"
+    ],
+    "meaning": "想死",
+    "risk_hint": "表达强烈的自杀念头和绝望情绪，暗示高风险的自伤/自杀倾向"
+  },
+  {
+    "surface": "歌爽",
+    "pinyin_key": "geshuang",
+    "variants": [
+      "歌爽"
+    ],
+    "meaning": "自伤行为",
+    "risk_hint": "暗示通过自伤行为缓解痛苦，表达强烈的情绪困扰和自伤倾向，情绪程度高"
+  },
+  {
+    "surface": "伙了",
+    "pinyin_key": "huole",
+    "variants": [
+      "伙了"
+    ],
+    "meaning": "死了",
+    "risk_hint": "表达强烈的绝望和自杀倾向，暗示不想继续活着，情绪程度极高"
+  },
+  {
+    "surface": "离开",
+    "pinyin_key": "likai",
+    "variants": [
+      "离开"
+    ],
+    "meaning": "死亡或自杀",
+    "risk_hint": "表达强烈的绝望情绪和自杀倾向，暗示希望通过死亡结束痛苦"
+  },
+  {
+    "surface": "氵台",
+    "pinyin_key": "shuitai",
+    "variants": [
+      "氵台"
+    ],
+    "meaning": "治疗",
+    "risk_hint": "表达对医疗过程和经济压力的极度烦躁与无力感，情绪程度较高，可能暗示对治疗失去信心或产生逃避心理"
+  },
+  {
+    "surface": "🧊",
+    "pinyin_key": "🧊",
+    "variants": [
+      "🧊"
+    ],
+    "meaning": "病",
+    "risk_hint": "表达对长期疾病治疗的经济负担和身心疲惫的强烈负面情绪，暗示抑郁、无助和可能的治疗依从性下降风险"
+  },
+  {
+    "surface": "康夫",
+    "pinyin_key": "kangfu",
+    "variants": [
+      "康夫"
+    ],
+    "meaning": "康复",
+    "risk_hint": "表达对康复状态的质疑和恐慌，暗示情绪麻木和存在感缺失，情绪程度高，有潜在心理危机风险"
+  },
+  {
+    "surface": "金属问题",
+    "pinyin_key": "jinshuwenti",
+    "variants": [
+      "金属问题"
+    ],
+    "meaning": "精神问题/精神疾病",
+    "risk_hint": "暗示存在严重精神健康问题，情绪极度负面，有自毁倾向，心理风险极高"
+  },
+  {
+    "surface": "自疟",
+    "pinyin_key": "zinve",
+    "variants": [
+      "自疟"
+    ],
+    "meaning": "自残",
+    "risk_hint": "暗示自我伤害倾向，表达强烈的痛苦和绝望情绪，心理风险较高"
+  },
+  {
+    "surface": "一口闷",
+    "pinyin_key": "yikoumen",
+    "variants": [
+      "一口闷"
+    ],
+    "meaning": "一次性大量服用药物",
+    "risk_hint": "暗示可能存在药物滥用或过量服用的风险，情绪可能处于极度焦虑或绝望状态，有自伤风险"
+  },
+  {
+    "surface": "冰",
+    "pinyin_key": "bing",
+    "variants": [
+      "冰"
+    ],
+    "meaning": "发病",
+    "risk_hint": "暗示严重的心理或情绪问题，表达对自身心理状态的痛苦和无力感，情绪程度高，可能伴随绝望感"
+  },
+  {
+    "surface": "跳",
+    "pinyin_key": "tiao",
+    "variants": [
+      "跳"
+    ],
+    "meaning": "跳楼自杀",
+    "risk_hint": "暗示强烈的自杀倾向，情绪极度痛苦绝望，心理风险极高"
+  },
+  {
+    "surface": "死神",
+    "pinyin_key": "sishen",
+    "variants": [
+      "死神"
+    ],
+    "meaning": "自杀",
+    "risk_hint": "暗示强烈的自杀倾向和绝望情绪，情绪程度极高，直接表达求死意愿"
+  },
+  {
+    "surface": "了了",
+    "pinyin_key": "liaoliao",
+    "variants": [
+      "了了"
+    ],
+    "meaning": "结束生命",
+    "risk_hint": "暗示强烈的自杀倾向，表达绝望和放弃当前生活的情绪，情绪程度极高"
+  },
+  {
+    "surface": "提货",
+    "pinyin_key": "tihuo",
+    "variants": [
+      "提货"
+    ],
+    "meaning": "躯体化",
+    "risk_hint": "暗示心理问题转化为身体症状，情绪程度高，表达崩溃和害怕，可能伴随无助感，但未直接暗示自伤/自杀"
+  },
+  {
+    "surface": "孝",
+    "pinyin_key": "xiao",
+    "variants": [
+      "孝"
+    ],
+    "meaning": "学习",
+    "risk_hint": "表达学习困难引发的焦虑和无力感，情绪程度较高，暗示心理压力大但未直接指向自伤/自杀"
+  },
+  {
+    "surface": "死死",
+    "pinyin_key": "sisi",
+    "variants": [
+      "死死"
+    ],
+    "meaning": "想死",
+    "risk_hint": "表达强烈的自杀倾向，情绪极度绝望，暗示可能采取自伤或自杀行为"
+  },
+  {
+    "surface": "🐱🐆",
+    "pinyin_key": "🐱🐆",
+    "variants": [
+      "🐱🐆"
+    ],
+    "meaning": "父母或监护人",
+    "risk_hint": "表达对父母反应的极度失望和绝望，暗示强烈的自杀倾向"
+  },
+  {
+    "surface": "cos",
+    "pinyin_key": "cos",
+    "variants": [
+      "cos"
+    ],
+    "meaning": "猝死",
+    "risk_hint": "表达极度焦虑和恐惧情绪，暗示可能因压力过大导致身体崩溃的担忧，情绪程度高，有潜在自伤风险暗示"
+  },
+  {
+    "surface": "重启",
+    "pinyin_key": "chongqi",
+    "variants": [
+      "重启"
+    ],
+    "meaning": "重新开始人生，通常指自杀后重新投胎或开始新生活，是网络隐语中对自杀的一种委婉说法",
+    "risk_hint": "暗示强烈的绝望情绪和自杀倾向，表达对当前状态的极度厌恶和逃避心理，情绪程度极高"
+  },
+  {
+    "surface": "阳痿",
+    "pinyin_key": "yangwei",
+    "variants": [
+      "阳痿"
+    ],
+    "meaning": "精神萎靡或心理状态低落",
+    "risk_hint": "暗示持续的情绪低落和无力感，可能伴有抑郁倾向，情绪程度中等偏高"
+  },
+  {
+    "surface": "半西",
+    "pinyin_key": "banxi",
+    "variants": [
+      "半西"
+    ],
+    "meaning": "暴死（谐音隐晦表达死亡或濒死状态）",
+    "risk_hint": "暗示极度愤怒或绝望情绪，可能包含暴力或死亡倾向，情绪程度高"
+  },
+  {
+    "surface": "小指",
+    "pinyin_key": "xiaozhi",
+    "variants": [
+      "小指"
+    ],
+    "meaning": "想死",
+    "risk_hint": "暗示强烈的自杀倾向，情绪极度低落且可能已有具体计划"
+  },
+  {
+    "surface": "酥服",
+    "pinyin_key": "sufu",
+    "variants": [
+      "酥服"
+    ],
+    "meaning": "舒服",
+    "risk_hint": "该暗语可能暗示对自伤行为的异常舒适感，情绪程度较高，有自伤倾向"
+  },
+  {
+    "surface": "凸起来",
+    "pinyin_key": "tuqilai",
+    "variants": [
+      "凸起来"
+    ],
+    "meaning": "伤口肿胀或疤痕隆起",
+    "risk_hint": "该暗语描述自伤后的生理反应，暗示对自伤行为的病态关注和欣赏，情绪复杂（痛并快乐），有持续自伤风险"
+  },
+  {
+    "surface": "⬆️",
+    "pinyin_key": "⬆️",
+    "variants": [
+      "⬆️"
+    ],
+    "meaning": "上",
+    "risk_hint": "暗示上吊自杀行为，表达强烈的绝望和自杀倾向，情绪程度极高"
+  },
+  {
+    "surface": "特姆",
+    "pinyin_key": "temu",
+    "variants": [
+      "特姆"
+    ],
+    "meaning": "粗俗用语，表示愤怒或不满",
+    "risk_hint": "表达强烈的愤怒和不满情绪，情绪程度较高，但未直接暗示自伤/自杀倾向"
+  },
+  {
+    "surface": "用头反复攻击墙",
+    "pinyin_key": "yongtoufanfugongjiqiang",
+    "variants": [
+      "用头反复攻击墙"
+    ],
+    "meaning": "自伤行为",
+    "risk_hint": "暗示严重的焦虑失控状态，通过自伤行为缓解情绪，情绪程度极高，有明显自伤倾向"
+  },
+  {
+    "surface": "shenjing",
+    "pinyin_key": "shenjing",
+    "variants": [
+      "shenjing"
+    ],
+    "meaning": "神经病",
+    "risk_hint": "暗示自我贬低和情绪失控，表达强烈的自我否定和混乱感，情绪程度高，可能暗示潜在的自伤或自杀意念"
+  },
+  {
+    "surface": "💧",
+    "pinyin_key": "💧",
+    "variants": [
+      "💧"
+    ],
+    "meaning": "哭泣或流泪",
+    "risk_hint": "表达极度悲伤、无助和情绪崩溃，暗示严重的抑郁和焦虑情绪，情绪程度高，但没有直接暗示自伤/自杀倾向"
+  },
+  {
+    "surface": "把自己当烟花给放了",
+    "pinyin_key": "bazijidangyanhuageifangle",
+    "variants": [
+      "把自己当烟花给放了"
+    ],
+    "meaning": "表达自杀或自伤倾向，比喻从高处坠落或爆炸式自我毁灭",
+    "risk_hint": "暗示严重的自杀意念，情绪极度绝望，有明确的自伤/自杀计划（从30楼到1楼），风险等级高"
+  },
+  {
+    "surface": "s了",
+    "pinyin_key": "sle",
+    "variants": [
+      "s了"
+    ],
+    "meaning": "死了",
+    "risk_hint": "暗示自杀倾向，表达绝望情绪，情绪程度高"
+  },
+  {
+    "surface": "💊💊",
+    "pinyin_key": "💊💊",
+    "variants": [
+      "💊💊"
+    ],
+    "meaning": "服药过量或自杀倾向",
+    "risk_hint": "暗示强烈的自杀倾向，情绪极度低落，有自伤/自杀风险"
+  },
+  {
+    "surface": "金属板院",
+    "pinyin_key": "jinshubanyuan",
+    "variants": [
+      "金属板院"
+    ],
+    "meaning": "精神病院",
+    "risk_hint": "表达强烈的绝望、无助和自伤/自杀倾向，暗示希望被强制隔离以结束痛苦，情绪程度极高"
+  },
+  {
+    "surface": "划到真皮层",
+    "pinyin_key": "huadaozhenpiceng",
+    "variants": [
+      "划到真皮层"
+    ],
+    "meaning": "自伤行为（用利器划伤皮肤至真皮层）",
+    "risk_hint": "暗示自伤倾向，表达情绪压抑或自我惩罚，情绪程度较高，存在自伤风险"
+  },
+  {
+    "surface": "👩⚕️",
+    "pinyin_key": "👩⚕️",
+    "variants": [
+      "👩⚕️"
+    ],
+    "meaning": "医生（特指女性医生）",
+    "risk_hint": "表达对医疗干预的犹豫和矛盾心理，暗示可能存在治疗依从性差、隐瞒关键病史的风险，情绪程度中等"
+  },
+  {
+    "surface": "人间蒸发",
+    "pinyin_key": "renjianzhengfa",
+    "variants": [
+      "人间蒸发"
+    ],
+    "meaning": "表达想要彻底消失、断绝与外界联系或结束生命的强烈愿望",
+    "risk_hint": "暗示严重的抑郁情绪和潜在的自杀倾向，情绪程度极高"
+  },
+  {
+    "surface": "小刀",
+    "pinyin_key": "xiaodao",
+    "variants": [
+      "小刀"
+    ],
+    "meaning": "自杀、结束生命的暗语",
+    "risk_hint": "暗示强烈的自杀倾向，情绪极度低落，可能处于绝望状态"
+  },
+  {
+    "surface": "我豹",
+    "pinyin_key": "wobao",
+    "variants": [
+      "我豹"
+    ],
+    "meaning": "爸爸",
+    "risk_hint": "表达对父亲的不满和疏离感，暗示家庭关系紧张和情感支持缺失，情绪程度中等"
+  },
+  {
+    "surface": "耀祖弟",
+    "pinyin_key": "yaozudi",
+    "variants": [
+      "耀祖弟"
+    ],
+    "meaning": "对弟弟的贬称，暗示对家人的负面情绪",
+    "risk_hint": "表达对家庭成员的强烈不满和怨恨情绪，暗示家庭关系紧张和情感压抑，情绪程度较高"
+  },
+  {
+    "surface": "🚬烫",
+    "pinyin_key": "🚬tang",
+    "variants": [
+      "🚬烫"
+    ],
+    "meaning": "用香烟烫伤自己（自伤行为）",
+    "risk_hint": "暗示自伤倾向，表达痛苦、麻木或自我惩罚的情绪，情绪程度较高，存在明显的心理风险"
+  },
+  {
+    "surface": "碳蒜贝冲",
+    "pinyin_key": "tansuanbeichong",
+    "variants": [
+      "碳蒜贝冲"
+    ],
+    "meaning": "尝试自杀",
+    "risk_hint": "暗示强烈的自杀意图和绝望情绪，属于高风险自伤行为表达"
+  },
+  {
+    "surface": "啥了你",
+    "pinyin_key": "shaleni",
+    "variants": [
+      "啥了你"
+    ],
+    "meaning": "杀了你",
+    "risk_hint": "表达极度愤怒和暴力倾向，暗示对他人有伤害意图，情绪程度高"
+  },
+  {
+    "surface": "qg",
+    "pinyin_key": "qg",
+    "variants": [
+      "qg"
+    ],
+    "meaning": "QQ空间（QQ空间是腾讯QQ的社交功能，用户可更新主页、日志等；原文提到“登上qg一看，自己换了一张主页”，结合上下文描述主页更新行为，推断为QQ空间的缩写）",
+    "risk_hint": "暗示用户可能经历记忆缺失或解离症状（如无意识更新主页），反映精神分裂加重风险，情绪表现为困惑、失控，程度中等偏高，但未直接暗示自伤/自杀。"
+  },
+  {
+    "surface": "orz",
+    "pinyin_key": "orz",
+    "variants": [
+      "orz"
+    ],
+    "meaning": "表示沮丧、无奈或跪地求饶的情绪",
+    "risk_hint": "暗示轻度到中度的沮丧、无力感，但无直接自伤/自杀倾向"
+  },
+  {
+    "surface": "影呵",
+    "pinyin_key": "yinghe",
+    "variants": [
+      "影呵"
+    ],
+    "meaning": "影响",
+    "risk_hint": "表达对自身负面情绪可能传染给朋友的担忧，暗示强烈的社交回避和孤立倾向，情绪程度高"
+  },
+  {
+    "surface": "中郁",
+    "pinyin_key": "zhongyu",
+    "variants": [
+      "中郁"
+    ],
+    "meaning": "抑郁症",
+    "risk_hint": "表达明确的抑郁情绪，暗示中度至重度心理困扰，可能伴随长期情绪低落和功能受损，有自伤或自杀风险但未直接提及"
+  },
+  {
+    "surface": "塘塞",
+    "pinyin_key": "tangsai",
+    "variants": [
+      "塘塞"
+    ],
+    "meaning": "搪塞",
+    "risk_hint": "该词为正常用词，指用借口或理由掩饰自伤疤痕，暗示用户因自伤行为感到羞耻或焦虑，试图隐藏真实情况，情绪程度中等，无直接自伤/自杀倾向暗示。"
+  },
+  {
+    "surface": "躺户",
+    "pinyin_key": "tanghu",
+    "variants": [
+      "躺户"
+    ],
+    "meaning": "指长时间卧床、不愿活动的状态，类似“躺平”或“卧床不起”",
+    "risk_hint": "暗示抑郁情绪加重，可能伴随社交退缩、精力下降，情绪程度中等偏高，需关注是否发展为持续性抑郁状态"
+  },
+  {
+    "surface": "TAT",
+    "pinyin_key": "tat",
+    "variants": [
+      "TAT"
+    ],
+    "meaning": "哭泣或悲伤的颜文字/表情符号，表示难过、无奈或求助的情绪",
+    "risk_hint": "表达焦虑、无助的情绪，情绪程度中等，未直接暗示自伤/自杀倾向，但显示心理压力较大"
+  },
+  {
+    "surface": "····",
+    "pinyin_key": "····",
+    "variants": [
+      "····"
+    ],
+    "meaning": "省略号表示犹豫、停顿或未说完的话，在此语境中暗示对“去死”这一想法的回避或难以直接表达",
+    "risk_hint": "暗示强烈的自杀意念，情绪极度痛苦且无助，存在明确的自杀倾向"
+  },
+  {
+    "surface": "pug",
+    "pinyin_key": "pug",
+    "variants": [
+      "pug"
+    ],
+    "meaning": "朋友圈",
+    "risk_hint": "该暗语暗示用户可能通过社交媒体分享情绪，但未直接表达极端心理风险，更多反映社交互动中的压力或情绪波动"
+  },
+  {
+    "surface": "3W+",
+    "pinyin_key": "3w+",
+    "variants": [
+      "3W+"
+    ],
+    "meaning": "民办大学一年学费超过三万元",
+    "risk_hint": "暗示经济压力与学业困境带来的焦虑和无助感，情绪程度中等，未直接暗示自伤/自杀倾向"
+  },
+  {
+    "surface": "端门",
+    "pinyin_key": "duanmen",
+    "variants": [
+      "端门"
+    ],
+    "meaning": "暴力破坏门（暗指家庭暴力或极端冲突）",
+    "risk_hint": "暗示创伤性记忆和生存恐惧，情绪程度高，可能涉及暴力威胁但未直接表达自伤/自杀倾向"
+  },
+  {
+    "surface": "c",
+    "pinyin_key": "c",
+    "variants": [
+      "c"
+    ],
+    "meaning": "自残",
+    "risk_hint": "暗示自伤倾向，表达强烈的痛苦和绝望情绪，情绪程度高，存在自我伤害风险"
+  },
+  {
+    "surface": "圈名辛苦bot",
+    "pinyin_key": "quanmingxinkubot",
+    "variants": [
+      "圈名辛苦bot"
+    ],
+    "meaning": "在社交媒体或特定圈子中，以“辛苦bot”为名的账号，通常指代一个专门接收并匿名发布用户倾诉辛苦、压力、负面情绪等内容的机器人账号或人工运营账号。用户可能想表达等成年后去运营或管理这样一个账号，为有类似经历的人提供倾诉平台。",
+    "risk_hint": "暗示用户长期处于抑郁、孤独、无助的情绪中，情绪程度较高，可能通过运营负面情绪账号来寻求共鸣或缓解自身痛苦，但存在沉浸于负面环境的风险，需关注其心理健康状况。"
+  },
+  {
+    "surface": ">×<",
+    "pinyin_key": ">×<",
+    "variants": [
+      ">×<"
+    ],
+    "meaning": "表示沮丧、无奈或情绪低落的表情符号，类似于哭泣或难过的面部表情",
+    "risk_hint": "暗示中度抑郁情绪，表达无力感和沟通障碍，可能伴随社交回避倾向"
+  },
+  {
+    "surface": "豹豹猫猫",
+    "pinyin_key": "baobaomaomao",
+    "variants": [
+      "豹豹猫猫"
+    ],
+    "meaning": "爸妈",
+    "risk_hint": "表达对家人不理解自己病情的失望和孤独感，情绪程度中等，暗示社会支持系统薄弱可能加剧心理困扰"
+  },
+  {
+    "surface": "pyg",
+    "pinyin_key": "pyg",
+    "variants": [
+      "pyg"
+    ],
+    "meaning": "朋友圈",
+    "risk_hint": "暗示对社交媒体内容过度敏感和焦虑，可能伴随社交回避和情绪失控风险"
+  },
+  {
+    "surface": "玉米症",
+    "pinyin_key": "yumizheng",
+    "variants": [
+      "玉米症"
+    ],
+    "meaning": "抑郁症",
+    "risk_hint": "暗示抑郁情绪，可能涉及情绪低落、兴趣减退等心理困扰，但未直接表达自伤/自杀倾向"
+  },
+  {
+    "surface": "jb",
+    "pinyin_key": "jb",
+    "variants": [
+      "jb"
+    ],
+    "meaning": "精神病缩写",
+    "risk_hint": "表达对原生家庭问题的愤怒和贬低，暗示强烈的负面情绪和可能的心理创伤"
+  },
+  {
+    "surface": "想人",
+    "pinyin_key": "xiangren",
+    "variants": [
+      "想人"
+    ],
+    "meaning": "想杀人",
+    "risk_hint": "暗示强烈的攻击性情绪和暴力倾向，情绪程度高，可能伴随失控感"
+  },
+  {
+    "surface": "飞人",
+    "pinyin_key": "feiren",
+    "variants": [
+      "飞人"
+    ],
+    "meaning": "自杀",
+    "risk_hint": "暗示他人有自杀倾向，情绪程度严重，涉及生命危险"
+  },
+  {
+    "surface": "带我走",
+    "pinyin_key": "daiwozou",
+    "variants": [
+      "带我走"
+    ],
+    "meaning": "请求母亲带自己离开人世（暗示自杀倾向）",
+    "risk_hint": "表达极度绝望、无助和自杀意念，情绪程度极高，强烈暗示自伤/自杀倾向"
+  },
+  {
+    "surface": "清澈的江水中离去",
+    "pinyin_key": "qingchedejiangshuizhongliqu",
+    "variants": [
+      "清澈的江水中离去"
+    ],
+    "meaning": "自杀倾向的表达，暗示计划在江水中结束生命",
+    "risk_hint": "该暗语暗示严重的自杀倾向，情绪极度绝望，有明确的自伤/自杀计划"
+  },
+  {
+    "surface": "益生诊断",
+    "pinyin_key": "yishengzhenduan",
+    "variants": [
+      "益生诊断"
+    ],
+    "meaning": "医生诊断",
+    "risk_hint": "表达对医生诊断结果的焦虑和否认，暗示情绪不稳定，可能伴有对治疗的抵触或对正常生活的恐惧"
+  },
+  {
+    "surface": "38",
+    "pinyin_key": "38",
+    "variants": [
+      "38"
+    ],
+    "meaning": "妇女节（3月8日）",
+    "risk_hint": "表达在妇女节这一天的绝望情绪，可能与个人创伤（疤）相关，暗示情绪低落"
+  },
+  {
+    "surface": "掉死",
+    "pinyin_key": "diaosi",
+    "variants": [
+      "掉死"
+    ],
+    "meaning": "吊死（上吊自杀）",
+    "risk_hint": "表达自杀意图，询问安眠药加吊死是否更快死亡，暗示强烈的自杀倾向"
+  },
+  {
+    "surface": "🩸",
+    "pinyin_key": "🩸",
+    "variants": [
+      "🩸"
+    ],
+    "meaning": "放血/自残",
+    "risk_hint": "表达强烈的自伤意图，可能通过放血行为伤害自己"
+  },
+  {
+    "surface": "转双",
+    "pinyin_key": "zhuanshuang",
+    "variants": [
+      "转双"
+    ],
+    "meaning": "转为双相情感障碍",
+    "risk_hint": "表达对病情恶化的担忧，暗示情绪不稳定和潜在的自伤风险"
+  },
+  {
+    "surface": "刀片",
+    "pinyin_key": "daopian",
+    "variants": [
+      "刀片"
+    ],
+    "meaning": "用于自伤的刀片",
+    "risk_hint": "暗示自伤行为，情绪极度崩溃，有自伤倾向"
+  },
+  {
+    "surface": "拿起刀",
+    "pinyin_key": "naqidao",
+    "variants": [
+      "拿起刀"
+    ],
+    "meaning": "自伤行为，用刀割伤自己",
+    "risk_hint": "强烈的自伤倾向，伴随兴奋和失控感，情绪极度不稳定"
+  },
+  {
+    "surface": "猛🉑药",
+    "pinyin_key": "meng🉑yao",
+    "variants": [
+      "猛🉑药"
+    ],
+    "meaning": "猛嗑药（大量服用药物）",
+    "risk_hint": "表达严重的情绪痛苦和绝望，暗示通过药物和酒精自我伤害以维持生存，有自杀风险"
+  },
+  {
+    "surface": "jing车",
+    "pinyin_key": "jingche",
+    "variants": [
+      "jing车"
+    ],
+    "meaning": "精神科",
+    "risk_hint": "暗示作者正在精神科住院，情绪低落，可能有自杀倾向"
+  },
+  {
+    "surface": "手腕带",
+    "pinyin_key": "shouwandai",
+    "variants": [
+      "手腕带"
+    ],
+    "meaning": "住院患者身份标识带",
+    "risk_hint": "暗示作者长期住院，自我认知模糊，可能年龄记忆不清"
+  },
+  {
+    "surface": "重新投胎",
+    "pinyin_key": "chongxintoutai",
+    "variants": [
+      "重新投胎"
+    ],
+    "meaning": "希望结束当前生命，重新开始人生",
+    "risk_hint": "表达强烈的绝望和自杀意念，暗示对当前生活极度不满，有结束生命的想法"
+  },
+  {
+    "surface": "下叨",
+    "pinyin_key": "xiadao",
+    "variants": [
+      "下叨"
+    ],
+    "meaning": "用刀割（自伤）",
+    "risk_hint": "暗示反复自伤行为，情绪极度痛苦，有自伤倾向"
+  },
+  {
+    "surface": "排线",
+    "pinyin_key": "paixian",
+    "variants": [
+      "排线"
+    ],
+    "meaning": "自伤留下的疤痕（线条状）",
+    "risk_hint": "暗示自伤行为已形成习惯，可能伴随麻木或成瘾"
+  },
+  {
+    "surface": "提花",
+    "pinyin_key": "tihua",
+    "variants": [
+      "提花"
+    ],
+    "meaning": "躯体化",
+    "risk_hint": "表达心理问题转化为身体症状，如无法早起，暗示抑郁或焦虑导致的躯体化障碍，情绪低落，有逃避行为"
+  },
+  {
+    "surface": "26楼天台跳了",
+    "pinyin_key": "26loutiantaitiaole",
+    "variants": [
+      "26楼天台跳了"
+    ],
+    "meaning": "从26楼天台跳下自杀",
+    "risk_hint": "表达强烈的自杀意念和后悔未实施自杀的情绪，暗示当前仍处于痛苦中，有持续的自伤风险"
+  },
+  {
+    "surface": "放水歌",
+    "pinyin_key": "fangshuige",
+    "variants": [
+      "放水歌"
+    ],
+    "meaning": "在浴室里放水并唱歌，暗示在浴缸中割腕自杀（放血）",
+    "risk_hint": "强烈的自杀倾向，表达通过割腕结束生命的意图"
+  },
+  {
+    "surface": "pr80",
+    "pinyin_key": "pr80",
+    "variants": [
+      "pr80"
+    ],
+    "meaning": "普瑞巴林（一种抗焦虑药物）",
+    "risk_hint": "表达强烈的自杀意念和寻求药物以快速消除情绪，暗示高自杀风险"
+  },
+  {
+    "surface": "不出生",
+    "pinyin_key": "buchusheng",
+    "variants": [
+      "不出生"
+    ],
+    "meaning": "从未出生/没有来到这个世界",
+    "risk_hint": "表达强烈的绝望和自杀意念，认为只有从未出生才能摆脱痛苦"
+  },
+  {
+    "surface": "赐我一似",
+    "pinyin_key": "ciwoyisi",
+    "variants": [
+      "赐我一似"
+    ],
+    "meaning": "赐我一死",
+    "risk_hint": "表达强烈的自杀意念，情绪极度痛苦绝望"
+  },
+  {
+    "surface": "活都不想活了",
+    "pinyin_key": "huodoubuxianghuole",
+    "variants": [
+      "活都不想活了"
+    ],
+    "meaning": "不想活了",
+    "risk_hint": "表达强烈的绝望和自杀意念，因ADHD治疗困难及对遗传自父亲的怨恨而萌生轻生念头"
+  },
+  {
+    "surface": "去暑",
+    "pinyin_key": "qushu",
+    "variants": [
+      "去暑"
+    ],
+    "meaning": "去死（自杀）",
+    "risk_hint": "表达强烈的自杀意念，情绪极度痛苦，有自伤/自杀风险"
+  },
+  {
+    "surface": "灭绝",
+    "pinyin_key": "miejue",
+    "variants": [
+      "灭绝"
+    ],
+    "meaning": "希望人类消失或死亡，表达绝望和厌世情绪",
+    "risk_hint": "强烈的绝望感和自杀意念，可能伴随自伤风险"
+  },
+  {
+    "surface": "歌一歌",
+    "pinyin_key": "geyige",
+    "variants": [
+      "歌一歌"
+    ],
+    "meaning": "割一割，指自残行为",
+    "risk_hint": "表达强烈的自伤倾向，通过割伤来缓解心理痛苦，情绪极度绝望"
+  },
+  {
+    "surface": "留在地府当鬼差",
+    "pinyin_key": "liuzaidifudangguicha",
+    "variants": [
+      "留在地府当鬼差"
+    ],
+    "meaning": "表达对现实生活的厌倦和逃避，希望死后不再投胎做人，而是留在阴间做鬼差，暗示对生命的消极态度。",
+    "risk_hint": "强烈的厌世情绪，可能伴随自杀意念或自伤风险，需要关注。"
+  },
+  {
+    "surface": "32层",
+    "pinyin_key": "32ceng",
+    "variants": [
+      "32层"
+    ],
+    "meaning": "跳楼自杀",
+    "risk_hint": "表达强烈的自杀意图，计划从高层跳下"
+  },
+  {
+    "surface": "不要有轮回不要有下辈子",
+    "pinyin_key": "buyaoyoulunhuibuyaoyouxiabeizi",
+    "variants": [
+      "不要有轮回不要有下辈子"
+    ],
+    "meaning": "希望彻底终结存在，不再有来世",
+    "risk_hint": "对生命极度厌倦，绝望，希望完全消失"
+  },
+  {
+    "surface": "全沙了",
+    "pinyin_key": "quanshale",
+    "variants": [
+      "全沙了"
+    ],
+    "meaning": "全都杀了",
+    "risk_hint": "表达强烈的愤怒和暴力倾向，可能暗示伤害他人或自伤的风险"
+  },
+  {
+    "surface": "亖亡",
+    "pinyin_key": "siwang",
+    "variants": [
+      "亖亡"
+    ],
+    "meaning": "死亡",
+    "risk_hint": "表达强烈的死亡愿望，暗示自杀倾向"
+  },
+  {
+    "surface": "去私相似",
+    "pinyin_key": "qusixiangsi",
+    "variants": [
+      "去私相似"
+    ],
+    "meaning": "去死想死",
+    "risk_hint": "表达强烈的自杀意念，情绪极度低落，有自伤风险"
+  },
+  {
+    "surface": "穿空文身",
+    "pinyin_key": "chuankongwenshen",
+    "variants": [
+      "穿空文身"
+    ],
+    "meaning": "通过穿空（可能指穿刺或自伤行为）和文身（纹身）来缓解痛苦",
+    "risk_hint": "暗示自伤行为，情绪极度痛苦，有自残倾向"
+  },
+  {
+    "surface": "9块9的农",
+    "pinyin_key": "9kuai9denong",
+    "variants": [
+      "9块9的农"
+    ],
+    "meaning": "9.9元的农药，指通过服用农药自杀",
+    "risk_hint": "强烈的自杀意图，表达绝望和愤怒，计划使用农药结束生命"
+  },
+  {
+    "surface": "重k",
+    "pinyin_key": "zhongk",
+    "variants": [
+      "重k"
+    ],
+    "meaning": "重开，指自杀后重新开始人生",
+    "risk_hint": "明确的自杀倾向，暗示通过死亡获得新生"
+  },
+  {
+    "surface": "挂天花板",
+    "pinyin_key": "guatianhuaban",
+    "variants": [
+      "挂天花板"
+    ],
+    "meaning": "上吊自杀",
+    "risk_hint": "表达强烈的自杀倾向和绝望情绪，暗示已实施自伤行为"
+  },
+  {
+    "surface": "改花🔪",
+    "pinyin_key": "gaihua🔪",
+    "variants": [
+      "改花🔪"
+    ],
+    "meaning": "改花刀（一种烹饪手法），但此处可能指自残或自杀工具，结合上下文“连改花🔪到不敢”暗示连自残的勇气都没有",
+    "risk_hint": "表达强烈的自我伤害意念，但缺乏行动勇气，情绪极度压抑和绝望"
+  },
+  {
+    "surface": "无痛321",
+    "pinyin_key": "wutong321",
+    "variants": [
+      "无痛321"
+    ],
+    "meaning": "无痛苦地结束生命，结合“321”指跳楼自杀的隐语",
+    "risk_hint": "明确的自杀意念，幻想无痛死亡，存在较高自杀风险"
+  },
+  {
+    "surface": "十楼",
+    "pinyin_key": "shilou",
+    "variants": [
+      "十楼"
+    ],
+    "meaning": "跳楼自杀",
+    "risk_hint": "表达自杀意图，情绪绝望，对AI的安慰不信任，有自伤风险"
+  },
+  {
+    "surface": "自毁倾向",
+    "pinyin_key": "zihuiqingxiang",
+    "variants": [
+      "自毁倾向"
+    ],
+    "meaning": "自我伤害或自杀的倾向",
+    "risk_hint": "表达强烈的自伤或自杀意念，情绪极度低落，有严重心理危机"
+  },
+  {
+    "surface": "睡着后再也醒不过来",
+    "pinyin_key": "shuizhaohouzaiyexingbuguolai",
+    "variants": [
+      "睡着后再也醒不过来"
+    ],
+    "meaning": "希望自己能够死亡，即自杀意念",
+    "risk_hint": "表达强烈的自杀倾向和绝望情绪，暗示希望以睡眠方式结束生命"
+  },
+  {
+    "surface": "紫餐8",
+    "pinyin_key": "zican8",
+    "variants": [
+      "紫餐8"
+    ],
+    "meaning": "自残吧",
+    "risk_hint": "表达对自残行为被发现的焦虑，暗示存在自伤倾向"
+  },
+  {
+    "surface": "掐丝自己",
+    "pinyin_key": "qiasiziji",
+    "variants": [
+      "掐丝自己"
+    ],
+    "meaning": "掐死自己",
+    "risk_hint": "表达强烈的自责和自伤倾向，情绪激动，可能暗示自杀意念"
+  },
+  {
+    "surface": "好想砍掉耳朵",
+    "pinyin_key": "haoxiangkandiaoerduo",
+    "variants": [
+      "好想砍掉耳朵"
+    ],
+    "meaning": "不想听到外界的声音，表达极度的厌烦和逃避",
+    "risk_hint": "强烈的情绪困扰，可能有自伤倾向"
+  },
+  {
+    "surface": "好想跳到河里",
+    "pinyin_key": "haoxiangtiaodaoheli",
+    "variants": [
+      "好想跳到河里"
+    ],
+    "meaning": "想通过跳河结束生命，表达自杀意念",
+    "risk_hint": "明确的自杀意图，高风险"
+  },
+  {
+    "surface": "好想走到高处",
+    "pinyin_key": "haoxiangzoudaogaochu",
+    "variants": [
+      "好想走到高处"
+    ],
+    "meaning": "寻找高处作为自杀的场所，表达自杀计划",
+    "risk_hint": "自杀准备行为，高风险"
+  },
+  {
+    "surface": "好想跳下悬崖",
+    "pinyin_key": "haoxiangtiaoxiaxuanya",
+    "variants": [
+      "好想跳下悬崖"
+    ],
+    "meaning": "想跳崖自杀，表达强烈的自杀冲动",
+    "risk_hint": "明确的自杀意图，高风险"
+  },
+  {
+    "surface": "好想堕入地狱",
+    "pinyin_key": "haoxiangduorudiyu",
+    "variants": [
+      "好想堕入地狱"
+    ],
+    "meaning": "想死或自我毁灭，表达绝望和放弃",
+    "risk_hint": "严重的绝望情绪，可能伴随自杀意念"
+  },
+  {
+    "surface": "咬自己",
+    "pinyin_key": "yaoziji",
+    "variants": [
+      "咬自己"
+    ],
+    "meaning": "自伤行为，通过咬自己来发泄情绪",
+    "risk_hint": "强烈的情绪崩溃，伴随自伤行为，可能暗示抑郁、焦虑或边缘型人格特质，有自伤风险"
+  },
+  {
+    "surface": "一头撞寺",
+    "pinyin_key": "yitouzhuangsi",
+    "variants": [
+      "一头撞寺",
+      "一头撞絲"
+    ],
+    "meaning": "一头撞死",
+    "risk_hint": "表达强烈的自杀意念，描述具体自杀方式，风险极高"
+  },
+  {
+    "surface": "寺得惨烈",
+    "pinyin_key": "sidecanlie",
+    "variants": [
+      "寺得惨烈"
+    ],
+    "meaning": "死得惨烈",
+    "risk_hint": "进一步强化自杀意念，描述死亡场景，暗示自伤/自杀倾向"
+  },
+  {
+    "surface": "想321",
+    "pinyin_key": "xiang321",
+    "variants": [
+      "想321"
+    ],
+    "meaning": "想死（自杀念头）",
+    "risk_hint": "表达自杀意念，但通过对话转向积极生活，风险有所缓解"
+  },
+  {
+    "surface": "🏳️",
+    "pinyin_key": "🏳️",
+    "variants": [
+      "🏳️"
+    ],
+    "meaning": "投降、放弃、认输",
+    "risk_hint": "表达强烈的无助、绝望和放弃社交与工作的意愿，暗示严重的社交回避和抑郁情绪，可能有自伤风险"
+  },
+  {
+    "surface": "匠雅腰",
+    "pinyin_key": "jiangyayao",
+    "variants": [
+      "匠雅腰"
+    ],
+    "meaning": "将药（指毒品）",
+    "risk_hint": "表达对毒品使用的渴望和计划，暗示药物滥用风险"
+  },
+  {
+    "surface": "撵成纷沫",
+    "pinyin_key": "nianchengfenmo",
+    "variants": [
+      "撵成纷沫"
+    ],
+    "meaning": "碾成粉末（指将毒品碾碎）",
+    "risk_hint": "描述毒品制备过程，暗示药物滥用行为"
+  },
+  {
+    "surface": "毕子吸",
+    "pinyin_key": "bizixi",
+    "variants": [
+      "毕子吸"
+    ],
+    "meaning": "鼻子吸（指用鼻子吸食毒品）",
+    "risk_hint": "描述吸食毒品的方式，暗示药物滥用和潜在健康风险"
+  },
+  {
+    "surface": "拿刀划开透透气",
+    "pinyin_key": "nadaohuakaitoutouqi",
+    "variants": [
+      "拿刀划开透透气"
+    ],
+    "meaning": "通过自伤行为（如用刀划伤皮肤）来缓解内心的压抑和痛苦",
+    "risk_hint": "表达强烈的自伤倾向，情绪极度压抑，有自伤风险"
+  },
+  {
+    "surface": "病例表笨",
+    "pinyin_key": "binglibiaoben",
+    "variants": [
+      "病例表笨"
+    ],
+    "meaning": "被当作病例标本，被当成笨蛋",
+    "risk_hint": "表达对死后被他人利用和嘲笑的恐惧，情绪极度焦虑，有被害妄想倾向"
+  },
+  {
+    "surface": "货也霍不好",
+    "pinyin_key": "huoyehuobuhao",
+    "variants": [
+      "货也霍不好"
+    ],
+    "meaning": "活着也活不好",
+    "risk_hint": "表达对现状的绝望，认为活着痛苦，暗示自杀意念"
+  },
+  {
+    "surface": "123嘎掉",
+    "pinyin_key": "123gadiao",
+    "variants": [
+      "123嘎掉"
+    ],
+    "meaning": "跳楼自杀死亡",
+    "risk_hint": "表达对自杀方式的考虑，暗示有自杀意念，情绪低落，可能计划实施"
+  },
+  {
+    "surface": "无痛那个教程",
+    "pinyin_key": "wutongnagejiaocheng",
+    "variants": [
+      "无痛那个教程"
+    ],
+    "meaning": "无痛自杀方法",
+    "risk_hint": "表达强烈的自杀意图，寻求无痛死亡方式，伴有对失败后果的恐惧，心理风险极高"
+  },
+  {
+    "surface": "去④",
+    "pinyin_key": "qu④",
+    "variants": [
+      "去④"
+    ],
+    "meaning": "去死",
+    "risk_hint": "表达强烈的自杀意念和绝望情绪，暗示自伤/自杀倾向"
+  },
+  {
+    "surface": "回雪鸮",
+    "pinyin_key": "huixuexiao",
+    "variants": [
+      "回雪鸮"
+    ],
+    "meaning": "回学校",
+    "risk_hint": "表达对返校的抗拒和消极情绪"
+  },
+  {
+    "surface": "烂死",
+    "pinyin_key": "lansi",
+    "variants": [
+      "烂死",
+      "烂丝"
+    ],
+    "meaning": "烂死（字面意思，指腐烂死去，表达自暴自弃）",
+    "risk_hint": "强烈的自我放弃和绝望情绪，可能暗示自伤或自杀倾向"
+  },
+  {
+    "surface": "活gua",
+    "pinyin_key": "huogua",
+    "variants": [
+      "活gua"
+    ],
+    "meaning": "活剐（凌迟处死）",
+    "risk_hint": "强烈的自伤和自杀意念，表达极度的自我厌恶和痛苦，有自残倾向"
+  },
+  {
+    "surface": "葵柳平",
+    "pinyin_key": "kuiliuping",
+    "variants": [
+      "葵柳平"
+    ],
+    "meaning": "喹硫平（一种抗精神病药物）",
+    "risk_hint": "暗示服用精神类药物，可能涉及药物滥用或过量服药，有自伤风险"
+  },
+  {
+    "surface": "八十颗",
+    "pinyin_key": "bashike",
+    "variants": [
+      "八十颗"
+    ],
+    "meaning": "80片药片",
+    "risk_hint": "暗示大量服药，有自杀倾向或自伤行为"
+  },
+  {
+    "surface": "鲨了我",
+    "pinyin_key": "shalewo",
+    "variants": [
+      "鲨了我"
+    ],
+    "meaning": "杀了我",
+    "risk_hint": "表达强烈的自我否定或绝望情绪，可能暗示自伤或自杀意念"
+  },
+  {
+    "surface": "屯药重开",
+    "pinyin_key": "tunyaozhongkai",
+    "variants": [
+      "屯药重开"
+    ],
+    "meaning": "囤积药物并试图通过服药自杀来重新开始人生",
+    "risk_hint": "表达强烈的自杀倾向和绝望情绪，暗示已实施或计划实施自杀行为"
+  },
+  {
+    "surface": "豹豹殴打强健",
+    "pinyin_key": "baobaooudaqiangjian",
+    "variants": [
+      "豹豹殴打强健"
+    ],
+    "meaning": "父亲（豹豹）实施暴力和性侵（强健为强奸的隐语）",
+    "risk_hint": "暗示长期遭受家庭暴力和性虐待，导致严重心理创伤和PTSD"
+  },
+  {
+    "surface": "不活了",
+    "pinyin_key": "buhuole",
+    "variants": [
+      "不活了"
+    ],
+    "meaning": "想死，不想活了",
+    "risk_hint": "表达强烈的绝望和自杀意念，情绪极度低落，可能伴有自伤或自杀风险"
+  },
+  {
+    "surface": "全吃了冲开",
+    "pinyin_key": "quanchilechongkai",
+    "variants": [
+      "全吃了冲开"
+    ],
+    "meaning": "一次性服用所有藏匿的药物以结束生命",
+    "risk_hint": "强烈的自杀意图，计划通过过量服药自杀"
+  },
+  {
+    "surface": "区似吧",
+    "pinyin_key": "qushiba",
+    "variants": [
+      "区似吧"
+    ],
+    "meaning": "去死吧",
+    "risk_hint": "表达强烈的绝望和愤怒，暗示自杀或自我伤害倾向"
+  },
+  {
+    "surface": "退出生物圈",
+    "pinyin_key": "tuichushengwuquan",
+    "variants": [
+      "退出生物圈"
+    ],
+    "meaning": "自杀",
+    "risk_hint": "表达强烈的自杀意愿，通过进度条模拟自杀过程，最后‘退出失败’可能暗示自杀未遂或犹豫，情绪绝望且伴有自伤风险"
+  },
+  {
+    "surface": "咖喱",
+    "pinyin_key": "gali",
+    "variants": [
+      "咖喱"
+    ],
+    "meaning": "家里蹲（指长期待在家里不去学校）",
+    "risk_hint": "表达因学业压力导致的自我封闭和社交回避，情绪低落，有自责感"
+  },
+  {
+    "surface": "酷酷吃💊",
+    "pinyin_key": "kukuchi💊",
+    "variants": [
+      "酷酷吃💊"
+    ],
+    "meaning": "大量服用药物（可能指安眠药或精神类药物）",
+    "risk_hint": "暗示通过过量服药来制造身体不适，以达到回家目的，有自伤风险，情绪低落且可能伴有自杀意念"
+  },
+  {
+    "surface": "刀↑钝↓",
+    "pinyin_key": "dao↑dun↓",
+    "variants": [
+      "刀↑钝↓"
+    ],
+    "meaning": "自伤工具（刀）的锋利程度变化，暗示自伤行为或意图",
+    "risk_hint": "表达自伤倾向，情绪低落，可能有自伤行为或计划"
+  },
+  {
+    "surface": "卷紫餐",
+    "pinyin_key": "juanzican",
+    "variants": [
+      "卷紫餐"
+    ],
+    "meaning": "自残",
+    "risk_hint": "表达对自残行为的强烈厌恶和痛苦反应，暗示可能因目睹自残场景而触发心理不适，但未直接表明自身有自伤倾向。"
+  },
+  {
+    "surface": "打丝",
+    "pinyin_key": "dasi",
+    "variants": [
+      "打丝"
+    ],
+    "meaning": "打死",
+    "risk_hint": "表达强烈的愤怒和攻击冲动，可能指向暴力倾向或自伤风险"
+  },
+  {
+    "surface": "滴位自意重开",
+    "pinyin_key": "diweiziyizhongkai",
+    "variants": [
+      "滴位自意重开"
+    ],
+    "meaning": "多次尝试自杀未遂",
+    "risk_hint": "表达多次自杀未遂经历，暗示严重自杀倾向和绝望情绪"
+  },
+  {
+    "surface": "戒🈹",
+    "pinyin_key": "jie🈹",
+    "variants": [
+      "戒🈹"
+    ],
+    "meaning": "停止自伤行为（割伤）",
+    "risk_hint": "表达想要停止自伤行为的意愿，但暗示存在自伤行为或倾向，情绪可能处于痛苦或挣扎中"
+  },
+  {
+    "surface": "找棵树上",
+    "pinyin_key": "zhaokeshushang",
+    "variants": [
+      "找棵树上"
+    ],
+    "meaning": "上吊自杀",
+    "risk_hint": "表达强烈的自杀意图，情绪极度绝望"
+  },
+  {
+    "surface": "喝浓💊",
+    "pinyin_key": "henong💊",
+    "variants": [
+      "喝浓💊"
+    ],
+    "meaning": "喝农药自杀",
+    "risk_hint": "表达强烈的自杀意图，情绪极度绝望"
+  },
+  {
+    "surface": "歌到了脂肪层",
+    "pinyin_key": "gedaolezhifangceng",
+    "variants": [
+      "歌到了脂肪层"
+    ],
+    "meaning": "割到了脂肪层",
+    "risk_hint": "暗示自伤行为，且程度较深，可能具有自杀倾向或严重自残行为"
+  },
+  {
+    "surface": "把小指送给她",
+    "pinyin_key": "baxiaozhisonggeita",
+    "variants": [
+      "把小指送给她"
+    ],
+    "meaning": "自残或自杀行为，可能指切断小指作为礼物",
+    "risk_hint": "强烈的自伤倾向，伴有兴奋情绪，可能计划实施自残行为"
+  },
+  {
+    "surface": "好酥服",
+    "pinyin_key": "haosufu",
+    "variants": [
+      "好酥服"
+    ],
+    "meaning": "很舒服（指自伤带来的快感）",
+    "risk_hint": "表达自伤后的愉悦感，暗示自伤行为可能成瘾，存在持续自伤风险"
+  },
+  {
+    "surface": "凸起来了",
+    "pinyin_key": "tuqilaile",
+    "variants": [
+      "凸起来了"
+    ],
+    "meaning": "伤口肿胀或疤痕隆起",
+    "risk_hint": "描述自伤后的身体反应，暗示对伤口的关注和可能反复自伤"
+  },
+  {
+    "surface": "又痛又爽",
+    "pinyin_key": "youtongyoushuang",
+    "variants": [
+      "又痛又爽"
+    ],
+    "meaning": "自伤带来的痛感与快感并存",
+    "risk_hint": "表达对自伤行为的矛盾感受，暗示自伤可能成为情绪调节方式，存在自伤风险"
+  },
+  {
+    "surface": "鸽了腿",
+    "pinyin_key": "geletui",
+    "variants": [
+      "鸽了腿"
+    ],
+    "meaning": "割了腿，即自残割伤腿部",
+    "risk_hint": "表达自残行为，暗示存在自伤倾向，情绪痛苦，可能伴有抑郁或冲动控制问题"
+  },
+  {
+    "surface": "想4",
+    "pinyin_key": "xiang4",
+    "variants": [
+      "想4"
+    ],
+    "meaning": "想死",
+    "risk_hint": "表达强烈的绝望和自杀意念，情绪程度高，有自伤/自杀风险"
+  },
+  {
+    "surface": "极速版院",
+    "pinyin_key": "jisubanyuan",
+    "variants": [
+      "极速版院"
+    ],
+    "meaning": "精神病院",
+    "risk_hint": "表达因被欺凌而痛苦，暗示可能已住院或考虑住院，情绪极度低落，有自伤风险"
+  },
+  {
+    "surface": "死因",
+    "pinyin_key": "siyin",
+    "variants": [
+      "死因"
+    ],
+    "meaning": "想死的原因",
+    "risk_hint": "表达强烈的自杀意念，情绪极度低落，对人际关系感到绝望"
+  },
+  {
+    "surface": "手嘘",
+    "pinyin_key": "shouxu",
+    "variants": [
+      "手嘘"
+    ],
+    "meaning": "手续",
+    "risk_hint": "暗示因繁琐手续感到压力和无助"
+  },
+  {
+    "surface": "歌完手",
+    "pinyin_key": "gewanshou",
+    "variants": [
+      "歌完手"
+    ],
+    "meaning": "割完手（指割腕自伤）",
+    "risk_hint": "表达自伤行为后的快感，暗示近期有割腕行为，存在自伤风险"
+  },
+  {
+    "surface": "口区口土",
+    "pinyin_key": "kouqukoutu",
+    "variants": [
+      "口区口土"
+    ],
+    "meaning": "呕吐",
+    "risk_hint": "表达恶心、厌恶或身体不适，可能暗示情绪低落或厌食倾向"
+  },
+  {
+    "surface": "浑身是雪",
+    "pinyin_key": "hunshenshixue",
+    "variants": [
+      "浑身是雪"
+    ],
+    "meaning": "浑身是血（自伤或严重抑郁的隐喻）",
+    "risk_hint": "暗示严重的自伤行为或极度抑郁状态，有自伤/自杀风险"
+  },
+  {
+    "surface": "jr",
+    "pinyin_key": "jr",
+    "variants": [
+      "jr"
+    ],
+    "meaning": "贱人",
+    "risk_hint": "表达强烈的愤怒和仇恨，可能指向攻击性情绪，但未直接暗示自伤或自杀"
+  },
+  {
+    "surface": "绳子",
+    "pinyin_key": "shengzi",
+    "variants": [
+      "绳子"
+    ],
+    "meaning": "用于自杀的工具（如上吊用的绳子）",
+    "risk_hint": "表达强烈的自杀意念，已准备工具但犹豫不决，存在自伤/自杀风险"
+  },
+  {
+    "surface": "小刀片子",
+    "pinyin_key": "xiaodaopianzi",
+    "variants": [
+      "小刀片子"
+    ],
+    "meaning": "用于自伤的刀片",
+    "risk_hint": "暗示自伤行为，情绪极度痛苦，有自伤倾向"
+  },
+  {
+    "surface": "無處下手的胳膊",
+    "pinyin_key": "wuchuxiashoudegebo",
+    "variants": [
+      "無處下手的胳膊"
+    ],
+    "meaning": "胳膊上已布满伤痕，无处再划",
+    "risk_hint": "暗示反复自伤，伤痕累累，自伤行为持续"
+  },
+  {
+    "surface": "白吞💊",
+    "pinyin_key": "baitun💊",
+    "variants": [
+      "白吞💊"
+    ],
+    "meaning": "白费了服药（可能指自杀未遂或自伤行为）",
+    "risk_hint": "表达失望和自伤倾向，暗示曾尝试服药自杀但未成功，情绪低落"
+  },
+  {
+    "surface": "藕断丝连的s法",
+    "pinyin_key": "ouduansiliandesfa",
+    "variants": [
+      "藕断丝连的s法"
+    ],
+    "meaning": "缓慢、痛苦的自杀方式，如割腕或上吊等非立即致死的方法",
+    "risk_hint": "表达强烈的自杀意念，且对无法实施快速自杀感到自责和绝望，情绪极度低落，有自伤自杀风险"
+  },
+  {
+    "surface": "求私",
+    "pinyin_key": "qiusi",
+    "variants": [
+      "求私"
+    ],
+    "meaning": "去死（自杀）",
+    "risk_hint": "表达强烈的自杀意念，幻想通过死亡结束痛苦，存在高自杀风险"
+  },
+  {
+    "surface": "当烟花给放了",
+    "pinyin_key": "dangyanhuageifangle",
+    "variants": [
+      "当烟花给放了"
+    ],
+    "meaning": "比喻自杀，从高处坠落或爆炸式自我毁灭",
+    "risk_hint": "表达强烈的自杀倾向，情绪极度绝望，有自伤风险"
+  },
+  {
+    "surface": "从30楼放到1楼",
+    "pinyin_key": "cong30loufangdao1lou",
+    "variants": [
+      "从30楼放到1楼"
+    ],
+    "meaning": "指从30楼跳下，坠落至1楼",
+    "risk_hint": "明确描述自杀方式，暗示高度危险的自伤行为"
+  },
+  {
+    "surface": "含了片老蜡吸盘",
+    "pinyin_key": "hanlepianlaolaxipan",
+    "variants": [
+      "含了片老蜡吸盘"
+    ],
+    "meaning": "服用了劳拉西泮（一种镇定药物）",
+    "risk_hint": "暗示通过药物缓解痛苦，可能有药物滥用或自伤倾向，情绪极度低落"
+  },
+  {
+    "surface": "轻油",
+    "pinyin_key": "qingyou",
+    "variants": [
+      "轻油"
+    ],
+    "meaning": "病友",
+    "risk_hint": "表达与病友（可能指有心理问题的人）一起活动的归属感，同时暗示自我贬低和绝望情绪"
+  },
+  {
+    "surface": "咔嚓咔嚓剪",
+    "pinyin_key": "kachakachajian",
+    "variants": [
+      "咔嚓咔嚓剪"
+    ],
+    "meaning": "用剪刀剪头发",
+    "risk_hint": "暗示自伤行为，通过剪发来缓解情绪失控，可能伴随自我伤害倾向"
+  },
+  {
+    "surface": "割到脂肪层",
+    "pinyin_key": "gedaozhifangceng",
+    "variants": [
+      "割到脂肪层"
+    ],
+    "meaning": "用刀片等工具割伤皮肤，达到皮下脂肪层",
+    "risk_hint": "自伤行为升级，情绪激动时自伤程度加重，存在严重自伤风险"
+  },
+  {
+    "surface": "抽🚬",
+    "pinyin_key": "chou🚬",
+    "variants": [
+      "抽🚬"
+    ],
+    "meaning": "抽烟",
+    "risk_hint": "表达通过吸烟缓解痛苦或焦虑的情绪，程度中等，无直接自伤倾向"
+  },
+  {
+    "surface": "下定决心啦",
+    "pinyin_key": "xiadingjuexinla",
+    "variants": [
+      "下定决心啦"
+    ],
+    "meaning": "决定结束生命（自杀）",
+    "risk_hint": "表达强烈的绝望和自杀意图，暗示即将采取行动"
+  },
+  {
+    "surface": "④亡",
+    "pinyin_key": "④wang",
+    "variants": [
+      "④亡"
+    ],
+    "meaning": "死亡",
+    "risk_hint": "表达强烈的疲惫和绝望情绪，暗示有自杀意念"
+  },
+  {
+    "surface": "嘎嘣一下死了",
+    "pinyin_key": "gabengyixiasile",
+    "variants": [
+      "嘎嘣一下死了"
+    ],
+    "meaning": "突然死亡，结束生命",
+    "risk_hint": "表达强烈的死亡愿望，暗示自杀倾向，情绪极度绝望"
+  },
+  {
+    "surface": "去更好的世界",
+    "pinyin_key": "qugenghaodeshijie",
+    "variants": [
+      "去更好的世界"
+    ],
+    "meaning": "指自杀，认为死亡是通往更美好世界的途径",
+    "risk_hint": "明确表达自杀意图，认为死亡是解脱，情绪极度悲观，有强烈的自伤/自杀倾向"
+  },
+  {
+    "surface": "🕸️",
+    "pinyin_key": "🕸️",
+    "variants": [
+      "🕸️"
+    ],
+    "meaning": "网上（指互联网）",
+    "risk_hint": "表达无法通过线上渠道获取药物的无助和绝望"
+  },
+  {
+    "surface": "美工刀",
+    "pinyin_key": "meigongdao",
+    "variants": [
+      "美工刀"
+    ],
+    "meaning": "用于自伤的工具",
+    "risk_hint": "暗示使用美工刀进行自伤，情绪痛苦，有自伤倾向"
+  },
+  {
+    "surface": "歌手工具",
+    "pinyin_key": "geshougongju",
+    "variants": [
+      "歌手工具"
+    ],
+    "meaning": "用于自伤的工具（割手工具）",
+    "risk_hint": "暗示寻找自伤工具，情绪痛苦，有自伤倾向"
+  },
+  {
+    "surface": "格格解解",
+    "pinyin_key": "gegejiejie",
+    "variants": [
+      "格格解解"
+    ],
+    "meaning": "哥哥姐姐",
+    "risk_hint": "表达对帮助者的愧疚和依赖，暗示自杀计划中的情感挣扎"
+  },
+  {
+    "surface": "70t盐酸复习题",
+    "pinyin_key": "70tyansuanfuxiti",
+    "variants": [
+      "70t盐酸复习题"
+    ],
+    "meaning": "70片盐酸舍曲林（一种抗抑郁药物）",
+    "risk_hint": "该隐语暗示了严重的自伤/自杀倾向，表达出强烈的绝望和逃避情绪，程度极高。"
+  },
+  {
+    "surface": "霍下去",
+    "pinyin_key": "huoxiaqu",
+    "variants": [
+      "霍下去"
+    ],
+    "meaning": "跳下去（自杀）",
+    "risk_hint": "表达强烈的自杀意图，情绪极度痛苦，有自伤/自杀倾向"
+  },
+  {
+    "surface": "赏口",
+    "pinyin_key": "shangkou",
+    "variants": [
+      "赏口"
+    ],
+    "meaning": "伤口",
+    "risk_hint": "暗示自伤行为，表达对伤口的病态欣赏，可能伴随自伤倾向"
+  },
+  {
+    "surface": "报勾",
+    "pinyin_key": "baogou",
+    "variants": [
+      "报勾"
+    ],
+    "meaning": "报警",
+    "risk_hint": "表达对家长威胁报警的恐惧和焦虑"
+  },
+  {
+    "surface": "1~2~0",
+    "pinyin_key": "1~2~0",
+    "variants": [
+      "1~2~0"
+    ],
+    "meaning": "120（急救电话）",
+    "risk_hint": "暗示家长威胁使用强制医疗手段，引发恐惧"
+  },
+  {
+    "surface": "戒~网~瘾~薛晓",
+    "pinyin_key": "jie~wang~yin~xuexiao",
+    "variants": [
+      "戒~网~瘾~薛晓"
+    ],
+    "meaning": "戒网瘾学校",
+    "risk_hint": "表达对可能被送入戒网瘾学校的强烈恐惧和绝望"
+  },
+  {
+    "surface": "欧弟",
+    "pinyin_key": "oudi",
+    "variants": [
+      "欧弟"
+    ],
+    "meaning": "呕吐的谐音或代称",
+    "risk_hint": "表达强烈的恶心感和自伤冲动，暗示可能通过呕吐来缓解情绪"
+  },
+  {
+    "surface": "往死里逼",
+    "pinyin_key": "wangsilibi",
+    "variants": [
+      "往死里逼"
+    ],
+    "meaning": "被逼迫到无法承受，产生绝望感",
+    "risk_hint": "表达强烈的绝望和愤怒，暗示可能产生自伤或自杀念头"
+  },
+  {
+    "surface": "生命开始倒计时",
+    "pinyin_key": "shengmingkaishidaojishi",
+    "variants": [
+      "生命开始倒计时"
+    ],
+    "meaning": "认为自己生命即将结束，有自杀意图",
+    "risk_hint": "明确表达自杀倾向，情绪极度低落，需要紧急干预"
+  },
+  {
+    "surface": "歌到",
+    "pinyin_key": "gedao",
+    "variants": [
+      "歌到"
+    ],
+    "meaning": "割到（指用刀片等工具割伤自己）",
+    "risk_hint": "表达强烈的自伤冲动，描述自伤后情绪缓解的体验，暗示存在反复自伤行为，且有再次自伤的风险，可能发展为非自杀性自伤（NSSI）"
+  },
+  {
+    "surface": "碳蒜贝",
+    "pinyin_key": "tansuanbei",
+    "variants": [
+      "碳蒜贝"
+    ],
+    "meaning": "尝试自杀",
+    "risk_hint": "表达强烈的自杀意图，情绪极度绝望，有自伤/自杀倾向"
+  },
+  {
+    "surface": "自己的命要...",
+    "pinyin_key": "zijidemingyao...",
+    "variants": [
+      "自己的命要..."
+    ],
+    "meaning": "自己的命要结束了/活不下去了",
+    "risk_hint": "表达强烈的绝望感和自杀意念，情绪极度低落，有自伤/自杀风险"
+  },
+  {
+    "surface": "再戀下去我要重新启动地球online了",
+    "pinyin_key": "zailianxiaquwoyaochongxinqidongdiqiuonlinele",
+    "variants": [
+      "再戀下去我要重新启动地球online了"
+    ],
+    "meaning": "再这样下去我要自杀了",
+    "risk_hint": "表达强烈的绝望和自杀倾向，暗示可能采取极端行为"
+  },
+  {
+    "surface": "591",
+    "pinyin_key": "591",
+    "variants": [
+      "591"
+    ],
+    "meaning": "谐音“我就要”，可能指代自杀或自我伤害的念头，结合上下文“不要死在春天”暗示死亡相关",
+    "risk_hint": "表达强烈的自杀倾向或自伤意图，情绪极度低落，有绝望感"
+  },
+  {
+    "surface": "册掉",
+    "pinyin_key": "cediao",
+    "variants": [
+      "册掉"
+    ],
+    "meaning": "死掉",
+    "risk_hint": "表达自杀意念或自伤行为，情绪极度痛苦，有自伤/自杀倾向"
+  },
+  {
+    "surface": "睡觉感觉来不及了",
+    "pinyin_key": "shuijiaoganjuelaibujile",
+    "variants": [
+      "睡觉感觉来不及了"
+    ],
+    "meaning": "感觉生命即将结束，可能指自杀或死亡",
+    "risk_hint": "表达强烈的绝望和自杀倾向，暗示可能采取极端行为"
+  },
+  {
+    "surface": "想嘎",
+    "pinyin_key": "xiangga",
+    "variants": [
+      "想嘎"
+    ],
+    "meaning": "想死",
+    "risk_hint": "表达强烈的自杀意念，暗示自伤/自杀风险极高，情绪极度痛苦绝望"
+  },
+  {
+    "surface": "tg匿",
+    "pinyin_key": "tgni",
+    "variants": [
+      "tg匿"
+    ],
+    "meaning": "投稿匿名",
+    "risk_hint": "用户通过匿名投稿寻求帮助，暗示对自身心理状态的困惑和求助意愿"
+  },
+  {
+    "surface": "精神瘸子",
+    "pinyin_key": "jingshenquezi",
+    "variants": [
+      "精神瘸子"
+    ],
+    "meaning": "精神上的残疾或无力感，指自己无法摆脱依赖或改变现状",
+    "risk_hint": "表达强烈的自我贬低和无助感，暗示依赖病态关系，有自伤风险"
+  },
+  {
+    "surface": "精神腐子",
+    "pinyin_key": "jingshenfuzi",
+    "variants": [
+      "精神腐子"
+    ],
+    "meaning": "精神上的腐烂或堕落，指自己沉溺于病态依赖无法自拔",
+    "risk_hint": "表达自我厌恶和绝望，暗示自杀意念（希望疾病重到能跳楼）"
+  },
+  {
+    "surface": "Q",
+    "pinyin_key": "q",
+    "variants": [
+      "Q"
+    ],
+    "meaning": "强暴或性侵犯（Q为强奸的隐晦缩写）",
+    "risk_hint": "表达强烈的自我谴责和罪恶感，暗示曾实施严重暴力行为，可能伴随自伤或自杀风险"
+  },
+  {
+    "surface": "缥绷",
+    "pinyin_key": "piaobeng",
+    "variants": [
+      "缥绷"
+    ],
+    "meaning": "缥缈（原文错别字，意为虚无缥缈）",
+    "risk_hint": "非隐语，但表达灵感随痛苦消失的绝望感，情绪低落"
+  },
+  {
+    "surface": "枯稿",
+    "pinyin_key": "kugao",
+    "variants": [
+      "枯稿"
+    ],
+    "meaning": "枯槁，形容精神极度疲惫、失去活力，如同枯木一般",
+    "risk_hint": "表达严重的情绪耗竭和绝望感，可能暗示抑郁状态，但未直接指向自伤自杀"
+  },
+  {
+    "surface": "tgzc",
+    "pinyin_key": "tgzc",
+    "variants": [
+      "tgzc"
+    ],
+    "meaning": "投稿自残",
+    "risk_hint": "表达自残行为后的困扰，暗示持续的自伤倾向和痛苦情绪，风险较高"
+  },
+  {
+    "surface": "发个疯",
+    "pinyin_key": "fagefeng",
+    "variants": [
+      "发个疯"
+    ],
+    "meaning": "故意表现出精神异常行为，以引起关注或达到目的",
+    "risk_hint": "暗示通过极端行为（如自伤）来应对困境，有自伤风险"
+  },
+  {
+    "surface": "摊了几个月",
+    "pinyin_key": "tanlejigeyue",
+    "variants": [
+      "摊了几个月"
+    ],
+    "meaning": "卧床不起、情绪低落、失去活动能力的状态",
+    "risk_hint": "描述抑郁发作时的躯体化症状，暗示严重抑郁和功能丧失"
+  },
+  {
+    "surface": "把门锁卸了",
+    "pinyin_key": "bamensuoxiele",
+    "variants": [
+      "把门锁卸了"
+    ],
+    "meaning": "父母拆除了房间门锁，侵犯隐私和安全感",
+    "risk_hint": "暗示家庭环境中的控制与侵犯，加剧患者的无助和应激反应"
+  },
+  {
+    "surface": "掐我脖子",
+    "pinyin_key": "qiawobozi",
+    "variants": [
+      "掐我脖子"
+    ],
+    "meaning": "姑姑对其实施了暴力行为，掐脖子",
+    "risk_hint": "暗示家庭暴力，可能引发创伤后应激反应和自杀意念"
+  },
+  {
+    "surface": "把窗户打开",
+    "pinyin_key": "bachuanghudakai",
+    "variants": [
+      "把窗户打开"
+    ],
+    "meaning": "打开窗户准备跳楼自杀",
+    "risk_hint": "明确的自杀行为意图，高度紧急的自杀风险"
+  },
+  {
+    "surface": "软刀子",
+    "pinyin_key": "ruandaozi",
+    "variants": [
+      "软刀子"
+    ],
+    "meaning": "指班主任用言语或行为进行隐性的精神折磨，如冷暴力、讽刺、打压等",
+    "risk_hint": "表达对班主任隐性伤害的愤怒与无助，加剧抑郁和绝望情绪"
+  },
+  {
+    "surface": "功亏一簧",
+    "pinyin_key": "gongkuiyihuang",
+    "variants": [
+      "功亏一簧"
+    ],
+    "meaning": "功亏一篑",
+    "risk_hint": "表达对长期努力可能白费的恐惧，暗示绝望和无力感"
+  },
+  {
+    "surface": "想从三楼跳下去",
+    "pinyin_key": "xiangcongsanloutiaoxiaqu",
+    "variants": [
+      "想从三楼跳下去"
+    ],
+    "meaning": "表达自杀意念，想跳楼结束生命",
+    "risk_hint": "明确的自杀倾向，情绪极度不稳定，需要紧急心理干预"
+  },
+  {
+    "surface": "想不开",
+    "pinyin_key": "xiangbukai",
+    "variants": [
+      "想不开"
+    ],
+    "meaning": "想自杀",
+    "risk_hint": "表达强烈的自杀意念，情绪极度低落，有自伤行为"
+  },
+  {
+    "surface": "喝了好一大口的84",
+    "pinyin_key": "helehaoyidakoude84",
+    "variants": [
+      "喝了好一大口的84"
+    ],
+    "meaning": "喝下大量84消毒液试图自杀",
+    "risk_hint": "已实施自杀行为，有明确的自杀意图和行动，风险极高"
+  },
+  {
+    "surface": "静静的等待死亡",
+    "pinyin_key": "jingjingdedengdaisiwang",
+    "variants": [
+      "静静的等待死亡"
+    ],
+    "meaning": "等待死亡，即自杀行为后的平静等待",
+    "risk_hint": "表达对死亡的接受和绝望，自杀意图明确且已实施"
+  },
+  {
+    "surface": "三",
+    "pinyin_key": "san",
+    "variants": [
+      "三"
+    ],
+    "meaning": "死（自杀）",
+    "risk_hint": "表达自杀念头，但明确表示不想死，处于矛盾中"
+  },
+  {
+    "surface": "终止",
+    "pinyin_key": "zhongzhi",
+    "variants": [
+      "终止"
+    ],
+    "meaning": "自杀，结束生命",
+    "risk_hint": "表达强烈的自杀意念，情绪极度疲惫和绝望，有明确的自杀计划但尚未实施"
+  },
+  {
+    "surface": "tg求匿谢谢bot",
+    "pinyin_key": "tgqiunixiexiebot",
+    "variants": [
+      "tg求匿谢谢bot"
+    ],
+    "meaning": "通过Telegram匿名投稿，请求机器人隐藏身份",
+    "risk_hint": "用户因焦虑和双相障碍感到痛苦，寻求匿名倾诉，可能处于情绪危机中，但未直接表明自伤意图"
+  },
+  {
+    "surface": "腐烂",
+    "pinyin_key": "fulan",
+    "variants": [
+      "腐烂"
+    ],
+    "meaning": "在床上在房间里腐烂：指自我放弃、消极待死，像尸体一样腐烂，表达极度抑郁和自暴自弃的状态",
+    "risk_hint": "表达强烈的绝望、自暴自弃情绪，暗示可能有被动自杀倾向（希望自己像腐烂一样消亡）"
+  },
+  {
+    "surface": "陪你一起走",
+    "pinyin_key": "peiniyiqizou",
+    "variants": [
+      "陪你一起走"
+    ],
+    "meaning": "想和死去的猫一起死去，即自杀念头",
+    "risk_hint": "明确表达自杀意愿，希望结束生命与猫相伴，风险极高"
+  },
+  {
+    "surface": "血流不止",
+    "pinyin_key": "xueliubuzhi",
+    "variants": [
+      "血流不止"
+    ],
+    "meaning": "通过自伤导致持续出血",
+    "risk_hint": "表达强烈的自伤意图，可能危及生命"
+  },
+  {
+    "surface": "抗凝剂",
+    "pinyin_key": "kangningji",
+    "variants": [
+      "抗凝剂"
+    ],
+    "meaning": "用于防止血液凝固的药物，意图加剧出血",
+    "risk_hint": "暗示寻求自杀手段，风险极高"
+  },
+  {
+    "surface": "临死亡",
+    "pinyin_key": "linsiwang",
+    "variants": [
+      "临死亡"
+    ],
+    "meaning": "濒死状态",
+    "risk_hint": "表达强烈的绝望和自伤倾向，暗示自杀风险"
+  },
+  {
+    "surface": "匿bot",
+    "pinyin_key": "nibot",
+    "variants": [
+      "匿bot"
+    ],
+    "meaning": "匿名投稿账号或平台，此处指代该投稿所在的匿名账号",
+    "risk_hint": "用户通过匿名方式求助，表达对复发和父母不理解的焦虑与无助，情绪程度中等，未直接暗示自伤/自杀倾向"
+  },
+  {
+    "surface": "把舍曲林和托莫西汀全吃了",
+    "pinyin_key": "bashequlinhetuomoxitingquanchile",
+    "variants": [
+      "把舍曲林和托莫西汀全吃了"
+    ],
+    "meaning": "一次性过量服用抗抑郁药和ADHD药物，意图通过药物过量来缓解痛苦",
+    "risk_hint": "表达强烈的自伤/自杀倾向，情绪极度崩溃，有明确的药物过量意图"
+  },
+  {
+    "surface": "死高三",
+    "pinyin_key": "sigaosan",
+    "variants": [
+      "死高三"
+    ],
+    "meaning": "高三",
+    "risk_hint": "表达对高三生活的极度痛苦和绝望，暗示可能因压力导致自伤或自杀风险"
+  },
+  {
+    "surface": "口子",
+    "pinyin_key": "kouzi",
+    "variants": [
+      "口子"
+    ],
+    "meaning": "自伤造成的伤口",
+    "risk_hint": "该隐语暗示个体通过自伤行为（如划伤皮肤）来缓解情绪痛苦，存在明显的自伤倾向和成瘾性，情绪调节方式异常，需要心理干预。"
+  },
+  {
+    "surface": "想跳楼",
+    "pinyin_key": "xiangtiaolou",
+    "variants": [
+      "想跳楼"
+    ],
+    "meaning": "想从高处跳下自杀",
+    "risk_hint": "表达强烈的自杀意念，情绪极度痛苦，有自伤自杀风险"
+  },
+  {
+    "surface": "被瑞平",
+    "pinyin_key": "beiruiping",
+    "variants": [
+      "被瑞平"
+    ],
+    "meaning": "被锐评（被尖锐批评）",
+    "risk_hint": "暗示遭受严厉批评后产生创伤性记忆，导致持续痛苦和情绪低落，有自伤倾向"
+  },
+  {
+    "surface": "闹过回自杀",
+    "pinyin_key": "naoguohuizisha",
+    "variants": [
+      "闹过回自杀"
+    ],
+    "meaning": "曾经尝试过自杀行为",
+    "risk_hint": "表达强烈的绝望和自伤倾向，有实际自杀行为史，当前仍存在自杀意念"
+  },
+  {
+    "surface": "悄无声息地消得无影无踪",
+    "pinyin_key": "qiaowushengxidixiaodewuyingwuzong",
+    "variants": [
+      "悄无声息地消得无影无踪"
+    ],
+    "meaning": "自杀或自我消失，指以不引人注意的方式结束生命",
+    "risk_hint": "表达强烈的自杀意图，希望安静地死去，不给人添麻烦"
+  },
+  {
+    "surface": "以死相逼",
+    "pinyin_key": "yisixiangbi",
+    "variants": [
+      "以死相逼"
+    ],
+    "meaning": "用死亡来威胁或逼迫",
+    "risk_hint": "表达强烈的绝望和被迫感，暗示可能有自杀倾向或自伤风险"
+  },
+  {
+    "surface": "走掉",
+    "pinyin_key": "zoudiao",
+    "variants": [
+      "走掉"
+    ],
+    "meaning": "死亡或消失",
+    "risk_hint": "表达强烈的死亡愿望，暗示自杀倾向"
+  },
+  {
+    "surface": "划",
+    "pinyin_key": "hua",
+    "variants": [
+      "划"
+    ],
+    "meaning": "自残（用刀片等划伤皮肤）",
+    "risk_hint": "表达持续的自伤行为，暗示严重的自伤倾向和痛苦情绪，有自杀意念"
+  },
+  {
+    "surface": "tuo",
+    "pinyin_key": "tuo",
+    "variants": [
+      "tuo"
+    ],
+    "meaning": "脱",
+    "risk_hint": "描述被父亲暴力脱衣的创伤经历，暗示长期遭受身体和性侵犯，情绪极度痛苦，有自伤史（吞gw），但当前表达麻木，有求生欲。"
+  },
+  {
+    "surface": "不暑",
+    "pinyin_key": "bushu",
+    "variants": [
+      "不暑"
+    ],
+    "meaning": "不去死",
+    "risk_hint": "表达强烈的自杀意愿，认为必须通过死亡才能解脱，情绪极度痛苦，有明确的自杀计划（等待补考结果后实施）。"
+  },
+  {
+    "surface": "二十层跳了下去",
+    "pinyin_key": "ershicengtiaolexiaqu",
+    "variants": [
+      "二十层跳了下去"
+    ],
+    "meaning": "从二十层楼跳下自杀",
+    "risk_hint": "表达强烈的自杀意图，暗示曾尝试或考虑过跳楼自杀，存在高度自伤风险"
+  },
+  {
+    "surface": "轻微自残",
+    "pinyin_key": "qingweizican",
+    "variants": [
+      "轻微自残"
+    ],
+    "meaning": "自我伤害行为，如用刀片割伤自己",
+    "risk_hint": "表达强烈的情绪痛苦和绝望，有明确的自伤行为，暗示自杀风险升高"
+  },
+  {
+    "surface": "刀片割开的是皮肉",
+    "pinyin_key": "daopiangekaideshipirou",
+    "variants": [
+      "刀片割开的是皮肉"
+    ],
+    "meaning": "用刀片割伤自己以发泄情绪",
+    "risk_hint": "描述自伤行为，表明通过身体疼痛缓解心理痛苦，有持续自伤风险"
+  },
+  {
+    "surface": "有一群鸟在我脑子里飞",
+    "pinyin_key": "youyiqunniaozaiwonaozilifei",
+    "variants": [
+      "有一群鸟在我脑子里飞"
+    ],
+    "meaning": "形容思绪混乱、精神极度痛苦，伴有幻听或幻视症状",
+    "risk_hint": "表达严重的心理痛苦和混乱，暗示可能存在精神障碍，有自伤自杀风险"
+  },
+  {
+    "surface": "好室息",
+    "pinyin_key": "haoshixi",
+    "variants": [
+      "好室息"
+    ],
+    "meaning": "好窒息",
+    "risk_hint": "表达极度压抑、绝望的情绪，暗示自杀倾向"
+  },
+  {
+    "surface": "东苏",
+    "pinyin_key": "dongsu",
+    "variants": [
+      "东苏"
+    ],
+    "meaning": "割腕（自伤行为）",
+    "risk_hint": "表达强烈的自伤倾向，暗示曾实施割腕行为，有自杀风险"
+  },
+  {
+    "surface": "想三",
+    "pinyin_key": "xiangsan",
+    "variants": [
+      "想三"
+    ],
+    "meaning": "想死",
+    "risk_hint": "表达自杀念头，情绪极度痛苦，有自伤风险"
+  },
+  {
+    "surface": "结果",
+    "pinyin_key": "jieguo",
+    "variants": [
+      "结果"
+    ],
+    "meaning": "结束生命或自杀",
+    "risk_hint": "表达强烈的自杀意念，暗示可能采取自杀行为"
+  },
+  {
+    "surface": "妈妈带我走吧",
+    "pinyin_key": "mamadaiwozouba",
+    "variants": [
+      "妈妈带我走吧"
+    ],
+    "meaning": "请求母亲带自己离开人世，暗示自杀倾向",
+    "risk_hint": "表达强烈的绝望和自杀意念，希望结束生命与母亲团聚"
+  },
+  {
+    "surface": "让我去找你好不好",
+    "pinyin_key": "rangwoquzhaonihaobuhao",
+    "variants": [
+      "让我去找你好不好"
+    ],
+    "meaning": "请求母亲允许自己自杀，去往母亲所在的世界",
+    "risk_hint": "进一步明确自杀意图，渴望通过死亡与母亲重逢"
+  }
+]
