@@ -21,10 +21,7 @@ from copy import deepcopy
 import numpy as np
 from tqdm import tqdm
 
-# ============================================================================
 # 依赖检查
-# ============================================================================
-
 def _check_dependencies():
     missing = []
     for pkg, import_name in [
@@ -51,10 +48,8 @@ logging.basicConfig(
     datefmt="%Y-%m-%d %H:%M:%S",
 )
 logger = logging.getLogger(__name__)
-# ============================================================================
-# 1. 动态保护词构建器
-# ============================================================================
 
+# 1. 动态保护词构建器
 class DynamicProtectedWords:
     """
     从暗语证据库和样本的evidence_used字段动态构建保护词集合。
@@ -100,10 +95,8 @@ class DynamicProtectedWords:
         if not meaning:
             return []
         return [s for s in self.meaning_to_slangs.get(meaning, []) if s != slang]
-# ============================================================================
-# 2. 暗语替换增强器
-# ============================================================================
 
+# 2. 暗语替换增强器
 class SlangSubstitutionAugmenter:
     """
     利用证据库中语义相同的暗语进行互相替换。
@@ -159,10 +152,8 @@ class SlangSubstitutionAugmenter:
                 results.append(new_item)
 
         return results
-# ============================================================================
-# 3. 语义字段复用增强器
-# ============================================================================
 
+# 3. 语义字段复用增强器
 class SemanticFieldAugmenter:
     """
     利用RAG阶段已生成的语义补全字段进行数据增强。
@@ -196,22 +187,14 @@ class SemanticFieldAugmenter:
             results.append(new_item)
 
         return results
-# ============================================================================
-# 4. 离线回译增强器（argostranslate zh→en→zh）
-# ============================================================================
-
+      
+# 4. 离线回译（argostranslate zh→en→zh）
 class BackTranslationAugmenter:
     """
     对literal_meaning做离线回译（中→英→中）产生自然变体。
-
-    为什么用literal_meaning而不是原文content？
-    - content含暗语（"紫砂"），翻译引擎不认识暗语，会产生乱译
-    - literal_meaning是去暗语后的直白中文（"自杀"），翻译质量更高
-    - 回译后的文本仍然表达相同的风险含义，但遣词造句自然不同
-
     依赖: pip install argostranslate
     首次运行会自动下载中英翻译模型（约100MB）。
-    如果环境没有argostranslate，该增强器会静默跳过。
+    如果环境没有argostranslate，该增强器会跳过。
     """
 
     def __init__(self):
@@ -287,10 +270,8 @@ class BackTranslationAugmenter:
             results.append(new_item)
 
         return results
-# ============================================================================
-# 5. 平方根平衡：计算每类目标样本数
-# ============================================================================
 
+# 5. 平方根平衡：计算每类目标样本数
 def compute_sqrt_targets(class_counts: Dict[int, int]) -> Dict[int, int]:
     """
     平方根平衡 (Mahajan et al., ECCV 2018)。
@@ -306,10 +287,7 @@ def compute_sqrt_targets(class_counts: Dict[int, int]) -> Dict[int, int]:
     return targets
 
 
-# ============================================================================
 # 6. 组合增强管线
-# ============================================================================
-
 def augmentation_pipeline(
     data: List[Dict[str, Any]],
     evidence_path: Optional[str] = None,
