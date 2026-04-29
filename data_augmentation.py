@@ -1,16 +1,11 @@
 """
-数据增强策略（v3-simplified）：
+数据增强策略：
   1. 暗语互换：证据库中同义暗语互相替换（紫砂↔zs）
   2. 语义字段复用：literal_meaning作为独立样本、pragmatic拼接
   3. 离线回译：对literal_meaning做 中→英→中 回译产生自然变体
   4. 随机过采样补齐
 
-类别平衡：平方根平衡（Mahajan et al., ECCV 2018）
-  target_i = ceil(sqrt(n_i * n_max))
-
-依赖:
-  pip install jieba numpy tqdm
-  # 可选(回译): pip install argostranslate
+类别平衡：平方根平衡 target_i = ceil(sqrt(n_i * n_max))
 """
 import os
 import sys
