@@ -102,7 +102,7 @@ python llm_annotation.py --input output\20260424_202034\final_semantic_completio
 ```--llm_model``` LLM模型名称（默认: deepseek-chat）  
 ```--nli_model``` NLI模型名称（默认：MoritzLaurer/mDeBERTa-v3-base-xnli-multilingual-nli-2mil7）  
 ```--api_key``` 此处输入或在.env里设置  
-```--base_url``` LLM API Base URL（默认: https://api.deepseek.com）  
+```--base_url``` LLM API Base URL（默认: https://api.deepseek.com） 
 
 ## 模型验证 model_validation.py
 input为标注后数据（默认为annotated_risk_dataset.json），输出output/validation/validation_report_时间戳.json 
